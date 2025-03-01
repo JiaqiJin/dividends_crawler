@@ -29,19 +29,9 @@ class DividendTracker:
                 self.dividends_by_month[month] = []
                 for _, row in df.iterrows():
                     company = row["Company"]
-                    ticker = self.get_ticker(company)
+                    ticker = 1
                     dividend = Dividend(company, row["Ex-Date"], row["Pay Date"], row["Div.%"], row["Amount"], month, ticker)
                     self.dividends_by_month[month].append(dividend)
-    
-    def get_ticker(self, company_name):
-        """Searches for a company's ticker using Yahoo Finance."""
-        print(f"Company name: {company_name}")
-        results = search(company_name)
-        if results and "quotes" in results:
-            for quote in results["quotes"]:
-                if "symbol" in quote:
-                    return quote["symbol"]
-        return None
     
     def get_first_company_per_month(self):
         """Returns the first company in each month's dividend list."""
