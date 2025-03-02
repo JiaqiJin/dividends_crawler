@@ -2802,3 +2802,2888 @@ Swift Haulage Bhd (SWIF)	Mar 26, 2025	0.008		Apr 10, 2025	3.81%
 Desarrollos Especiales de Sistemas de Anclajes (DESA)	Mar 26, 2025	0.2275376		Mar 28, 2025	6.15%
 Jyske Bank (JYSK)	Mar 26, 2025	24		Mar 28, 2025	4.14%
 Transcorp Hotels (TRANSCOHOT)	Mar 26, 2025	0.64		Apr 16, 2025	0.75%
+Tuesday, April 1, 2025
+ABB ADR (ABBN)	Apr 01, 2025	0.786936		--	-
+ABB ADR (ABBNY)	Apr 01, 2025	0.786936		--	1.47%
+Agilent Technologies (A)	Apr 01, 2025	0.248		Apr 23, 2025	0.78%
+Air Products (APD)	Apr 01, 2025	1.79		May 12, 2025	2.26%
+Air Products (APD)	Apr 01, 2025	1.79		May 12, 2025	2.29%
+Air Products (APD)	Apr 01, 2025	1.79		May 12, 2025	2.29%
+Assurant (AIZN)	Apr 01, 2025	0.328125		Apr 15, 2025	-
+Bank of Nova Scotia (BNS)	Apr 01, 2025	1.06		Apr 28, 2025	5.86%
+Bank of Nova Scotia (BNS)	Apr 01, 2025	1.06		Apr 28, 2025	5.91%
+Bank of Nova Scotia (BNS)	Apr 01, 2025	1.06		Apr 28, 2025	5.93%
+Bank of Nova Scotia (BNS)	Apr 01, 2025	1.06		Apr 28, 2025	5.90%
+Bankinter (0H7O)	Apr 01, 2025	0.1000136		Apr 03, 2025	4.62%
+Bankinter (BKT)	Apr 01, 2025	0.1000136		Apr 03, 2025	4.60%
+Bankinter (BKT)	Apr 01, 2025	0.1000136		Apr 03, 2025	4.63%
+Brunswick Corp 6 500 Senior Notes Due 15 Oct 2048 (BC_pa)	Apr 01, 2025	0.4062		Apr 15, 2025	-
+Brunswick (BC_pc)	Apr 01, 2025	0.3984		Apr 15, 2025	-
+Cardinal Health (CAH)	Apr 01, 2025	0.5056		Apr 15, 2025	1.56%
+Cardinal Health (CAHm)	Apr 01, 2025	0.168533		Apr 15, 2025	1.40%
+Champion Micro (3257)	Apr 01, 2025	2		May 07, 2025	3.45%
+Choice Hotels (CHH)	Apr 01, 2025	0.2875		Apr 16, 2025	0.80%
+Comcast Corp BDR (CMCS34)	Apr 01, 2025	0.2634246		Apr 29, 2025	2.51%
+Consolidated Water (CWCO)	Apr 01, 2025	0.11		Apr 30, 2025	1.63%
+CubeSmart (CUBE)	Apr 01, 2025	0.52		Apr 15, 2025	4.89%
+E-Mart (139480)	Apr 01, 2025	2000		--	2.63%
+Encompass Health (EHC)	Apr 01, 2025	0.17		Apr 15, 2025	0.68%
+Farmland Partners (FPI)	Apr 01, 2025	0.06		Apr 15, 2025	2.05%
+Federal Agricultural Mortgage Prf G (AGM_pg)	Apr 01, 2025	0.3046875		Apr 17, 2025	6.27%
+Federal Agricultural Mortgage (AGM_pd)	Apr 01, 2025	0.35625		Apr 17, 2025	6.35%
+Federal Agricultural Mortgage (AGM_pe)	Apr 01, 2025	0.359375		Apr 17, 2025	6.28%
+Federal Agricultural Mortgage (AGM_pf)	Apr 01, 2025	0.328125		Apr 17, 2025	6.24%
+Federal Realty ADR C (FRT_pc)	Apr 01, 2025	0.3125		Apr 15, 2025	5.77%
+Federal Realty (FRT)	Apr 01, 2025	1.1		Apr 15, 2025	4.17%
+First Bancshares (FBSI)	Apr 01, 2025	0.4		Apr 15, 2025	1.59%
+Flekkefjord Sparebank (FFSB)	Apr 01, 2025	4.6		Apr 09, 2025	3.80%
+Gkl (114090)	Apr 01, 2025	222		Apr 25, 2025	2.47%
+Holmen (0XS9)	Apr 01, 2025	3		Apr 07, 2025	5.56%
+Holmen (0XS9)	Apr 01, 2025	9		Apr 07, 2025	2.13%
+Holmen (HOLMa)	Apr 01, 2025	3		Apr 07, 2025	5.66%
+Holmen (HOLMa)	Apr 01, 2025	9		Apr 07, 2025	2.17%
+Holmen (HOLMBs)	Apr 01, 2025	3		Apr 07, 2025	5.58%
+Holmen (HOLMBs)	Apr 01, 2025	9		Apr 07, 2025	2.14%
+Immorente Invest (IMO)	Apr 01, 2025	1		Apr 10, 2025	6.83%
+KC Co (029460)	Apr 01, 2025	320		Apr 15, 2025	1.64%
+KCTech (281820)	Apr 01, 2025	270		Apr 15, 2025	0.80%
+Korea District Heating (071320)	Apr 01, 2025	3879		--	7.83%
+Korea Fuel-Tech (123410)	Apr 01, 2025	150		Apr 25, 2025	3.34%
+Korean Reinsu (003690)	Apr 01, 2025	515		--	6.41%
+NAFCO Corp (3004)	Apr 01, 2025	3.02		May 02, 2025	3.02%
+NewYork Times (NYT)	Apr 01, 2025	0.18		Apr 17, 2025	1.50%
+Raymond James Financial (RJF)	Apr 01, 2025	0.5		Apr 15, 2025	1.20%
+Republic Services (R1SG34)	Apr 01, 2025	1.1347222		Apr 23, 2025	0.70%
+Rogaland Sparebank (ROGS)	Apr 01, 2025	9.5		Apr 09, 2025	7.20%
+SCG Packaging (SCGP)	Apr 01, 2025	0.3		Apr 21, 2025	4.07%
+Sheh Fung Screws (2065)	Apr 01, 2025	0.7		May 09, 2025	5.84%
+Sheh Fung Screws (2065)	Apr 01, 2025	2		May 09, 2025	5.84%
+SK Innovation Pref (096775)	Apr 01, 2025	2050		--	2.70%
+SK Innovation (096770)	Apr 01, 2025	2000		--	1.59%
+State Street (STT)	Apr 01, 2025	0.76		Apr 11, 2025	3.13%
+State Street (STT)	Apr 01, 2025	0.76		Apr 11, 2025	3.09%
+State Street (STT)	Apr 01, 2025	0.76		Apr 11, 2025	3.06%
+Stella-Jones Inc. (SJ)	Apr 01, 2025	0.31		Apr 18, 2025	1.79%
+The Andersons (ANDE)	Apr 01, 2025	0.195		Apr 22, 2025	1.82%
+Via Renewables (VIASP)	Apr 01, 2025	0.69635		Apr 15, 2025	11.66%
+Wintrust Financial Corp Pref (WTFCM)	Apr 01, 2025	0.41		Apr 15, 2025	6.51%
+Wintrust Financial (WTFCP)	Apr 01, 2025	0.42969		Apr 15, 2025	6.81%
+Wolverine (WWW)	Apr 01, 2025	0.1		May 01, 2025	2.70%
+Xerox Corp BDR (XRXB34)	Apr 01, 2025	0.4721196		May 12, 2025	4.74%
+Wednesday, April 2, 2025
+ADNOC Logistics Services (ADNOCLS)	Apr 02, 2025	0.0678		--	3.99%
+APM Terminal (APMTB)	Apr 02, 2025	0.109607		Apr 16, 2025	9.22%
+ARB Corporation (ARB)	Apr 02, 2025	0.34		Apr 17, 2025	1.79%
+Bah. Ship Repairing (BSRC)	Apr 02, 2025	0.05		Apr 16, 2025	5.00%
+Bahrain Flour Mills (BFMC)	Apr 02, 2025	0.025		Apr 16, 2025	6.94%
+Brixmor Property (BRX)	Apr 02, 2025	0.2875		Apr 15, 2025	4.11%
+Cisco Systems Inc BDR (CSCO34)	Apr 02, 2025	0.3205293		Apr 29, 2025	1.73%
+Comcast (0QYF)	Apr 02, 2025	0.33		Apr 23, 2025	2.30%
+Comcast (CMCSA)	Apr 02, 2025	0.33		Apr 23, 2025	3.68%
+Comcast (CMCSA)	Apr 02, 2025	0.33		Apr 23, 2025	3.70%
+Comcast (CMCSA)	Apr 02, 2025	0.33		Apr 23, 2025	3.69%
+Daewonkangup (000430)	Apr 02, 2025	110		Apr 25, 2025	2.94%
+Delmon Poultry Co (DPCB)	Apr 02, 2025	0.014		Apr 10, 2025	7.18%
+Doosan Co (000157)	Apr 02, 2025	2000		--	1.59%
+Doosan Pref Shs (000155)	Apr 02, 2025	2050		--	1.43%
+Doosan (000150)	Apr 02, 2025	2000		Apr 30, 2025	0.62%
+ESCO Technologies (ESE)	Apr 02, 2025	0.08		Apr 17, 2025	0.19%
+Eusu Holdings (000700)	Apr 02, 2025	350		--	6.46%
+Fortum (0HAH)	Apr 02, 2025	0.5		Apr 10, 2025	13.14%
+Fortum (0HAH)	Apr 02, 2025	0.9		Apr 10, 2025	6.00%
+Fortum (FORTUM)	Apr 02, 2025	0.5		Apr 10, 2025	13.05%
+Fortum (FORTUM)	Apr 02, 2025	0.9		Apr 10, 2025	5.96%
+FSecure Oyj (FSECURE)	Apr 02, 2025	0.02		Apr 10, 2025	3.33%
+GENORAY (122310)	Apr 02, 2025	180		Apr 24, 2025	3.17%
+Handsome (020000)	Apr 02, 2025	750		--	4.69%
+Harvey Norman Holdings (HVN)	Apr 02, 2025	0.12		May 01, 2025	4.60%
+Hyundai Department (069960)	Apr 02, 2025	1400		--	2.45%
+Hyundai Everdigm (041440)	Apr 02, 2025	70		Apr 18, 2025	0.76%
+Hyundai Ezwel (090850)	Apr 02, 2025	170		Apr 21, 2025	3.31%
+Hyundai Green Food (005440)	Apr 02, 2025	210		--	3.85%
+Hyundai Green Food (453340)	Apr 02, 2025	335		--	2.44%
+Hyundai Home Shopping Network (057050)	Apr 02, 2025	2800		--	5.37%
+Hyundai Livart Furniture (079430)	Apr 02, 2025	130		--	1.75%
+Ina Invest Holding (INAI)	Apr 02, 2025	0.2		Apr 04, 2025	0.93%
+Itau Unibanco Holding (ITUBm)	Apr 02, 2025	0.00285		May 09, 2025	6.99%
+Itau Unibanco (ITUB)	Apr 02, 2025	0.0024229		May 09, 2025	0.53%
+Itau Unibanco (ITUBN)	Apr 02, 2025	0.0024229		May 09, 2025	7.54%
+KPF (024880)	Apr 02, 2025	150		Apr 25, 2025	3.65%
+Mobimo Holding (MOBN)	Apr 02, 2025	5.125		Apr 04, 2025	1.66%
+Mobimo Holding (MOBN)	Apr 02, 2025	5.125		Apr 04, 2025	3.33%
+Mondi (MNPJ)	Apr 02, 2025	901.4193		May 16, 2025	4.76%
+Motus (MTHJ)	Apr 02, 2025	240		Apr 07, 2025	5.79%
+Rak Ceramics (RAKCEC)	Apr 02, 2025	0.1		--	8.00%
+Republic Services (RSG)	Apr 02, 2025	0.58		Apr 15, 2025	0.98%
+Republic Services (RSGU)	Apr 02, 2025	0.58		Apr 15, 2025	0.99%
+S-Oil Pref (010955)	Apr 02, 2025	25		--	0.40%
+SEB A (0HBY)	Apr 02, 2025	3		Apr 08, 2025	6.65%
+SEB A (0HBY)	Apr 02, 2025	8.5		Apr 08, 2025	4.92%
+SEB A (1SEBA)	Apr 02, 2025	3		Apr 08, 2025	6.64%
+SEB A (1SEBA)	Apr 02, 2025	8.5		Apr 08, 2025	4.91%
+SEB A (SEBa)	Apr 02, 2025	3		Apr 08, 2025	6.66%
+SEB A (SEBa)	Apr 02, 2025	8.5		Apr 08, 2025	4.92%
+SEB C (SEBCs)	Apr 02, 2025	3		Apr 08, 2025	1.82%
+SEB C (SEBCs)	Apr 02, 2025	8.5		Apr 08, 2025	5.17%
+SGS (SGSN)	Apr 02, 2025	3.2		Apr 24, 2025	3.46%
+Siam Cement DRC (SCC_n)	Apr 02, 2025	2.5		Apr 22, 2025	3.92%
+Siam Cement (SCC)	Apr 02, 2025	2.5		Apr 22, 2025	3.92%
+Trafco BSC (GTFP)	Apr 02, 2025	0.018		Apr 17, 2025	6.10%
+Turk Traktor (TTRAK)	Apr 02, 2025	48.467587		Apr 04, 2025	11.34%
+Woojin Plaimm (049800)	Apr 02, 2025	50		--	2.49%
+Zinus (013890)	Apr 02, 2025	90		Apr 18, 2025	0.49%
+Thursday, April 3, 2025
+AB SKF (SKFRY)	Apr 03, 2025	0.584607		--	2.72%
+Al Qaiwain Cement (QIC)	Apr 03, 2025	0.06		--	5.77%
+Al Qaiwain Cement (QIC)	Apr 03, 2025	0.06		--	5.71%
+Barratt Redrow (BTRW)	Apr 03, 2025	5.5		May 16, 2025	4.05%
+Brandywine (BDN)	Apr 03, 2025	0.15		Apr 17, 2025	11.88%
+CAB Cakaran Corp (CABC)	Apr 03, 2025	0.01		Apr 18, 2025	2.02%
+Campbell Soup (CPB)	Apr 03, 2025	0.39		Apr 28, 2025	3.89%
+Celsia (CEL)	Apr 03, 2025	150		Apr 09, 2025	16.22%
+Cisco Systems DRC (CSCO)	Apr 03, 2025	0.202303		Apr 30, 2025	2.56%
+Cisco Systems DRC (CSCOm)	Apr 03, 2025	0.082		Apr 23, 2025	2.25%
+Cisco (0R0K)	Apr 03, 2025	0.41		Apr 23, 2025	2.59%
+Cisco (CSCO)	Apr 03, 2025	0.41		Apr 23, 2025	2.56%
+Cisco (CSCO)	Apr 03, 2025	0.41		Apr 23, 2025	2.60%
+Cisco (CSCO)	Apr 03, 2025	0.41		Apr 23, 2025	2.80%
+Cisco (CSCO)	Apr 03, 2025	0.41		Apr 23, 2025	2.60%
+Cisco (CSCO)	Apr 03, 2025	0.41		Apr 23, 2025	2.60%
+CJ Corp (001040)	Apr 03, 2025	3000		--	2.92%
+CJ Corp (00104K)	Apr 03, 2025	3000		--	3.55%
+CJ Freshway (051500)	Apr 03, 2025	450		--	2.09%
+Cj (001045)	Apr 03, 2025	3050		--	5.08%
+Clime Capital Ltd (CAM)	Apr 03, 2025	0.0135		Apr 24, 2025	7.01%
+Elisa Oyj (0I8Y)	Apr 03, 2025	1.18		Apr 11, 2025	5.16%
+Elisa Oyj (ELISA)	Apr 03, 2025	1.18		Apr 11, 2025	5.19%
+Emaar Properties (EMAR)	Apr 03, 2025	1		--	7.38%
+Esterad Investment (EICB)	Apr 03, 2025	0.015		Apr 17, 2025	6.52%
+Globe Life (GL)	Apr 03, 2025	0.27		May 01, 2025	0.85%
+Globe Life (TMJ)	Apr 03, 2025	0.27		May 01, 2025	0.87%
+Idox (IDOX)	Apr 03, 2025	0.7		Apr 17, 2025	1.22%
+IMI PLC (IMI)	Apr 03, 2025	21.1		May 16, 2025	1.55%
+InterContinental (IHG)	Apr 03, 2025	1.144		May 15, 2025	-
+Intershop Holding AG (ISN)	Apr 03, 2025	5.5		Apr 07, 2025	3.97%
+Lindsay Australia Ltd (LAU)	Apr 03, 2025	0.023		Apr 17, 2025	8.23%
+Match Group (MTC2)	Apr 03, 2025	0.19		Apr 17, 2025	2.43%
+Match Group (MTCH)	Apr 03, 2025	0.19		Apr 17, 2025	2.40%
+Mondi (KYC0)	Apr 03, 2025	0.4667		May 16, 2025	-
+Mondi (MNDI)	Apr 03, 2025	0.4667		May 16, 2025	-
+National Bank Bahrain (NATB)	Apr 03, 2025	0.025		Apr 15, 2025	7.07%
+National Central Cooling (TABR)	Apr 03, 2025	0.155		--	5.62%
+National Hotels Co (NHTL)	Apr 03, 2025	0.015		Apr 17, 2025	6.82%
+Oricom (010470)	Apr 03, 2025	270		Apr 25, 2025	3.58%
+Ridley Corp (RIC)	Apr 03, 2025	0.0475		Apr 24, 2025	3.57%
+Ridley Corp (RIC)	Apr 03, 2025	0.0475		Apr 24, 2025	3.70%
+Rockwool Int. A (ROCKa)	Apr 03, 2025	63		Apr 07, 2025	2.25%
+Rockwool Int. B (ROCKb)	Apr 03, 2025	63		Apr 07, 2025	2.23%
+Simpson Manufacturing (SSD)	Apr 03, 2025	0.28		Apr 24, 2025	0.64%
+Taaleri (TAALA)	Apr 03, 2025	0.25		Apr 11, 2025	3.23%
+Volvo A (VOLVAs)	Apr 03, 2025	8		Apr 09, 2025	2.56%
+Volvo A (VOLVAs)	Apr 03, 2025	10.5		Apr 09, 2025	5.93%
+Volvo B (0HTP)	Apr 03, 2025	8		Apr 09, 2025	2.40%
+Volvo B (0HTP)	Apr 03, 2025	10.5		Apr 09, 2025	5.56%
+Volvo B (VOLVb)	Apr 03, 2025	8		Apr 09, 2025	2.40%
+Volvo B (VOLVb)	Apr 03, 2025	10.5		Apr 09, 2025	5.56%
+Volvo B (VOLVB)	Apr 03, 2025	8		Apr 09, 2025	2.37%
+Volvo B (VOLVB)	Apr 03, 2025	10.5		Apr 09, 2025	5.47%
+Wabash National (WNC)	Apr 03, 2025	0.08		Apr 24, 2025	2.73%
+	Airtel Uganda (AIRTEL)	Apr 04, 2025	2.5		Apr 28, 2025	8.73%
+Aktia Bank (AKTIA)	Apr 04, 2025	0.82		Apr 14, 2025	7.90%
+Al Dhafra Insurance Company PSC (DHAFRA)	Apr 04, 2025	0.35		--	6.48%
+Aurubis AG (0K7F)	Apr 04, 2025	1.5		Apr 08, 2025	1.81%
+Aurubis AG (NAFG)	Apr 04, 2025	1.5		Apr 08, 2025	1.80%
+Aurubis AG (NAFG)	Apr 04, 2025	1.5		Apr 08, 2025	1.80%
+ChampionX Corp (CHX)	Apr 04, 2025	0.095		Apr 25, 2025	1.28%
+Consti Yhtiot Oy (CONSTI)	Apr 04, 2025	0.35		Apr 14, 2025	6.54%
+E I du Pont de Nemours Pa Pref (CTA_pa)	Apr 04, 2025	0.875		Apr 25, 2025	5.93%
+E I Du Pont De Nemours Pref (CTA_pb)	Apr 04, 2025	1.125		Apr 25, 2025	6.15%
+Emaar Develop (EMAARDEV)	Apr 04, 2025	0.68		--	5.27%
+ESAB Corp (ESAB)	Apr 04, 2025	0.08		Apr 17, 2025	0.26%
+FFI Holdings Ltd (FFI)	Apr 04, 2025	0.1		Apr 17, 2025	5.40%
+Gas Malaysia (GASM)	Apr 04, 2025	0.096		Apr 25, 2025	5.93%
+Grupo Security (SECURITY)	Apr 04, 2025	22.5		Apr 09, 2025	15.66%
+GT Capital Pref B (GTPPB)	Apr 04, 2025	12.73725		Apr 28, 2025	5.25%
+Hannon Armstrong Sustainable (HASI)	Apr 04, 2025	0.42		Apr 18, 2025	5.85%
+Indutrade AB (INDT)	Apr 04, 2025	3		Apr 10, 2025	0.98%
+Indutrade AB (INDTs)	Apr 04, 2025	3		Apr 10, 2025	1.11%
+Link Prop Investment publ AB (LINKAB)	Apr 04, 2025	2		Apr 10, 2025	5.48%
+Morningstar (MORN)	Apr 04, 2025	0.455		Apr 30, 2025	0.58%
+NetApp (0K6F)	Apr 04, 2025	0.52		Apr 23, 2025	2.12%
+NetApp (NTAP)	Apr 04, 2025	0.52		Apr 23, 2025	2.02%
+Orion Oyj A (ORNAV)	Apr 04, 2025	0.82		Apr 14, 2025	3.05%
+Orion Oyj B (0M2O)	Apr 04, 2025	0.82		Apr 14, 2025	3.02%
+Orion Oyj B (ORNBV)	Apr 04, 2025	0.82		Apr 14, 2025	3.01%
+Outokumpu Oyj (OUT1V)	Apr 04, 2025	0.13		Apr 14, 2025	3.64%
+Pareto Bank (PARB)	Apr 04, 2025	4.15		Apr 14, 2025	5.44%
+Quest Diagnostics (Q1UE34)	Apr 04, 2025	1.5854054		Apr 25, 2025	1.27%
+Royal Gold (0KXS)	Apr 04, 2025	0.45		Apr 17, 2025	1.24%
+Royal Gold (RGLD)	Apr 04, 2025	0.45		Apr 17, 2025	1.24%
+Sahamitr Pressure (SMPC)	Apr 04, 2025	0.27		Apr 30, 2025	7.44%
+Sysco (SYY)	Apr 04, 2025	0.51		Apr 25, 2025	2.72%
+Sysco (SYY)	Apr 04, 2025	0.51		Apr 25, 2025	2.70%
+TH Plantations (THPB)	Apr 04, 2025	0.03		May 02, 2025	5.04%
+Volvo ADR (VLVLY)	Apr 04, 2025	0.8115843		Apr 24, 2025	2.64%
+Volvo ADR (VLVLY)	Apr 04, 2025	0.5428504		Apr 24, 2025	1.77%
+Vontobel Holding (VONN)	Apr 04, 2025	3		Apr 08, 2025	4.52%
+Yuanta Securities DRC (DBS19x)	Apr 04, 2025	0.1477		Apr 21, 2025	2.39%
+Sunday, April 6, 2025
+Beyon BSC (BEYON)	Apr 06, 2025	0.019		Apr 21, 2025	6.53%
+Monday, April 7, 2025
+AB SA (ABEP)	Apr 07, 2025	3		Apr 15, 2025	2.86%
+Cisco (4333)	Apr 07, 2025	0.41		Apr 23, 2025	5.11%
+DBS (DBSM)	Apr 07, 2025	0.6		Apr 16, 2025	4.84%
+Duxton Water (D2O)	Apr 07, 2025	0.0371		Apr 24, 2025	5.63%
+Edison (EIX)	Apr 07, 2025	0.8275		Apr 30, 2025	6.08%
+Escalade (ESCA)	Apr 07, 2025	0.15		Apr 14, 2025	3.94%
+Fu Shou Yuan Int (1448)	Apr 07, 2025	0.1724		Apr 25, 2025	12.26%
+National Bank of Canada 40 (NA_pe)	Apr 07, 2025	0.363625		May 15, 2025	5.80%
+National Bank of Canada 42 (NA_pg)	Apr 07, 2025	0.441		May 15, 2025	6.72%
+National Bank of Canada Pref S (NA_ps)	Apr 07, 2025	0.3869375		May 15, 2025	6.09%
+National Bank Of Kuwait Sak (NBKK)	Apr 07, 2025	0.025		Apr 13, 2025	3.40%
+Naturgy Energy (0NPV)	Apr 07, 2025	0.486		Apr 09, 2025	5.17%
+Naturgy Energy (GAS)	Apr 07, 2025	0.486		Apr 09, 2025	5.16%
+Naturgy Energy (NTGY)	Apr 07, 2025	0.486		Apr 09, 2025	5.18%
+NBC (NA_pc)	Apr 07, 2025	0.4391875		May 15, 2025	6.69%
+OGE Energy (OGE)	Apr 07, 2025	0.42125		Apr 25, 2025	3.64%
+PSP Swiss Property (PSPN)	Apr 07, 2025	3.9		Apr 09, 2025	2.93%
+Quest Diagnostics (DGX)	Apr 07, 2025	0.8		Apr 21, 2025	1.85%
+SCA A (SCAAs)	Apr 07, 2025	3		Apr 11, 2025	1.91%
+SCA B (0MCK)	Apr 07, 2025	3		Apr 11, 2025	2.04%
+SCA B (SCAb)	Apr 07, 2025	3		Apr 11, 2025	2.04%
+Shine Corporate (SHJ)	Apr 07, 2025	0.015		Apr 24, 2025	7.86%
+Solnaberg Property (SOLNA)	Apr 07, 2025	1.5		Apr 11, 2025	5.48%
+Tick Trading Software (TBX0)	Apr 07, 2025	0.5		Apr 09, 2025	5.78%
+Zehnder (ZEHN)	Apr 07, 2025	1		Apr 09, 2025	1.86%
+Tuesday, April 8, 2025
+Afyon Cimento (AFYON)	Apr 08, 2025	1		Apr 10, 2025	6.80%
+Akva Group (AKVA)	Apr 08, 2025	1		Apr 15, 2025	1.65%
+ATP30 (ATP30m)	Apr 08, 2025	0.03		Apr 25, 2025	3.41%
+BBVA (BBVA)	Apr 08, 2025	0.3321		Apr 10, 2025	4.42%
+BBVA (BBVA)	Apr 08, 2025	0.3321		Apr 10, 2025	4.44%
+BBVA (BBVA)	Apr 08, 2025	0.3321		Apr 10, 2025	4.44%
+BBVA (BBVA)	Apr 08, 2025	0.3321		Apr 10, 2025	4.50%
+BBVA (BBVA)	Apr 08, 2025	0.3321		Apr 10, 2025	4.42%
+BBVA (BVAB)	Apr 08, 2025	0.3321		Apr 10, 2025	4.33%
+Boubyan Bank K.S.C (BOUK)	Apr 08, 2025	0.01		--	1.49%
+CP Axtra Public (CPAXT)	Apr 08, 2025	0.53		Apr 24, 2025	1.84%
+Dynasty Ceramic (DCC)	Apr 08, 2025	0.02		Apr 30, 2025	6.50%
+Gap (GPSI34)	Apr 08, 2025	0.6446297		May 07, 2025	1.96%
+Kuwait Finance (KFH)	Apr 08, 2025	0.012		Apr 15, 2025	2.75%
+Mabanee (MABK)	Apr 08, 2025	0.014		Apr 23, 2025	1.69%
+Main Street Capital (MAIN)	Apr 08, 2025	0.25		Apr 15, 2025	4.93%
+Manhattan Bridge (LOAN)	Apr 08, 2025	0.115		Apr 15, 2025	8.24%
+Mastercard (1MA)	Apr 08, 2025	0.76		May 09, 2025	0.54%
+Poh Huat Resources (PHUA)	Apr 08, 2025	0.02		Apr 25, 2025	6.40%
+Saratoga Investment Corp (SAR)	Apr 08, 2025	0.25		Apr 24, 2025	11.54%
+Signaux Girod (ALGIR)	Apr 08, 2025	1.5		Apr 10, 2025	9.09%
+Skanska B (0HBT)	Apr 08, 2025	8		Apr 14, 2025	3.16%
+Skanska B (SKAb)	Apr 08, 2025	8		Apr 14, 2025	3.14%
+Skanska B (SKAB)	Apr 08, 2025	8		Apr 14, 2025	3.47%
+Sparebank 1 Nord-Norge (0J1N)	Apr 08, 2025	8.75		Apr 15, 2025	6.62%
+Sparebank 1 Nord-Norge (NONG)	Apr 08, 2025	8.75		Apr 15, 2025	6.59%
+Sylvamo (SLVM)	Apr 08, 2025	0.45		Apr 29, 2025	2.53%
+Wednesday, April 9, 2025
+AECI (AFEJ)	Apr 09, 2025	219		Apr 14, 2025	2.31%
+Brady (BRC)	Apr 09, 2025	0.24		Apr 30, 2025	1.32%
+Gap (GAP)	Apr 09, 2025	0.165		Apr 30, 2025	2.92%
+Gap (GAP1)	Apr 09, 2025	0.165		Apr 30, 2025	2.95%
+General Mills (G1MI34)	Apr 09, 2025	2.3916901		May 07, 2025	2.78%
+Gentex (GNTX)	Apr 09, 2025	0.12		Apr 23, 2025	1.97%
+Grand Prix DRC (GPI_n)	Apr 09, 2025	0.07		Apr 28, 2025	9.88%
+Grand Prix (GPI)	Apr 09, 2025	0.07		Apr 28, 2025	9.88%
+Grupo Bolivar (SCA)	Apr 09, 2025	228		Apr 15, 2025	3.85%
+Harvia Oyj (0ABF)	Apr 09, 2025	0.38		Apr 17, 2025	2.30%
+Harvia Oyj (HARVIA)	Apr 09, 2025	0.38		Apr 17, 2025	2.30%
+InterDigital (IDCC)	Apr 09, 2025	0.6		Apr 23, 2025	1.12%
+Kite Realty (KRG)	Apr 09, 2025	0.27		Apr 16, 2025	4.71%
+Kuwait Finance (KFH)	Apr 09, 2025	0.012		Apr 15, 2025	2.64%
+LHN (1730)	Apr 09, 2025	0.0578		May 30, 2025	5.93%
+LHN (LHNL)	Apr 09, 2025	0.01		May 30, 2025	6.52%
+Lincoln National (L1NC34)	Apr 09, 2025	1.7358097		May 07, 2025	3.09%
+MasterCard Inc BDR (MSCD34)	Apr 09, 2025	0.0938875		May 16, 2025	0.35%
+Mastercard (MA)	Apr 09, 2025	0.76		May 09, 2025	0.53%
+Mastercard (MA)	Apr 09, 2025	0.76		May 09, 2025	0.54%
+Mastercard (MA)	Apr 09, 2025	0.76		May 09, 2025	0.54%
+Mastercard (MA)	Apr 09, 2025	0.76		May 09, 2025	0.57%
+Mastercard (MA)	Apr 09, 2025	0.76		May 09, 2025	0.54%
+Mastercard (MAm)	Apr 09, 2025	0.02303		May 09, 2025	0.46%
+Oma Saastopankki (OMASP)	Apr 09, 2025	0.36		Apr 17, 2025	3.87%
+Siili Solutions Oyj (SIILI)	Apr 09, 2025	0.18		Apr 17, 2025	2.93%
+Sleep Cycle AB (SLEEP)	Apr 09, 2025	1.15		Apr 15, 2025	6.51%
+Sleep Cycle AB (SLEEP)	Apr 09, 2025	1.85		Apr 15, 2025	4.01%
+Sparebank 1 Nordvest (SNOR)	Apr 09, 2025	8.5		Apr 16, 2025	5.15%
+Vestas Wind (0NMK)	Apr 09, 2025	0.55		Apr 11, 2025	0.54%
+Vestas Wind (VWS)	Apr 09, 2025	0.55		Apr 11, 2025	0.54%
+Vestas Wind (VWSB)	Apr 09, 2025	0.55		Apr 11, 2025	0.54%
+Vestas Wind (VWSB)	Apr 09, 2025	0.55		Apr 11, 2025	0.54%
+Walter Meier (METG)	Apr 09, 2025	0.8		Apr 11, 2025	2.80%
+Walter Meier (METG)	Apr 09, 2025	0.8		Apr 11, 2025	5.59%
+Thursday, April 10, 2025
+Aviva (AV)	Apr 10, 2025	23.8		May 22, 2025	6.56%
+Aviva (GU81)	Apr 10, 2025	23.8		May 22, 2025	6.51%
+Bangkok Lab Cosmatic PCL (BLC)	Apr 10, 2025	0.09		Apr 30, 2025	3.55%
+Begbies Traynor (BEG)	Apr 10, 2025	1.4		May 07, 2025	4.46%
+Blackfinch Spring VCT (BFSP)	Apr 10, 2025	2.5		May 09, 2025	5.15%
+Cadence Capital Ltd (CDM)	Apr 10, 2025	0.015		Apr 30, 2025	8.82%
+Cadence Capital Ltd (CDM)	Apr 10, 2025	0.015		Apr 30, 2025	8.82%
+Cadence Opportunities Fund (CDO)	Apr 10, 2025	0.065		Apr 30, 2025	8.04%
+Cosol (COS)	Apr 10, 2025	0.01		May 12, 2025	2.69%
+Croda Intl (CRDA)	Apr 10, 2025	63		May 28, 2025	3.33%
+Deutsche Telekom AG (0MPH)	Apr 10, 2025	0.9		Apr 14, 2025	2.59%
+Deutsche Telekom AG (DTE)	Apr 10, 2025	0.9		Apr 14, 2025	2.59%
+Deutsche Telekom AG (DTE)	Apr 10, 2025	0.9		Apr 14, 2025	-
+Deutsche Telekom AG (DTEG)	Apr 10, 2025	0.9		Apr 14, 2025	2.63%
+Deutsche Telekom AG (DTEGn)	Apr 10, 2025	0.9		Apr 14, 2025	2.59%
+Deutsche Telekom AG (DTEGn)	Apr 10, 2025	0.9		Apr 14, 2025	2.59%
+Deutsche Telekom AG (DTEN)	Apr 10, 2025	0.9		Apr 14, 2025	2.65%
+Digitalbridge Group Inc Pref J (DBRG_pj)	Apr 10, 2025	0.4453125		Apr 15, 2025	7.18%
+Digitalbridge Group Pref H (DBRG_ph)	Apr 10, 2025	0.4453125		Apr 15, 2025	7.08%
+Digitalbridge Group Pref I (DBRG_pi)	Apr 10, 2025	0.446875		Apr 15, 2025	7.22%
+Eagle Point Credit Company (ECCC)	Apr 10, 2025	0.135417		Apr 30, 2025	7.02%
+Eagle Point Credit Prf D (ECC_pd)	Apr 10, 2025	0.140625		Apr 30, 2025	8.37%
+Eagle Point Cred (ECC)	Apr 10, 2025	0.14		Apr 30, 2025	19.18%
+Eagle Point Income (EIC)	Apr 10, 2025	0.2		Apr 30, 2025	15.09%
+Eagle Point Prf A (EICA)	Apr 10, 2025	0.104167		Apr 30, 2025	5.18%
+General Mills (GIS)	Apr 10, 2025	0.6		May 01, 2025	3.98%
+General Mills (GIS)	Apr 10, 2025	0.6		May 01, 2025	3.96%
+General Mills (GIS)	Apr 10, 2025	0.6		May 01, 2025	3.99%
+Global Connections (GC)	Apr 10, 2025	0.2		Apr 30, 2025	8.03%
+Gruma SAB de CV (GRUMAB)	Apr 10, 2025	1.26		Apr 11, 2025	1.42%
+Howden Joinery (HWDN)	Apr 10, 2025	16.3		May 23, 2025	2.74%
+Intl Personal Finance (IPF)	Apr 10, 2025	8		May 12, 2025	8.74%
+Intl Personal Finance (IPF)	Apr 10, 2025	8		May 12, 2025	8.69%
+JM AB (0MI3)	Apr 10, 2025	3.25		Apr 16, 2025	2.14%
+JM AB (JMs)	Apr 10, 2025	3.25		Apr 16, 2025	2.07%
+Kerry Group (KYGa)	Apr 10, 2025	0.89		May 09, 2025	1.29%
+Kerry Group (KYGAl)	Apr 10, 2025	0.89		May 09, 2025	1.27%
+Kingspan (0KGP)	Apr 10, 2025	0.285		May 21, 2025	0.70%
+Krungdhep Sophon (KWC)	Apr 10, 2025	12.5		Apr 30, 2025	4.11%
+Lincoln National (LNC)	Apr 10, 2025	0.45		May 01, 2025	4.62%
+Lloyds Banking Group (L1YG34)	Apr 10, 2025	0.5661117		Jun 05, 2025	3.85%
+Lloyds Banking (LLOY)	Apr 10, 2025	2.11		May 20, 2025	4.34%
+Lloyds Banking (LLOY)	Apr 10, 2025	2.11		May 20, 2025	4.32%
+Man Group (EMG)	Apr 10, 2025	0.116		May 21, 2025	-
+Medicare (MCGS)	Apr 10, 2025	0.198		--	4.54%
+Moneysupermarket (MONY)	Apr 10, 2025	9.2		May 16, 2025	6.72%
+Moneysupermarket (MONY)	Apr 10, 2025	9.2		May 16, 2025	6.40%
+Morgan Materials (MGAMM)	Apr 10, 2025	6.8		May 13, 2025	8.81%
+Onex Corp (ONEX)	Apr 10, 2025	0.1		Apr 30, 2025	0.37%
+Onex Corp (ONEXF)	Apr 10, 2025	0.0704052		Apr 30, 2025	0.38%
+Pandox AB (PANDXb)	Apr 10, 2025	4.25		Apr 16, 2025	2.13%
+Pandox AB (PNDXBs)	Apr 10, 2025	4.25		Apr 16, 2025	2.10%
+Rathbones (RAT)	Apr 10, 2025	63		May 13, 2025	5.78%
+Serco (SRP)	Apr 10, 2025	2.82		May 09, 2025	2.55%
+St. James’s Place (1IV)	Apr 10, 2025	12		May 23, 2025	2.41%
+St. James’s Place (SJP)	Apr 10, 2025	12		May 23, 2025	2.46%
+Storebrand (0NO0)	Apr 10, 2025	4.7		Apr 24, 2025	3.84%
+Storebrand (STB)	Apr 10, 2025	4.7		Apr 24, 2025	3.84%
+Telia Company (0H6X)	Apr 10, 2025	0.5		Apr 16, 2025	5.71%
+Telia Company (TELIA)	Apr 10, 2025	0.5		Apr 16, 2025	5.71%
+Telia Company (TELIA1)	Apr 10, 2025	0.5		Apr 16, 2025	5.71%
+Telia Company (TLIA)	Apr 10, 2025	0.5		Apr 16, 2025	5.78%
+Toronto Dominion Bank (TD)	Apr 10, 2025	1.05		Apr 30, 2025	4.85%
+Toronto Dominion Bank (TD)	Apr 10, 2025	1.05		Apr 30, 2025	4.85%
+Trinseo SA (TSE)	Apr 10, 2025	0.01		Apr 24, 2025	0.81%
+Vipshop Holdings (V1IP34)	Apr 10, 2025	1.2836622		May 02, 2025	2.97%
+Yuanda China (2789)	Apr 10, 2025	0.04		Apr 23, 2025	25.97%
+Friday, April 11, 2025
+Advance Auto Parts DRC (AAPm)	Apr 11, 2025	0.017857		Apr 25, 2025	2.40%
+Advance Auto Parts (AAP)	Apr 11, 2025	0.25		Apr 25, 2025	2.71%
+Advance Auto Parts (AWN)	Apr 11, 2025	0.25		Apr 25, 2025	2.67%
+Ahold Delhaize (0RI8)	Apr 11, 2025	0.67		Apr 24, 2025	3.44%
+Ahold Delhaize (AD)	Apr 11, 2025	0.67		Apr 24, 2025	3.44%
+Ahold Delhaize (AD)	Apr 11, 2025	0.67		Apr 24, 2025	3.44%
+Ahold Delhaize (AD)	Apr 11, 2025	0.67		Apr 24, 2025	3.45%
+Ahold Delhaize (AHOG)	Apr 11, 2025	0.67		Apr 24, 2025	3.44%
+Alm. Brand (0DJI)	Apr 11, 2025	0.6		Apr 15, 2025	3.72%
+Alm. Brand (ALMB)	Apr 11, 2025	0.6		Apr 15, 2025	3.71%
+Apetit (APETIT)	Apr 11, 2025	0.75		Apr 23, 2025	5.28%
+Banpu DRC (BANPt)	Apr 11, 2025	0.12		Apr 30, 2025	8.21%
+Banpu DRC (BANPU_n)	Apr 11, 2025	0.12		Apr 30, 2025	7.25%
+Banpu F (BANPU_f)	Apr 11, 2025	0.12		Apr 30, 2025	4.92%
+Banpu Power (BPP)	Apr 11, 2025	0.3		Apr 28, 2025	8.51%
+Banpu (BANPU)	Apr 11, 2025	0.12		Apr 30, 2025	7.25%
+Borregaard (BRGB)	Apr 11, 2025	4.25		Apr 23, 2025	2.28%
+Cloetta B (0N7X)	Apr 11, 2025	1		Apr 17, 2025	3.62%
+Cloetta B (CLABs)	Apr 11, 2025	1		Apr 17, 2025	3.49%
+Cloetta B (CLOEb)	Apr 11, 2025	1		Apr 17, 2025	3.61%
+CRISIL (CRSL)	Apr 11, 2025	26		May 06, 2025	1.28%
+Dinkelacker (DWBG)	Apr 11, 2025	12		Apr 15, 2025	2.94%
+Dinkelacker (DWBG)	Apr 11, 2025	20		Apr 15, 2025	1.83%
+Gyldendal A (GYLDa)	Apr 11, 2025	20		Apr 15, 2025	1.45%
+Gyldendal B (GYLDb)	Apr 11, 2025	20		Apr 15, 2025	5.99%
+HSBC Bank Malta (HSB)	Apr 11, 2025	0.12		May 20, 2025	14.01%
+Industrivarden A (0H13)	Apr 11, 2025	8.25		Apr 17, 2025	2.02%
+Industrivarden A (INDUAs)	Apr 11, 2025	8.25		Apr 17, 2025	2.26%
+Industrivarden C (0MHU)	Apr 11, 2025	8.25		Apr 17, 2025	2.05%
+Industrivarden C (INDUc)	Apr 11, 2025	8.25		Apr 17, 2025	2.03%
+Investors House (INVEST)	Apr 11, 2025	0.35		Apr 23, 2025	6.32%
+Lloyds Banking ADR (LYG)	Apr 11, 2025	0.101433		May 30, 2025	4.15%
+Lloyds Banking ADR (LYGN)	Apr 11, 2025	0.101433		May 30, 2025	5.14%
+Lloyds Banking Group (LYGm)	Apr 11, 2025	0.051752		May 30, 2025	3.52%
+Malta International Airport (MIA)	Apr 11, 2025	0.1846		May 31, 2025	4.50%
+Multiconsult AS SE (MULTI)	Apr 11, 2025	10		--	5.49%
+Nestle Pakistan (MLKP)	Apr 11, 2025	30		May 14, 2025	2.26%
+S 11 (S11)	Apr 11, 2025	0.1		Apr 30, 2025	3.50%
+SAAB B (0GWL)	Apr 11, 2025	1		Apr 17, 2025	0.56%
+SAAB B (SAABBs)	Apr 11, 2025	1		Apr 17, 2025	0.58%
+SAAB B (SDV1)	Apr 11, 2025	1		Apr 17, 2025	0.54%
+Schweiter Tech (0QR1)	Apr 11, 2025	15		Apr 15, 2025	3.36%
+Schweiter Tech (SWTQ)	Apr 11, 2025	15		Apr 15, 2025	3.36%
+Schweiter Tech (SWTQz)	Apr 11, 2025	15		Apr 15, 2025	3.34%
+Thai Plastic Industrial (TPLASm)	Apr 11, 2025	0.04		May 02, 2025	4.12%
+Thanachart Capital F (TCAP_f)	Apr 11, 2025	2.05		Apr 30, 2025	7.46%
+Thanachart Capital (TCAP)	Apr 11, 2025	2.05		Apr 30, 2025	6.91%
+Union Auction (AUCTm)	Apr 11, 2025	0.32		May 02, 2025	8.82%
+Vipshop (VIPS)	Apr 11, 2025	0.46		Apr 25, 2025	2.93%
+VZ Holding AG (VZN)	Apr 11, 2025	2.73		Apr 15, 2025	1.80%
+Wam Leaders (WLE)	Apr 11, 2025	0.047		Apr 29, 2025	11.03%
+Zurich Insurance Group (0QP2)	Apr 11, 2025	28		Apr 15, 2025	4.73%
+Zurich Insurance Group (ZURN)	Apr 11, 2025	28		Apr 15, 2025	4.72%
+Sunday, April 13, 2025
+Arab Steel Pipes (ASPMM)	Apr 13, 2025	0.1		--	7.30%
+Kuwait Telecm Co (STC)	Apr 13, 2025	0.035		Apr 20, 2025	6.15%
+Trust International Insurance Public Shareholding (TRUST)	Apr 13, 2025	0.1		Jun 10, 2025	4.02%
+Monday, April 14, 2025
+Abbott Laboratories BDR (ABTT34)	Apr 14, 2025	0.1896561		May 21, 2025	1.12%
+Abbott Laboratories Pakistan (ABBT)	Apr 14, 2025	10		May 15, 2025	0.96%
+AbbVie DRC (ABBV34)	Apr 14, 2025	0.4006617		May 21, 2025	2.10%
+AbbVie (1ABBV)	Apr 14, 2025	1.64		May 15, 2025	3.20%
+Al Mahhar Holding (MHAR)	Apr 14, 2025	0.11		--	4.69%
+Calida Holding AG (CALN)	Apr 14, 2025	0.23		Apr 16, 2025	1.04%
+Cliq Digital (CLIQn)	Apr 14, 2025	0.04		Apr 16, 2025	1.19%
+Cyan Ltd (CYAN)	Apr 14, 2025	1		May 14, 2025	15.87%
+Graco (GGG)	Apr 14, 2025	0.275		May 07, 2025	1.26%
+Heidelberger Beteiligungs (IPOKk)	Apr 14, 2025	63.9		Apr 16, 2025	71.40%
+Heidelberger Beteiligungs (IPOKk)	Apr 14, 2025	63.9		Apr 16, 2025	71.40%
+ISS A/S (ISS)	Apr 14, 2025	3.1		Apr 16, 2025	1.92%
+ISS A/S (ISSc)	Apr 14, 2025	3.1		Apr 16, 2025	2.11%
+Julius Baer (BAER)	Apr 14, 2025	2.6		Apr 16, 2025	4.29%
+Lever Style (1346)	Apr 14, 2025	0.07		Apr 24, 2025	8.40%
+Omer Decugis Cie (ALODC)	Apr 14, 2025	0.08		Apr 16, 2025	1.91%
+Straumann Holding AG (STMN)	Apr 14, 2025	0.38		Apr 16, 2025	0.78%
+Straumann Holding AG (STMN)	Apr 14, 2025	0.57		Apr 16, 2025	0.47%
+Universal (UVV)	Apr 14, 2025	0.81		May 05, 2025	6.04%
+Wam Active Ltd (WAA)	Apr 14, 2025	0.03		Apr 30, 2025	6.67%
+WAM Microcap (WMI)	Apr 14, 2025	0.053		Apr 30, 2025	10.36%
+Werner (WERN)	Apr 14, 2025	0.14		May 07, 2025	1.72%
+Zagrebacka Banka (ZBB)	Apr 14, 2025	1.4		Apr 28, 2025	5.24%
+ZIL Ltd (ZILL)	Apr 14, 2025	2.5		May 14, 2025	1.13%
+Zug Estates Holding AG (ZUGN)	Apr 14, 2025	47		Apr 16, 2025	2.30%
+Tuesday, April 15, 2025
+Abbott Laboratories (ABTm)	Apr 15, 2025	0.1475		May 15, 2025	1.50%
+Abbott Labs (0Q15)	Apr 15, 2025	0.59		May 15, 2025	1.74%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	1.71%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	2.28%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	1.74%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	1.76%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	1.84%
+Abbott Labs (ABT)	Apr 15, 2025	0.59		May 15, 2025	1.75%
+Abbott Labs (ABTCL)	Apr 15, 2025	0.59		May 15, 2025	2.10%
+AbbVie (0QCV)	Apr 15, 2025	1.64		May 15, 2025	3.19%
+AbbVie (ABBV)	Apr 15, 2025	1.64		May 15, 2025	3.18%
+AbbVie (ABBV)	Apr 15, 2025	1.64		May 15, 2025	3.20%
+AbbVie (ABBV)	Apr 15, 2025	1.64		May 15, 2025	3.46%
+AbbVie (ABBV)	Apr 15, 2025	1.64		May 15, 2025	3.14%
+Abbvie (ABBVm)	Apr 15, 2025	0.164		May 15, 2025	2.76%
+Arcosa (ACA)	Apr 15, 2025	0.05		Apr 30, 2025	0.24%
+Bel Fuse A (BELFA)	Apr 15, 2025	0.06		May 01, 2025	0.29%
+Bel Fuse B (BELFB)	Apr 15, 2025	0.07		May 01, 2025	0.33%
+Bombardier Pref C (BBD_pc)	Apr 15, 2025	0.390625		Apr 30, 2025	7.70%
+Bombardier Pref D (BBD_pd)	Apr 15, 2025	0.28675		Apr 30, 2025	7.16%
+Bossard Holding AG (BOS)	Apr 15, 2025	3.9		Apr 17, 2025	1.94%
+Brookfield Renewable 13 Pref A (BEP_pm)	Apr 15, 2025	0.378125		Apr 30, 2025	6.26%
+Brookfield Renewable Energy Pref G (BEP_pg)	Apr 15, 2025	0.34375		Apr 30, 2025	5.49%
+Brookfield Renewable Partners LP Prf A (BEP_pr)	Apr 15, 2025	0.34375		Apr 30, 2025	6.67%
+Brookfield Renewable Partners LP (BEP_pa)	Apr 15, 2025	0.328125		Apr 30, 2025	6.81%
+Brookfield Renewable Power Pref A (BRF_pa)	Apr 15, 2025	0.196063		Apr 30, 2025	3.67%
+Brookfield Renewable Power Pref B (BRF_pb)	Apr 15, 2025	0.351123		Apr 30, 2025	6.62%
+Brookfield Renewable Power Pref E (BRF_pe)	Apr 15, 2025	0.3125		Apr 30, 2025	6.39%
+Brookfield Renewable Power Pref F (BRF_pf)	Apr 15, 2025	0.3125		Apr 30, 2025	6.41%
+Brookfield Renewable Power Prf 3 (BRF_pc)	Apr 15, 2025	0.407438		Apr 30, 2025	-
+Cairo Amman Bank (CABK)	Apr 15, 2025	0.06		--	5.77%
+Cornerstone Strategic Return (CRF)	Apr 15, 2025	0.1168		Apr 30, 2025	18.11%
+Cornerstone Strategic Value (CLM)	Apr 15, 2025	0.1224		Apr 30, 2025	18.59%
+Cristales (CRISTALES)	Apr 15, 2025	6.68		Apr 22, 2025	0.25%
+Cushing MLP Total Return Closed (SRV)	Apr 15, 2025	0.45		Apr 30, 2025	12.09%
+Gabelli Dividend & Income Closed (GDV)	Apr 15, 2025	0.14		Apr 23, 2025	6.77%
+Gabelli Utility Closed Fund (GUT)	Apr 15, 2025	0.05		Apr 23, 2025	11.21%
+Gabelli (GLU)	Apr 15, 2025	0.1		Apr 23, 2025	7.58%
+GAMCO Natural Resources Gold Closed (GNT)	Apr 15, 2025	0.04		Apr 23, 2025	8.25%
+GAMCO (GGN)	Apr 15, 2025	0.03		Apr 23, 2025	8.80%
+Global Medical REIT Pref A (GMRE_pa)	Apr 15, 2025	0.46875		Apr 30, 2025	7.49%
+Hercules Capital (HCXY)	Apr 15, 2025	0.390625		Apr 30, 2025	-
+Julius Baer Group (JBAXY)	Apr 15, 2025	0.319439		May 01, 2025	2.39%
+Kuwait Reinsurance (KWRE)	Apr 15, 2025	0.01		Apr 22, 2025	2.55%
+Nexpoint Real Estate Finance (NREF_pa)	Apr 15, 2025	0.53125		Apr 25, 2025	9.01%
+NXG Nextgen Infrastructure (NXG)	Apr 15, 2025	0.54		Apr 30, 2025	13.58%
+Phillips Edison Co (PECO)	Apr 15, 2025	0.1025		May 01, 2025	3.31%
+Principal Real Estate Income Closed (PGZ)	Apr 15, 2025	0.105		Apr 30, 2025	11.84%
+Qian Hu Corporation Ltd (QIAN)	Apr 15, 2025	0.004		Apr 30, 2025	2.45%
+SDI Ltd (SDI)	Apr 15, 2025	0.015		Apr 30, 2025	4.12%
+SES (SESFd)	Apr 15, 2025	0.2125		Apr 17, 2025	10.12%
+Sound Point Meridian Capital (SPMC)	Apr 15, 2025	0.25		Apr 30, 2025	14.56%
+Swiss Re (0QL6)	Apr 15, 2025	7.35		Apr 17, 2025	5.11%
+Swiss Re (SRENH)	Apr 15, 2025	7.35		Apr 17, 2025	5.09%
+UBS AG (UBSGE2)	Apr 15, 2025	0.45		Apr 17, 2025	1.31%
+UBS AG (UBSGE2)	Apr 15, 2025	0.45		Apr 17, 2025	4.68%
+UBS BDR (UBSG34)	Apr 15, 2025	1.6372839		Apr 25, 2025	0.82%
+UBS BDR (UBSG34)	Apr 15, 2025	2.518905		Apr 25, 2025	3.51%
+UBS Group (0R3T)	Apr 15, 2025	0.45		Apr 17, 2025	4.78%
+UBS Group (0R3T)	Apr 15, 2025	0.45		Apr 17, 2025	1.35%
+UBS Group (UBS)	Apr 15, 2025	0.45		Apr 17, 2025	3.00%
+UBS Group (UBSN)	Apr 15, 2025	0.45		Apr 17, 2025	4.77%
+UBS Group (UBSN)	Apr 15, 2025	0.45		Apr 17, 2025	1.34%
+WAM Research Ltd (WAX)	Apr 15, 2025	0.02		Apr 30, 2025	8.20%
+WAM Research Ltd (WAX)	Apr 15, 2025	0.03		Apr 30, 2025	8.20%
+Waterco Ltd (WAT)	Apr 15, 2025	0.07		May 02, 2025	3.05%
+Wednesday, April 16, 2025
+ALJOUF (6070)	Apr 16, 2025	0.5		--	1.84%
+Anora Group (ANORA)	Apr 16, 2025	0.22		Apr 28, 2025	6.17%
+Anora Group (ANORAh)	Apr 16, 2025	0.22		Apr 28, 2025	-
+AT&T (TBB)	Apr 16, 2025	0.334375		May 01, 2025	-
+Celsia (CEL)	Apr 16, 2025	51		Apr 24, 2025	5.51%
+Dillards Capital Trust I (DDT)	Apr 16, 2025	0.4688		May 01, 2025	-
+Dometic Group publ AB (DOMETIC)	Apr 16, 2025	1.3		Apr 24, 2025	2.54%
+Dometic Group publ AB (DOMs)	Apr 16, 2025	1.3		Apr 24, 2025	2.48%
+EOG Resources (0IDR)	Apr 16, 2025	0.975		Apr 30, 2025	3.13%
+EOG Resources (EOG)	Apr 16, 2025	0.975		Apr 30, 2025	3.13%
+EOG Resources (EOG)	Apr 16, 2025	0.975		Apr 30, 2025	3.07%
+Horizon Oil (HZN)	Apr 16, 2025	0.015		Apr 24, 2025	15.00%
+Krung Thai Bank DRC (FERRARI80x)	Apr 16, 2025	1.545		May 02, 2025	6.87%
+Krung Thai Bank DRC (HERMES80x)	Apr 16, 2025	1.545		May 02, 2025	6.87%
+Krung Thai Bank DRC (KTB_n)	Apr 16, 2025	1.545		May 02, 2025	6.87%
+Krung Thai Bank DRC (KTBt)	Apr 16, 2025	1.545		May 02, 2025	7.20%
+Krung Thai Bank PCL DRC (PINGAN80x)	Apr 16, 2025	1.545		May 02, 2025	6.87%
+Krung Thai Bank PCL DRC (XIAOMI80x)	Apr 16, 2025	1.545		May 02, 2025	6.87%
+Marimekko Oyj (MEKKO)	Apr 16, 2025	0.25		Apr 28, 2025	4.88%
+Marimekko Oyj (MEKKO)	Apr 16, 2025	0.4		Apr 28, 2025	3.00%
+McGrath (MGRC)	Apr 16, 2025	0.485		Apr 30, 2025	1.59%
+Nestle (NESM)	Apr 16, 2025	0.74		May 15, 2025	2.12%
+Oxford Lane Capital 7 Prf (OXLCN)	Apr 16, 2025	0.1484375		Apr 30, 2025	7.33%
+Oxford Lane Capital Pref 9 (OXLCO)	Apr 16, 2025	0.125		Apr 30, 2025	6.51%
+Oxford Lane (OXLC)	Apr 16, 2025	0.09		Apr 30, 2025	21.34%
+Oxford Lane (OXLCP)	Apr 16, 2025	0.1302083		Apr 30, 2025	6.46%
+Pearl Diver Credit (PDCC)	Apr 16, 2025	0.22		Apr 30, 2025	13.13%
+Pentair (P1NR34)	Apr 16, 2025	1.0467419		May 08, 2025	0.71%
+QTC Energy (QTC)	Apr 16, 2025	0.25		Apr 30, 2025	6.38%
+Quaker Chemical (KWR)	Apr 16, 2025	0.485		Apr 30, 2025	1.40%
+Rafhan Maize Products Co (RAMZ)	Apr 16, 2025	100		May 16, 2025	4.00%
+Sahamit Machinery (SMIT)	Apr 16, 2025	0.012		May 02, 2025	9.84%
+Sahamit Machinery (SMIT)	Apr 16, 2025	0.128		May 02, 2025	9.84%
+Sahathai Printing and Packaging (STPm)	Apr 16, 2025	0.4		May 02, 2025	5.96%
+SCB X PCL DRC (SCB_n)	Apr 16, 2025	8.44		May 02, 2025	8.56%
+SCB X PCL (SCB)	Apr 16, 2025	8.44		May 02, 2025	8.56%
+SCB X PCL (SCB_f)	Apr 16, 2025	8.44		May 02, 2025	8.52%
+The Reject Shop (TRS)	Apr 16, 2025	0.12		May 01, 2025	3.58%
+UBS Group (UBS)	Apr 16, 2025	0.2925		Apr 17, 2025	0.85%
+Unilever Pakistan Foods (UPFL)	Apr 16, 2025	600		May 14, 2025	8.15%
+Univ Mod In (UMIC)	Apr 16, 2025	0.13		--	6.34%
+Wam Capital Ltd (WAM)	Apr 16, 2025	0.031		Apr 30, 2025	9.39%
+Wam Capital Ltd (WAM)	Apr 16, 2025	0.0465		Apr 30, 2025	9.39%
+Zoetis (Z1TS34)	Apr 16, 2025	0.1222966		Jun 09, 2025	0.82%
+Thursday, April 17, 2025
+Antofagasta (ANTO)	Apr 17, 2025	0.235		May 12, 2025	1.44%
+APA (SA) (A1PA34)	Apr 17, 2025	0.9733129		May 28, 2025	3.17%
+Aztech Global (AZTE)	Apr 17, 2025	0.03		Apr 29, 2025	19.61%
+Aztech Global (AZTE)	Apr 17, 2025	0.07		Apr 29, 2025	19.61%
+BAE Systems (BAES)	Apr 17, 2025	20.6		Jun 02, 2025	2.35%
+Bolsa de Comercio de Santiago Bolsa de Valores (BOLSASTGO)	Apr 17, 2025	12.65		Apr 24, 2025	15.50%
+Bolsa de Comercio de Santiago Bolsa de Valores (BOLSASTGO)	Apr 17, 2025	23.45		Apr 24, 2025	15.50%
+Carlyle Credit (CCIF)	Apr 17, 2025	0.105		Apr 30, 2025	16.32%
+ConvaTec Group (2CV)	Apr 17, 2025	3.639		May 29, 2025	1.94%
+ConvaTec Group (CTEC)	Apr 17, 2025	3.639		May 29, 2025	1.95%
+ConvaTec Group (CTECl)	Apr 17, 2025	3.639		May 29, 2025	1.95%
+Daisan (4750)	Apr 17, 2025	11		Jun 20, 2025	3.80%
+FrieslandCampina (FRIE)	Apr 17, 2025	2.8		May 13, 2025	3.18%
+Graham Holdings (GHC)	Apr 17, 2025	1.8		May 08, 2025	0.73%
+Graham Holdings (WPOB)	Apr 17, 2025	1.8		May 08, 2025	0.74%
+IT City (IT)	Apr 17, 2025	0.19		May 02, 2025	6.44%
+IVF Hartmann Holding AG (VBSN)	Apr 17, 2025	3		Apr 23, 2025	4.40%
+IVF Hartmann Holding AG (VBSN)	Apr 17, 2025	3.2		Apr 23, 2025	2.27%
+Jupiter Fund (JUP)	Apr 17, 2025	2.2		May 20, 2025	7.36%
+Kasikornbank DRC (KBANK_n)	Apr 17, 2025	8		May 09, 2025	6.27%
+Kasikornbank F (KBANK_f)	Apr 17, 2025	8		May 09, 2025	6.27%
+Kasikornbank (KBANK)	Apr 17, 2025	8		May 09, 2025	6.27%
+Krungthai Card F (KTC_f)	Apr 17, 2025	1.32		May 02, 2025	3.34%
+Krungthai Card (KTC)	Apr 17, 2025	1.32		May 02, 2025	2.67%
+London Stock Exchange (LSEG)	Apr 17, 2025	89		May 21, 2025	1.10%
+Major Cineplex (MAJOR)	Apr 17, 2025	0.2		May 07, 2025	1.72%
+OFS Credit Company (OCCIO)	Apr 17, 2025	0.1276042		Apr 30, 2025	6.17%
+OFS Credit Prf 6 (OCCIN)	Apr 17, 2025	0.109375		Apr 30, 2025	5.50%
+OFS Credit (OCCI)	Apr 17, 2025	0.115		Apr 30, 2025	19.46%
+Olvi Oyj A (OLVAS)	Apr 17, 2025	0.65		Apr 29, 2025	3.61%
+Pentair (PNR)	Apr 17, 2025	0.25		May 02, 2025	1.06%
+PerkinElmer (R1VT34)	Apr 17, 2025	0.0099642		May 15, 2025	0.17%
+PostNL (0P47)	Apr 17, 2025	0.04		May 09, 2025	6.99%
+PostNL (PTNL)	Apr 17, 2025	0.04		May 09, 2025	6.95%
+PostNL (TNTC)	Apr 17, 2025	0.04		May 09, 2025	6.92%
+Precious Shipping (PSL)	Apr 17, 2025	0.1		May 02, 2025	6.30%
+Prospect Capital Prf A (PSEC_pa)	Apr 17, 2025	0.334375		May 01, 2025	8.08%
+Revvity (RVTY)	Apr 17, 2025	0.07		May 09, 2025	0.25%
+Rolls-Royce Holdings (RR)	Apr 17, 2025	6		Jun 16, 2025	0.81%
+Rolls-Royce Holdings (RR)	Apr 17, 2025	6		Jun 16, 2025	0.78%
+SA Vina Santa Rita (SANTARITA)	Apr 17, 2025	0.8783822		Apr 24, 2025	0.59%
+Selcuk Ecza Deposu (SELEC)	Apr 17, 2025	0.4		Apr 21, 2025	0.61%
+Sri Trang Agro Industry F (SRTA)	Apr 17, 2025	1		May 08, 2025	6.35%
+Sri Trang Gloves (SRIT)	Apr 17, 2025	0.019635		May 08, 2025	4.97%
+Thai Optical (TOG)	Apr 17, 2025	0.01		May 07, 2025	4.71%
+Thai Optical (TOG)	Apr 17, 2025	0.24		May 07, 2025	4.71%
+Tipco Foods (TIPCO)	Apr 17, 2025	0.18		May 08, 2025	1.80%
+Union Petrochemical (UKEMm)	Apr 17, 2025	0.01		May 07, 2025	2.04%
+Unite (UTG)	Apr 17, 2025	24.9		May 30, 2025	4.52%
+Unite (UTG)	Apr 17, 2025	24.9		May 30, 2025	4.46%
+Wafi Energy Pakistan (SHEL)	Apr 17, 2025	5		May 21, 2025	2.70%
+Weir Group (WEIR)	Apr 17, 2025	22.1		May 30, 2025	1.76%
+Weir Group (WEIR)	Apr 17, 2025	22.1		May 30, 2025	1.65%
+Yuasa Battery (YUASAm)	Apr 17, 2025	0.6088		May 09, 2025	5.69%
+Friday, April 18, 2025
+Adamjee Life Assurance (ADAM)	Apr 18, 2025	1		May 20, 2025	8.33%
+Advanced Info Tech (AIT)	Apr 18, 2025	0.4		May 02, 2025	12.28%
+Amag Austria Metall AG (AMAV)	Apr 18, 2025	1.2		Apr 23, 2025	4.82%
+Bangkok Union (BUI)	Apr 18, 2025	2.8		May 09, 2025	16.28%
+MCS Steel (MCS)	Apr 18, 2025	0.5		May 07, 2025	9.86%
+Sri Trang Agro (STA)	Apr 18, 2025	1		May 08, 2025	6.33%
+Sri Trang Gloves (STGT)	Apr 18, 2025	0.5		May 08, 2025	6.71%
+Sunday, April 20, 2025
+Burgan Bank (BURG)	Apr 20, 2025	0.006		Apr 27, 2025	2.65%
+Monday, April 21, 2025
+Agthia Group (AGTHIA)	Apr 21, 2025	0.1072		--	4.27%
+Bangkok Life Assurance (BLA)	Apr 21, 2025	0.48		--	4.23%
+Barings Global Short Duration High Yield Fund (BGH)	Apr 21, 2025	0.1223		May 01, 2025	9.24%
+ECS ICT (VSTE)	Apr 21, 2025	0.008		May 13, 2025	2.43%
+ECS ICT (VSTE)	Apr 21, 2025	0.041		May 13, 2025	2.43%
+KGI Securities (KGI)	Apr 21, 2025	0.31		May 08, 2025	7.28%
+Kustur Kusadasi (KSTUR)	Apr 21, 2025	14		Apr 24, 2025	0.36%
+Lagenda Properties Bhd (LAGE)	Apr 21, 2025	0.035		May 20, 2025	5.28%
+Thanasiri (THANAm)	Apr 21, 2025	0.016		May 09, 2025	4.06%
+UEM Edgenta (UEME)	Apr 21, 2025	0.04		May 16, 2025	5.26%
+Zoetis Inc (ZOE)	Apr 21, 2025	0.5		Jun 03, 2025	1.22%
+Zoetis Inc (ZTS)	Apr 21, 2025	0.5		Jun 03, 2025	1.20%
+Tuesday, April 22, 2025
+Aena (A44)	Apr 22, 2025	7.9056		Apr 24, 2025	3.70%
+Aena (AENA)	Apr 22, 2025	7.9056		Apr 24, 2025	3.68%
+Aena (AENA)	Apr 22, 2025	7.9056		Apr 24, 2025	3.69%
+Aena (AENAe)	Apr 22, 2025	7.9056		Apr 24, 2025	3.79%
+Aena (AENAN)	Apr 22, 2025	7.9056		Apr 24, 2025	4.46%
+APA Corp (APA)	Apr 22, 2025	0.25		May 22, 2025	4.83%
+APA Corp (APA)	Apr 22, 2025	0.25		May 22, 2025	4.49%
+Beiersdorf AG (0DQ7)	Apr 22, 2025	1		Apr 24, 2025	0.75%
+Beiersdorf AG (BEIG)	Apr 22, 2025	1		Apr 24, 2025	0.75%
+Beiersdorf AG (BEIG)	Apr 22, 2025	1		Apr 24, 2025	0.75%
+Beiersdorf AG (BEIG)	Apr 22, 2025	1		Apr 24, 2025	0.76%
+Bucher Industries (BUCN)	Apr 22, 2025	11		Apr 24, 2025	2.87%
+Caixabank (0ILK)	Apr 22, 2025	0.231984		Apr 24, 2025	5.33%
+Caixabank (CABK)	Apr 22, 2025	0.231984		Apr 24, 2025	5.27%
+Caixabank (CABK)	Apr 22, 2025	0.231984		Apr 24, 2025	5.30%
+ConvaTec ADR (CNVVY)	Apr 22, 2025	0.147801		Jun 12, 2025	1.59%
+Dell Tech (12DA)	Apr 22, 2025	0.525		May 02, 2025	2.09%
+Dell Tech (1DELL)	Apr 22, 2025	0.525		May 02, 2025	2.08%
+Dell Tech (DELL)	Apr 22, 2025	0.525		May 02, 2025	2.07%
+Dell Tech (DELL)	Apr 22, 2025	0.525		May 02, 2025	2.04%
+Dell Tech (DELLC)	Apr 22, 2025	0.525		May 02, 2025	2.04%
+Ferrari NV DRC (RACEm)	Apr 22, 2025	0.035976		May 06, 2025	0.58%
+Ferrari NV (2FE)	Apr 22, 2025	2.986		Apr 24, 2025	0.66%
+Ferrari NV (RACE)	Apr 22, 2025	2.986		Apr 24, 2025	0.67%
+Ferrari NV (RACE)	Apr 22, 2025	2.986		Apr 24, 2025	0.66%
+Ferrari NV (RACEm)	Apr 22, 2025	2.986		Apr 24, 2025	0.68%
+Ferrari NV (RACEN)	Apr 22, 2025	2.986		Apr 24, 2025	0.68%
+Food and Drinks (FND)	Apr 22, 2025	2.5		May 09, 2025	6.33%
+Georg Fischer (GF)	Apr 22, 2025	1.35		Apr 24, 2025	1.94%
+Georg Fischer (GFz)	Apr 22, 2025	1.35		Apr 24, 2025	1.95%
+Home Product Center F (HMPRO_f)	Apr 22, 2025	0.25		May 08, 2025	4.10%
+Home Product Center (HMPRO)	Apr 22, 2025	0.25		May 08, 2025	5.09%
+Home Product DRC (HMPRO_n)	Apr 22, 2025	0.25		May 08, 2025	5.09%
+Iveco NV (IVG)	Apr 22, 2025	0.33		Apr 24, 2025	2.19%
+Iveco NV (IVG)	Apr 22, 2025	0.33		Apr 24, 2025	2.18%
+Iveco NV (R3DG)	Apr 22, 2025	0.33		Apr 24, 2025	2.26%
+Koninklijke KPN (0O8F)	Apr 22, 2025	0.102		Apr 28, 2025	4.67%
+Koninklijke KPN (KPN)	Apr 22, 2025	0.102		Apr 28, 2025	4.60%
+Koninklijke KPN (KPN)	Apr 22, 2025	0.102		Apr 28, 2025	4.62%
+LPP SA (LPPP)	Apr 22, 2025	330		Apr 30, 2025	3.59%
+MFF Capital (MFF)	Apr 22, 2025	0.08		May 14, 2025	3.54%
+Nestle (0QR4)	Apr 22, 2025	3.05		Apr 24, 2025	3.49%
+Nestle (NESN)	Apr 22, 2025	3.05		Apr 24, 2025	3.43%
+Nestle (NESNN)	Apr 22, 2025	3.05		Apr 24, 2025	3.40%
+Nestle (NSRGF)	Apr 22, 2025	3.05		Apr 24, 2025	3.52%
+Prysmian (0NUX)	Apr 22, 2025	0.8		Apr 24, 2025	1.40%
+Prysmian (AEU)	Apr 22, 2025	0.8		Apr 24, 2025	1.40%
+Prysmian (PRY)	Apr 22, 2025	0.8		Apr 24, 2025	1.40%
+Prysmian (PRY)	Apr 22, 2025	0.8		Apr 24, 2025	1.41%
+Stellantis NV (STLAM)	Apr 22, 2025	0.68		May 05, 2025	5.50%
+SVI (SVI)	Apr 22, 2025	0.24		May 09, 2025	3.50%
+Unicaja Banco (UNI)	Apr 22, 2025	0.0598023		Apr 24, 2025	6.48%
+Unicaja Banco (UNIe)	Apr 22, 2025	0.0598023		Apr 24, 2025	6.92%
+UniCredit (0RLS)	Apr 22, 2025	1.4764		Apr 24, 2025	4.78%
+UniCredit (CRDI)	Apr 22, 2025	1.4764		Apr 24, 2025	4.88%
+UniCredit (CRDI)	Apr 22, 2025	1.4764		Apr 24, 2025	4.75%
+UniCredit (CRIG)	Apr 22, 2025	1.4764		Apr 24, 2025	4.75%
+UniCredit (UCGN)	Apr 22, 2025	1.4764		Apr 24, 2025	5.11%
+UniCredit (UCGP)	Apr 22, 2025	1.4764		Apr 24, 2025	4.78%
+Vinci (0NQM)	Apr 22, 2025	3.7		Apr 24, 2025	4.29%
+Vinci (DGN)	Apr 22, 2025	3.7		Apr 24, 2025	4.55%
+Vinci (SGEF)	Apr 22, 2025	3.7		Apr 24, 2025	4.28%
+Vinci (SGEF)	Apr 22, 2025	3.7		Apr 24, 2025	4.29%
+Vinci (SGEF)	Apr 22, 2025	3.7		Apr 24, 2025	4.28%
+	Anglo American Platinum (AMSJ)	Apr 23, 2025	300		Apr 29, 2025	12.75%
+Anglo American Platinum (AMSJ)	Apr 23, 2025	5900		Apr 29, 2025	12.75%
+Athens International Airport (AIAr)	Apr 23, 2025	0.78		Apr 30, 2025	8.92%
+Bangkok Bank (BBL)	Apr 23, 2025	6.5		May 09, 2025	5.61%
+Bankers Investment (BIT)	Apr 23, 2025	0.686		May 30, 2025	2.26%
+Brandywineglobal Global (BWG)	Apr 23, 2025	0.08		May 01, 2025	11.31%
+CIE Automotive India (CIEA)	Apr 23, 2025	7		May 30, 2025	1.86%
+ClearBridge Energy MLP Oppor Closed (EMO)	Apr 23, 2025	0.36		May 01, 2025	8.75%
+Clorox (CLX)	Apr 23, 2025	1.22		May 09, 2025	3.17%
+Clorox (CLX)	Apr 23, 2025	1.22		May 09, 2025	3.12%
+Ferrari NV (RACE)	Apr 23, 2025	2.986		May 06, 2025	0.67%
+Flaherty & Crumrine Preferred Oppty (PFO)	Apr 23, 2025	0.0505		Apr 30, 2025	6.57%
+Flaherty & Crumrine Preferredome (PFD)	Apr 23, 2025	0.061		Apr 30, 2025	6.51%
+Flaherty & Crumrine Total Return (FLC)	Apr 23, 2025	0.0937		Apr 30, 2025	6.63%
+Flaherty and Crumrine Dynamic Pref (DFP)	Apr 23, 2025	0.1151		Apr 30, 2025	6.77%
+Flaherty Crumrine Preferred Secur (FFC)	Apr 23, 2025	0.092		Apr 30, 2025	6.87%
+ForFarmers (0RHZ)	Apr 23, 2025	0.2		May 02, 2025	4.83%
+ForFarmers (5FF)	Apr 23, 2025	0.2		May 02, 2025	4.87%
+ForFarmers (FFARM)	Apr 23, 2025	0.2		May 02, 2025	4.84%
+ForFarmers (FFARMa)	Apr 23, 2025	0.2		May 02, 2025	-
+Hammerson (HMNJ)	Apr 23, 2025	8.07		Jun 03, 2025	-
+Heineken (0NBD)	Apr 23, 2025	1.17		May 02, 2025	2.64%
+Heineken (0O26)	Apr 23, 2025	1.17		May 02, 2025	2.30%
+Heineken (HEIN)	Apr 23, 2025	1.17		May 02, 2025	2.29%
+Heineken (HEIN)	Apr 23, 2025	1.17		May 02, 2025	2.29%
+Heineken (HEIN)	Apr 23, 2025	1.17		May 02, 2025	2.30%
+Heineken (HEIO)	Apr 23, 2025	1.17		May 02, 2025	2.69%
+Heineken (HEIO)	Apr 23, 2025	1.17		May 02, 2025	2.63%
+Heineken (HEIO)	Apr 23, 2025	1.17		May 02, 2025	2.63%
+Koninklijke ADR (KKPNY)	Apr 23, 2025	0.084801		May 05, 2025	3.78%
+Krispy Kreme (DNUT)	Apr 23, 2025	0.035		May 07, 2025	2.25%
+Liechtensteinische Landesbank (LLBN)	Apr 23, 2025	2.8		Apr 25, 2025	3.58%
+LMP Capital And Income Closed Fund (SCD)	Apr 23, 2025	0.12		May 01, 2025	8.50%
+Nestle ADR (NSRGY)	Apr 23, 2025	2.859149		--	2.96%
+NSI (N4RN)	Apr 23, 2025	1.57		--	10.79%
+NSI (NSTEc)	Apr 23, 2025	1.57		--	10.69%
+Shaftesbury Capital (SHCJ)	Apr 23, 2025	1.8		May 30, 2025	-
+Siam Wellness Non-listing (SPA_n)	Apr 23, 2025	0.1		May 15, 2025	1.94%
+Siam Wellness (SPA)	Apr 23, 2025	0.1		May 15, 2025	1.94%
+SRH Total Return (STEW)	Apr 23, 2025	0.165		Apr 30, 2025	3.90%
+Steamships Trading (SST)	Apr 23, 2025	0.3		Jul 25, 2025	2.01%
+Stellantis NV DRC (STLAm)	Apr 23, 2025	0.136		May 05, 2025	4.83%
+Stellantis NV (0QXR)	Apr 23, 2025	0.68		May 05, 2025	5.28%
+Stellantis NV (8TI)	Apr 23, 2025	0.68		May 05, 2025	5.34%
+Stellantis NV (STLA)	Apr 23, 2025	0.5032		May 05, 2025	4.10%
+Stellantis NV (STLA)	Apr 23, 2025	0.68		May 05, 2025	5.28%
+Stellantis NV (STLAN)	Apr 23, 2025	0.68		May 05, 2025	5.36%
+Stolt-Nielsen (0OHK)	Apr 23, 2025	1.25		May 07, 2025	10.28%
+Stolt-Nielsen (SNI)	Apr 23, 2025	1.25		May 07, 2025	10.66%
+Stolt-Nielsen (SNIo)	Apr 23, 2025	1.25		May 07, 2025	5.72%
+Tortoise Energy Infrastruct Closed (TYG)	Apr 23, 2025	0.365		Apr 30, 2025	10.11%
+Tortoise Sustainable Social Impact Term Fund (TEAF)	Apr 23, 2025	0.09		Apr 30, 2025	8.98%
+Western Asset Claymore Infl Link Op (WIW)	Apr 23, 2025	0.0625		Apr 30, 2025	8.57%
+Western Asset Emerging Markets Debt (EMD)	Apr 23, 2025	0.09		May 01, 2025	11.00%
+Western Asset Global Highome Closed (EHI)	Apr 23, 2025	0.07		May 01, 2025	12.46%
+Western Asset Globalorate Defined (GDO)	Apr 23, 2025	0.122		May 01, 2025	12.85%
+Western Asset High Income II Closed (HIX)	Apr 23, 2025	0.049		May 01, 2025	13.36%
+Western Asset High Yield Defined Op (HYI)	Apr 23, 2025	0.095		May 01, 2025	9.44%
+Western Asset Highome Opport Closed (HIO)	Apr 23, 2025	0.0355		May 01, 2025	10.54%
+Western Asset Income Fund (PAI)	Apr 23, 2025	0.0525		May 01, 2025	4.91%
+Western Asset Invest Grade Defined (IGI)	Apr 23, 2025	0.071		May 01, 2025	5.10%
+Western Asset Managed Munis Closed (MMU)	Apr 23, 2025	0.0545		May 01, 2025	6.22%
+Western Asset Mortgage Defined Opp (DMO)	Apr 23, 2025	0.13		May 01, 2025	13.02%
+Western Asset Muni Highome Closed (MHF)	Apr 23, 2025	0.034		May 01, 2025	5.35%
+Western Asset Premier Bond Closed (WEA)	Apr 23, 2025	0.07		May 01, 2025	7.69%
+Western Asset/Claymore Infl Linked (WIA)	Apr 23, 2025	0.052		Apr 30, 2025	7.52%
+Western Asset (SBI)	Apr 23, 2025	0.042		May 01, 2025	6.32%
+Thursday, April 24, 2025
+ASSA ABLOY B (0R87)	Apr 24, 2025	2.95		Apr 30, 2025	1.72%
+ASSA ABLOY B (ASSAb)	Apr 24, 2025	2.95		Apr 30, 2025	1.72%
+Bankers Investment (BNKR)	Apr 24, 2025	0.686		May 30, 2025	2.23%
+Cairn Homes (C5Hi)	Apr 24, 2025	0.044		May 16, 2025	3.74%
+Cairn Homes (CRN)	Apr 24, 2025	0.044		May 16, 2025	3.79%
+Cairn Homes (CRN)	Apr 24, 2025	0.044		May 16, 2025	3.81%
+Century Properties PrfB (CPGPB)	Apr 24, 2025	1.8858		May 22, 2025	7.40%
+Derwent (DLN)	Apr 24, 2025	10		May 30, 2025	4.44%
+Derwent (DLN)	Apr 24, 2025	45.5		May 30, 2025	4.44%
+Derwent (DLN)	Apr 24, 2025	10		May 30, 2025	4.38%
+Derwent (DLN)	Apr 24, 2025	45.5		May 30, 2025	4.38%
+Drax Group (DRX)	Apr 24, 2025	15.6		May 16, 2025	4.26%
+Elanders B (ELANb)	Apr 24, 2025	4.15		Apr 30, 2025	5.40%
+Foresight Solar Fund (FSFL)	Apr 24, 2025	2		May 23, 2025	10.34%
+HALEON (HLN)	Apr 24, 2025	4.6		Jun 05, 2025	1.66%
+Hammerson (HMSO)	Apr 24, 2025	8.07		Jun 03, 2025	4.74%
+Hammerson (HMSO)	Apr 24, 2025	8.07		Jun 03, 2025	5.74%
+Heineken NV (HEINY)	Apr 24, 2025	0.460165		May 09, 2025	1.73%
+Hiscox (H2X3)	Apr 24, 2025	0.299		Jun 09, 2025	-
+Hiscox (HSX)	Apr 24, 2025	0.299		Jun 09, 2025	-
+ING Groep (INGA)	Apr 24, 2025	0.71		May 02, 2025	7.14%
+ING Groep (INGA)	Apr 24, 2025	0.71		May 02, 2025	7.12%
+ING Groep (INGA)	Apr 24, 2025	0.71		May 02, 2025	7.17%
+ING Groep (INN1)	Apr 24, 2025	0.71		May 02, 2025	7.12%
+Investbank (INVB)	Apr 24, 2025	0.1		--	6.25%
+ME Group International (MEGPM)	Apr 24, 2025	4.45		May 23, 2025	4.11%
+Morgan Sindall (MGNS)	Apr 24, 2025	90		May 15, 2025	3.95%
+North East Rubbers (NER)	Apr 24, 2025	0.31		May 09, 2025	7.26%
+NSL Foods PCL (NSL)	Apr 24, 2025	0.55		May 16, 2025	3.33%
+PPHE Hotel Group (32P)	Apr 24, 2025	21		May 30, 2025	2.99%
+PPHE Hotel Group (PPH)	Apr 24, 2025	21		May 30, 2025	2.90%
+RBC (RY)	Apr 24, 2025	1.48		May 23, 2025	3.46%
+RBC (RY)	Apr 24, 2025	1.48		May 23, 2025	3.59%
+RBC (RYN)	Apr 24, 2025	1.48		May 23, 2025	3.44%
+Rightmove (3JDA)	Apr 24, 2025	6.1		May 23, 2025	1.56%
+Rightmove (RMV)	Apr 24, 2025	6.1		May 23, 2025	1.46%
+Sampo Oyj A (0HAG)	Apr 24, 2025	0.34		May 06, 2025	4.01%
+Sampo Oyj A (SAMPO)	Apr 24, 2025	0.34		May 06, 2025	4.07%
+Sampo Oyj A (SAMPO)	Apr 24, 2025	0.34		May 06, 2025	4.02%
+Sampo plc DRC (SAMPOsdb)	Apr 24, 2025	0.34		--	4.00%
+Shaftesbury Capital (SHCS)	Apr 24, 2025	1.8		May 30, 2025	2.83%
+Skane mollan AB (SKMO)	Apr 24, 2025	1.4		Apr 30, 2025	2.72%
+Teleste Oyj (TLT1V)	Apr 24, 2025	0.03		May 05, 2025	1.06%
+TF1 (0NQT)	Apr 24, 2025	0.6		Apr 28, 2025	7.48%
+TF1 (TFFP)	Apr 24, 2025	0.6		Apr 28, 2025	7.58%
+TF1 (TFFP)	Apr 24, 2025	0.6		Apr 28, 2025	7.48%
+Uniphar (UPR)	Apr 24, 2025	0.0125		May 16, 2025	0.72%
+Uniphar (UPR)	Apr 24, 2025	0.0125		May 16, 2025	0.69%
+Velesto Energy (VELE)	Apr 24, 2025	0.01		May 23, 2025	7.58%
+Friday, April 25, 2025
+ABG Sundal Collier (0IZM)	Apr 25, 2025	0.5		May 06, 2025	7.14%
+ABG Sundal Collier (ABGA)	Apr 25, 2025	0.5		May 06, 2025	7.14%
+ABN AMRO (ABNa)	Apr 25, 2025	0.75		May 23, 2025	7.43%
+ABN AMRO (ABNd)	Apr 25, 2025	0.75		May 23, 2025	7.42%
+ABN AMRO (ABNd)	Apr 25, 2025	0.75		May 23, 2025	7.49%
+Advenica (ADVENI)	Apr 25, 2025	0.09		May 02, 2025	0.67%
+Afry AB (0QUU)	Apr 25, 2025	6		May 02, 2025	3.17%
+Afry AB (AFRY)	Apr 25, 2025	6		May 02, 2025	3.16%
+Aikchol Hospital (AHC)	Apr 25, 2025	0.43		May 15, 2025	3.55%
+Amanat Holdings PJSC (AMANT)	Apr 25, 2025	0.016		--	4.22%
+ASML Holding NV (ASML34)	Apr 25, 2025	0.1679523		May 12, 2025	0.77%
+ASML Holding (0QB8)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASME)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASML)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASML)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASML)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASML)	Apr 25, 2025	1.84		May 06, 2025	0.94%
+ASML Holding (ASMLF)	Apr 25, 2025	1.84		May 06, 2025	0.95%
+ASML Holding (ASMLN)	Apr 25, 2025	1.84		May 06, 2025	0.89%
+Avanza Bank (0NUK)	Apr 25, 2025	11.75		May 02, 2025	3.69%
+Avanza Bank (AVANZ)	Apr 25, 2025	11.75		May 02, 2025	3.65%
+Avanza Bank (AZAs)	Apr 25, 2025	11.75		May 02, 2025	3.61%
+Banco De Bogota (BBO)	Apr 25, 2025	133		May 02, 2025	5.43%
+Bangkok Commercial (BAM)	Apr 25, 2025	0.35		May 16, 2025	5.51%
+BE Semiconductor (0XVE)	Apr 25, 2025	2.18		May 02, 2025	2.04%
+BE Semiconductor (BESI)	Apr 25, 2025	2.18		May 02, 2025	2.05%
+BE Semiconductor (BESIE)	Apr 25, 2025	2.18		May 02, 2025	2.04%
+BE Semiconductor (BSI1)	Apr 25, 2025	2.18		May 02, 2025	2.06%
+Bufab Holding AB (BUFAB)	Apr 25, 2025	5.25		May 02, 2025	1.16%
+Century Insurance (CRIN)	Apr 25, 2025	6		May 21, 2025	108.75%
+Christian Dior ADR (CHDRY)	Apr 25, 2025	1.600319		--	1.74%
+CSE Global Ltd (CSES)	Apr 25, 2025	0.0115		Jun 11, 2025	5.27%
+Dana Gas (DANA)	Apr 25, 2025	0.055		--	6.93%
+Deyaar Development (DEYR)	Apr 25, 2025	0.05		--	5.43%
+Engie (0LD0)	Apr 25, 2025	1.48		Apr 29, 2025	8.58%
+Engie (ENGIE)	Apr 25, 2025	1.48		Apr 29, 2025	8.61%
+Engie (ENGIE)	Apr 25, 2025	1.48		Apr 29, 2025	8.58%
+Engie (ENGIE)	Apr 25, 2025	1.48		Apr 29, 2025	8.61%
+Engie (GSZ)	Apr 25, 2025	1.48		Apr 29, 2025	8.59%
+Europris ASA (0RAI)	Apr 25, 2025	3.5		May 06, 2025	4.33%
+Europris ASA (EPR)	Apr 25, 2025	3.5		May 06, 2025	4.32%
+Europris ASA (EPRo)	Apr 25, 2025	3.5		May 06, 2025	5.42%
+Frosta (HNDG)	Apr 25, 2025	2.4		Apr 29, 2025	3.06%
+HALEON ADR (HLN)	Apr 25, 2025	0.11661		Jun 05, 2025	1.66%
+HEBA Fastighets (0GNV)	Apr 25, 2025	0.52		May 02, 2025	1.70%
+HEBA Fastighets (HEBAb)	Apr 25, 2025	0.52		May 02, 2025	1.70%
+Kitron (0F0J)	Apr 25, 2025	0.35		May 15, 2025	0.89%
+Kitron (KIT)	Apr 25, 2025	0.35		May 15, 2025	0.87%
+Lime Tech (LIMET)	Apr 25, 2025	2		May 02, 2025	1.00%
+Metso Oyj (0MGI)	Apr 25, 2025	0.19		May 06, 2025	3.47%
+Metso Oyj (METSO)	Apr 25, 2025	0.19		May 06, 2025	3.47%
+nVent Electric (NVT)	Apr 25, 2025	0.2		May 09, 2025	1.33%
+OCBC Bank (OCBC)	Apr 25, 2025	0.41		May 09, 2025	5.87%
+OCBC Bank (OCBC)	Apr 25, 2025	0.16		May 09, 2025	5.87%
+Papirfabrikken Invest AS (PFINV)	Apr 25, 2025	10		Apr 29, 2025	22.52%
+Pihlajalinna Oy (PIHLIS)	Apr 25, 2025	0.38		May 06, 2025	3.10%
+PropNex (PROP)	Apr 25, 2025	0.03		May 08, 2025	6.92%
+PropNex (PROP)	Apr 25, 2025	0.025		May 08, 2025	6.92%
+Rejlers AB (REJLb)	Apr 25, 2025	5		May 02, 2025	3.01%
+San Miguel Brewery Hong Kong (0236)	Apr 25, 2025	0.05		May 15, 2025	6.49%
+Selvaag Bolig (0Q92)	Apr 25, 2025	1.25		May 08, 2025	3.40%
+Selvaag Bolig (SBOS)	Apr 25, 2025	1.25		May 08, 2025	3.59%
+Solid FAB (SFAB)	Apr 25, 2025	5		May 02, 2025	5.91%
+Sparebank 1 SR Bank ASA (0Q57)	Apr 25, 2025	8.5		May 05, 2025	5.32%
+Sparebank 1 SR Bank ASA (SB1NO)	Apr 25, 2025	8.5		May 05, 2025	5.35%
+Sparebank 1 SR Bank ASA (SB1NOo)	Apr 25, 2025	8.5		May 05, 2025	5.31%
+Studsvik (SVIK)	Apr 25, 2025	2		May 02, 2025	1.57%
+TISCO Financial F (TISCO_f)	Apr 25, 2025	5.75		May 16, 2025	7.79%
+TISCO Financial (TISCO)	Apr 25, 2025	5.75		May 16, 2025	7.89%
+TMB Bank DRC (NVPJq)	Apr 25, 2025	0.067		May 20, 2025	7.15%
+TMB Bank DRC (TTB_n)	Apr 25, 2025	0.067		May 20, 2025	6.88%
+TMBThanachart Bank (TTB)	Apr 25, 2025	0.067		May 20, 2025	6.88%
+Trelleborg B (0NL3)	Apr 25, 2025	7.5		May 02, 2025	1.80%
+Trelleborg B (TRELBs)	Apr 25, 2025	7.5		May 02, 2025	1.78%
+TXNM Energy (TXNM)	Apr 25, 2025	0.4075		May 16, 2025	3.12%
+United Plantations (UTPS)	Apr 25, 2025	0.27		May 09, 2025	4.97%
+United Plantations (UTPS)	Apr 25, 2025	0.47		May 09, 2025	4.97%
+Vopak (0O8V)	Apr 25, 2025	1.6		May 02, 2025	3.92%
+Vopak (VOPA)	Apr 25, 2025	1.6		May 02, 2025	3.95%
+Vopak (VOPA)	Apr 25, 2025	1.6		May 02, 2025	3.92%
+Vopak (VOPA)	Apr 25, 2025	1.6		May 02, 2025	3.93%
+Sunday, April 27, 2025
+Housing Bk Trd Fin (THBK)	Apr 27, 2025	0.3		--	8.04%
+Monday, April 28, 2025
+Ain Pharmaciez Inc (9627)	Apr 28, 2025	80		Jul 31, 2025	1.79%
+Aker Carbon (ACCA)	Apr 28, 2025	0.98		May 07, 2025	79.13%
+Alucon (ALUCON)	Apr 28, 2025	12		May 15, 2025	6.72%
+Anycolor (5032)	Apr 28, 2025	32.5		--	2.29%
+APAC Realty (APAC)	Apr 28, 2025	0.012		May 08, 2025	5.06%
+Applied DB DRC (ADB_mn)	Apr 28, 2025	0.02		May 16, 2025	2.70%
+Applied DB (ADBm)	Apr 28, 2025	0.02		May 16, 2025	2.70%
+Asia Medical Agricultural (AMARCm)	Apr 28, 2025	0.02		May 16, 2025	5.17%
+Asian Phytoceuticals (APCO)	Apr 28, 2025	0.092		May 13, 2025	2.93%
+ASML ADR (0M42)	Apr 28, 2025	1.631409		May 06, 2025	0.82%
+ASML ADR (ASML)	Apr 28, 2025	1.631409		May 06, 2025	0.81%
+ASML ADR (ASMN)	Apr 28, 2025	1.631409		May 06, 2025	0.81%
+Asukanet (2438)	Apr 28, 2025	7		Jul 29, 2025	1.50%
+Azearth (3161)	Apr 28, 2025	23		Jul 28, 2025	3.44%
+Bank Al-Etihad (UBSI)	Apr 28, 2025	0.1		--	5.99%
+Beauty Garage (3180)	Apr 28, 2025	7		Jul 28, 2025	1.01%
+Bilia (0RQ2)	Apr 28, 2025	1.4		May 05, 2025	4.10%
+Bilia (BILIa)	Apr 28, 2025	1.4		May 05, 2025	4.10%
+Care Twentyone (2373)	Apr 28, 2025	7		Jul 09, 2025	4.35%
+Cembra Money Bank AG (CMBN)	Apr 28, 2025	4.25		Apr 30, 2025	4.40%
+Cembra Money Bank AG (CMBNz)	Apr 28, 2025	4.25		Apr 30, 2025	4.40%
+China Everbright Water Ltd (1857)	Apr 28, 2025	0.0581		May 23, 2025	8.62%
+China Everbright Water Ltd (CEWL)	Apr 28, 2025	0.0102		May 23, 2025	8.45%
+CIMB Thai Bank (CIMBT)	Apr 28, 2025	0.04		May 16, 2025	6.67%
+COOR Service Management AB (COOR)	Apr 28, 2025	1		May 05, 2025	4.73%
+Early Age (3248)	Apr 28, 2025	15		Jul 07, 2025	4.57%
+EcoNaviSta (5585)	Apr 28, 2025	2.5		--	0.16%
+Edison RSP (EDNn)	Apr 28, 2025	0.09		Apr 30, 2025	4.84%
+Exsitec Holding AB (EXS)	Apr 28, 2025	1.75		May 05, 2025	1.50%
+First Juken Co Ltd (8917)	Apr 28, 2025	21		Jul 22, 2025	4.23%
+FreeBit (3843)	Apr 28, 2025	30		Jul 11, 2025	1.95%
+Frontier International (7050)	Apr 28, 2025	65		Jul 29, 2025	3.81%
+Fuji Miyagi (7605)	Apr 28, 2025	22.5		Jul 08, 2025	2.22%
+Gakujo Co Ltd (2301)	Apr 28, 2025	33		Jul 01, 2025	3.57%
+Gift (9279)	Apr 28, 2025	11		Jul 22, 2025	0.56%
+GreenEnergy (1436)	Apr 28, 2025	13		Jul 28, 2025	0.52%
+Gulf Insurance Jordan (GIGJ)	Apr 28, 2025	0.2		--	9.52%
+Hagihara Industries (7856)	Apr 28, 2025	30		Jul 02, 2025	4.36%
+Hamee (3134)	Apr 28, 2025	22.5		Jul 28, 2025	1.79%
+HEXPOL B (0R7O)	Apr 28, 2025	4.2		May 05, 2025	3.95%
+HEXPOL B (HPOLb)	Apr 28, 2025	4.2		May 05, 2025	4.00%
+Hi-Lex (7279)	Apr 28, 2025	23		Jul 01, 2025	2.67%
+Higashi Nihon House (1873)	Apr 28, 2025	6		Jul 28, 2025	3.36%
+Hoshino Resorts (3287)	Apr 28, 2025	4610		Jul 28, 2025	4.54%
+Inspec (6656)	Apr 28, 2025	3		--	0.39%
+ISEC Healthcare (ISEC)	Apr 28, 2025	0.007		May 09, 2025	2.78%
+Ito En Ltd (2593)	Apr 28, 2025	22		Jul 29, 2025	1.33%
+Ito En Pref (25935)	Apr 28, 2025	28		Jul 29, 2025	2.97%
+Kakiyasu Honten (2294)	Apr 28, 2025	85		Jul 22, 2025	2.91%
+Kanamoto Co Ltd (9678)	Apr 28, 2025	40		Jul 02, 2025	2.84%
+Keppel Corp (KPELF)	Apr 28, 2025	0.19		May 09, 2025	5.08%
+Keppel Corp (KPLM)	Apr 28, 2025	0.19		May 09, 2025	5.02%
+Kikuchi Seisakusho (3444)	Apr 28, 2025	10		--	3.53%
+Konoshima Chemical (4026)	Apr 28, 2025	22		Jul 22, 2025	2.70%
+Kumiai Chemical Industry (4996)	Apr 28, 2025	10		Jul 09, 2025	4.40%
+Kyowakogyosyo (5971)	Apr 28, 2025	80		Jul 11, 2025	1.42%
+LH Financial Group (6LH)	Apr 28, 2025	0.03		May 16, 2025	3.84%
+LH Financial (LHFG)	Apr 28, 2025	0.03		May 16, 2025	3.95%
+Lifco publ AB (LIFCBs)	Apr 28, 2025	2.4		May 05, 2025	0.73%
+Lifco publ AB (LIFCOb)	Apr 28, 2025	2.4		May 05, 2025	0.65%
+Macbee Planet (7095)	Apr 28, 2025	18		--	1.12%
+MEP Corporation PCL (MEBm)	Apr 28, 2025	0.35		May 20, 2025	5.21%
+MEP Corporation PCL (MEBm)	Apr 28, 2025	0.75		May 20, 2025	3.55%
+Miroku (7983)	Apr 28, 2025	5		Jul 10, 2025	0.65%
+Muangthai Capital (MTC)	Apr 28, 2025	0.25		May 15, 2025	0.53%
+Nadex (7435)	Apr 28, 2025	22		Jul 24, 2025	3.87%
+Nareru (9163)	Apr 28, 2025	55		Jul 01, 2025	4.81%
+Natoco (4627)	Apr 28, 2025	26		Jul 04, 2025	3.63%
+Nitto Seimo Co Ltd (3524)	Apr 28, 2025	50		Jul 28, 2025	3.06%
+Novac (5079)	Apr 28, 2025	60		Jul 31, 2025	4.60%
+NTT UD REIT Investment (8956)	Apr 28, 2025	3010		Jul 16, 2025	4.49%
+Panjawattana Plastic (PJW)	Apr 28, 2025	0.03		May 19, 2025	4.02%
+Pexip (PEXIP)	Apr 28, 2025	2.5		May 07, 2025	5.75%
+Prospect Capital (PSEC)	Apr 28, 2025	0.045		May 20, 2025	12.27%
+Quality Houses (QH)	Apr 28, 2025	0.08		May 20, 2025	6.92%
+Raccoon (3031)	Apr 28, 2025	12		Jul 29, 2025	2.57%
+Rock Field Co Ltd (2910)	Apr 28, 2025	14		Jul 29, 2025	1.45%
+Saga Furs Oyj C (SAGCV)	Apr 28, 2025	0.71		May 07, 2025	7.63%
+Sato Foods (2923)	Apr 28, 2025	60		Jul 24, 2025	0.91%
+Senshu Electric (9824)	Apr 28, 2025	70		Jul 02, 2025	2.84%
+Shoei Foods (8079)	Apr 28, 2025	30		Jul 10, 2025	1.44%
+Smaregi (4431)	Apr 28, 2025	15		--	0.61%
+Smart Concrete (SMARTm)	Apr 28, 2025	0.0485		May 19, 2025	7.24%
+Srithai Superware (SITHAI)	Apr 28, 2025	0.0034		May 16, 2025	5.61%
+Srithai Superware (SITHAI)	Apr 28, 2025	0.0366		May 16, 2025	5.61%
+Sunautas (7623)	Apr 28, 2025	21		Jul 28, 2025	3.51%
+TBCSCAT (3974)	Apr 28, 2025	6		Jul 11, 2025	3.27%
+Tenpos Busters (2751)	Apr 28, 2025	9		Jul 28, 2025	0.24%
+Thai Wah (TWPC)	Apr 28, 2025	0.057		May 20, 2025	2.59%
+Toell Co Ltd (3361)	Apr 28, 2025	23		Jul 11, 2025	2.89%
+Token Corp (1766)	Apr 28, 2025	330		Jul 29, 2025	2.62%
+Tomoe Engineering (6309)	Apr 28, 2025	73		Jul 08, 2025	4.21%
+TORQ (8077)	Apr 28, 2025	3		Jul 16, 2025	2.18%
+Tosei REIT (3451)	Apr 28, 2025	3710		Jul 07, 2025	5.74%
+Toshin (9444)	Apr 28, 2025	10		Jul 14, 2025	3.26%
+Towa Food Service (3329)	Apr 28, 2025	10		Jun 26, 2025	0.97%
+Umenohana (7604)	Apr 28, 2025	5		--	1.18%
+Umicore (0RUY)	Apr 28, 2025	0.175		Apr 30, 2025	3.85%
+Umicore (UMI)	Apr 28, 2025	0.175		Apr 30, 2025	4.00%
+Umicore (UMI)	Apr 28, 2025	0.175		Apr 30, 2025	4.01%
+UOB (UOBH)	Apr 28, 2025	0.25		May 13, 2025	5.37%
+UOB (UOBH)	Apr 28, 2025	0.92		May 13, 2025	5.37%
+Wha Utilities DRC (WHAUP_n)	Apr 28, 2025	0.1925		May 16, 2025	6.98%
+Wha Utilities (WHAUP)	Apr 28, 2025	0.014		May 16, 2025	6.98%
+Wha Utilities (WHAUP)	Apr 28, 2025	0.1785		May 16, 2025	6.98%
+Wiik & Hoeglund (WIIK)	Apr 28, 2025	0.04		May 20, 2025	4.44%
+Ya-Man (6630)	Apr 28, 2025	4.75		Jul 29, 2025	1.17%
+Zappallas Inc (3770)	Apr 28, 2025	5		Jul 29, 2025	1.44%
+Tuesday, April 29, 2025
+Acrow Formwork (ACF)	Apr 29, 2025	0.029		May 30, 2025	5.36%
+AES (A1ES34)	Apr 29, 2025	0.6787124		May 21, 2025	3.96%
+Akzo Nobel (AKU1)	Apr 29, 2025	1.54		May 07, 2025	3.35%
+Akzo Nobel (AKZO)	Apr 29, 2025	1.54		May 07, 2025	3.33%
+Akzo Nobel (AKZO)	Apr 29, 2025	1.54		May 07, 2025	3.32%
+Alleima AB (ALLEI)	Apr 29, 2025	2.3		May 06, 2025	2.44%
+Bank of Montreal Pref Y (BMO_py)	Apr 29, 2025	0.190875		May 26, 2025	3.11%
+Bank of Montreal (BMO)	Apr 29, 2025	1.59		May 27, 2025	4.28%
+Bank of Montreal (BMO)	Apr 29, 2025	1.59		May 27, 2025	4.26%
+Bank of Montreal (BMO)	Apr 29, 2025	1.59		May 27, 2025	4.30%
+Bank of Montreal (BMO_pe)	Apr 29, 2025	0.426		May 26, 2025	6.48%
+Berli Jucker DRC (BJC_n)	Apr 29, 2025	0.56		May 21, 2025	3.24%
+Berli Jucker F (NVP8)	Apr 29, 2025	0.56		May 21, 2025	3.45%
+Berli Jucker (BJC)	Apr 29, 2025	0.56		May 21, 2025	3.24%
+BG Container Glass (BGC)	Apr 29, 2025	0.095		May 20, 2025	3.55%
+Bluebik PCL (BBIKm)	Apr 29, 2025	0.22		May 20, 2025	0.65%
+Citigroup Capital XIII Pref (C_pn)	Apr 29, 2025	0.68239999		Apr 30, 2025	-
+Do Day Dream DRC (DDD_n)	Apr 29, 2025	0.03		May 20, 2025	2.31%
+Do Day Dream (DDD)	Apr 29, 2025	0.03		May 20, 2025	2.31%
+Glarner Kantonalbank (GLKBN)	Apr 29, 2025	1		May 02, 2025	4.41%
+Glencore (GLNJ)	Apr 29, 2025	0.05		Jun 04, 2025	-
+I.A.R Systems B (IARb)	Apr 29, 2025	1.5		May 06, 2025	1.09%
+Indara Insurance (INSURE)	Apr 29, 2025	10		May 20, 2025	11.11%
+Interhides (IHL)	Apr 29, 2025	0.02		May 16, 2025	5.30%
+Jor Islamic Bank (JOIB)	Apr 29, 2025	0.25		--	5.84%
+Keppel Corporation (KPELY)	Apr 29, 2025	0.281606		May 16, 2025	5.12%
+Klinique Medical Clinic PCL (KLINIQm)	Apr 29, 2025	0.75		May 22, 2025	4.59%
+Laguna Resorts Hotels (LRH)	Apr 29, 2025	1.4		May 20, 2025	3.78%
+Nordnet AB (SAVE)	Apr 29, 2025	8.1		May 06, 2025	3.33%
+NP3 Fastigheter Pref (NP3pref)	Apr 29, 2025	0.5		May 05, 2025	6.68%
+Opmobility SE (0NW1)	Apr 29, 2025	0.36		May 02, 2025	5.82%
+Opmobility SE (OPM)	Apr 29, 2025	0.36		May 02, 2025	5.81%
+Opmobility SE (PLOF)	Apr 29, 2025	0.36		May 02, 2025	5.72%
+Overseas Education Ltd (OVER)	Apr 29, 2025	0.012		May 09, 2025	5.85%
+Petchsrivichai Enterprise PCL (PCE)	Apr 29, 2025	0.15		May 20, 2025	4.66%
+Practical Solution PCL (TPSm)	Apr 29, 2025	0.2		May 15, 2025	5.46%
+Readyplanet PCL (READYm)	Apr 29, 2025	0.3		May 20, 2025	7.25%
+Rich Sport DRC (RSP_n)	Apr 29, 2025	0.18		May 20, 2025	10.29%
+Rich Sport (RSP)	Apr 29, 2025	0.18		May 20, 2025	10.29%
+Saksiam Leasing (SAK)	Apr 29, 2025	0.18		May 20, 2025	4.25%
+Santander (BNC)	Apr 29, 2025	0.0891		May 02, 2025	2.75%
+Santander (SAN)	Apr 29, 2025	0.0891		May 02, 2025	2.73%
+Santander (SAN)	Apr 29, 2025	0.0891		May 02, 2025	2.73%
+Santander (SAN)	Apr 29, 2025	0.0891		May 02, 2025	2.75%
+Santander (SANR)	Apr 29, 2025	0.0891		May 02, 2025	2.74%
+Santander (SANT)	Apr 29, 2025	0.0891		May 02, 2025	2.74%
+Schweizerische Nationalbank (0QKG)	Apr 29, 2025	15		May 02, 2025	0.42%
+Schweizerische Nationalbank (SNBN)	Apr 29, 2025	15		May 02, 2025	0.42%
+Signify (LGHT)	Apr 29, 2025	1.56		May 07, 2025	7.59%
+Signify (LIGHT)	Apr 29, 2025	1.56		May 07, 2025	7.62%
+Signify (LIGHTa)	Apr 29, 2025	1.56		May 07, 2025	7.47%
+Sikarin (SKR)	Apr 29, 2025	0.11		May 16, 2025	2.47%
+Southern Co (SOJD)	Apr 29, 2025	0.309375		Apr 30, 2025	-
+ST Engineering (STEG)	Apr 29, 2025	0.05		May 15, 2025	3.14%
+Structured Products Corts Tr Peco (KTH)	Apr 29, 2025	1		Apr 30, 2025	-
+Sun Sweet DRC (SUN_n)	Apr 29, 2025	0.1		May 21, 2025	8.01%
+Sunsweet (SUN)	Apr 29, 2025	0.05		May 21, 2025	8.01%
+Sunsweet (SUN)	Apr 29, 2025	0.05		May 21, 2025	8.01%
+Tasmea (TEA)	Apr 29, 2025	0.05		May 15, 2025	4.04%
+Terabyte Plus PCL (TERAm)	Apr 29, 2025	0.08		May 20, 2025	10.42%
+Thai Coconut PCL (COCOCO)	Apr 29, 2025	0.3		May 20, 2025	3.97%
+TPC Power (TPCHm)	Apr 29, 2025	0.037		May 15, 2025	12.42%
+Triple i Logistics DRC (III_n)	Apr 29, 2025	0.2		May 16, 2025	6.56%
+Triple i Logistics (III)	Apr 29, 2025	0.2		May 16, 2025	6.64%
+UEM Sunrise (UMSB)	Apr 29, 2025	0.0124		May 19, 2025	1.39%
+Vicat (0MGJ)	Apr 29, 2025	2		May 02, 2025	4.38%
+Vicat (VCTp)	Apr 29, 2025	2		May 02, 2025	5.69%
+Vicat (VCTP)	Apr 29, 2025	2		May 02, 2025	4.38%
+Volati (VOLO)	Apr 29, 2025	2		May 06, 2025	1.79%
+Willowglen MSC (WLOW)	Apr 29, 2025	0.015		May 20, 2025	5.56%
+Wilmar (WLIL)	Apr 29, 2025	0.1		May 15, 2025	4.98%
+Wednesday, April 30, 2025
+Aker Solutions ADR (AKRYY)	Apr 30, 2025	0.389195		--	4.32%
+Akzo Nobel ADR (AKZOY)	Apr 30, 2025	0.437631		May 14, 2025	2.67%
+Alfa Laval AB (0NNF)	Apr 30, 2025	8.5		May 07, 2025	1.83%
+Alfa Laval AB (ALFA)	Apr 30, 2025	8.5		May 07, 2025	1.83%
+Arjo (0HQ8)	Apr 30, 2025	0.95		May 07, 2025	2.42%
+Arjo (ARJOb)	Apr 30, 2025	0.95		May 07, 2025	2.42%
+Arjo (ARJOBs)	Apr 30, 2025	0.95		May 07, 2025	2.47%
+Atlas Copco A (ATCOa)	Apr 30, 2025	1.5		May 07, 2025	1.59%
+Atlas Copco B (0XXV)	Apr 30, 2025	1.5		May 07, 2025	1.81%
+Atlas Copco B (ATCOb)	Apr 30, 2025	1.5		May 07, 2025	1.81%
+Aurora Design PCL (AURA)	Apr 30, 2025	0.42		May 19, 2025	2.98%
+Bank Ireland (BIRG)	Apr 30, 2025	0.28		Jun 10, 2025	5.56%
+BCE Inc Pref AA (BCE_pa)	Apr 30, 2025	0.30875		Jun 01, 2025	7.11%
+BCE Inc Pref AC (BCE_pc)	Apr 30, 2025	0.3175		Jun 01, 2025	7.22%
+Bce Pref Z (BCE_pz)	Apr 30, 2025	0.334125		Jun 01, 2025	7.22%
+Bioscience Animal Health PCL (BISm)	Apr 30, 2025	0.09		May 20, 2025	5.22%
+Bravida Holding AB (0RBW)	Apr 30, 2025	3.75		May 07, 2025	4.07%
+Bravida Holding AB (BRAV)	Apr 30, 2025	3.75		May 07, 2025	4.07%
+Bravida Holding AB (BRAVs)	Apr 30, 2025	3.75		May 07, 2025	3.99%
+BRC Asia Ltd (BRCA)	Apr 30, 2025	0.06		May 15, 2025	6.64%
+BRC Asia Ltd (BRCA)	Apr 30, 2025	0.08		May 15, 2025	6.64%
+Bulten AB (3FB)	Apr 30, 2025	2.75		May 07, 2025	4.00%
+Bulten AB (BULTEN)	Apr 30, 2025	2.75		May 07, 2025	3.94%
+Caisse regionale de Credit Agricole Mutuel de Pari (CAIF)	Apr 30, 2025	2.58		May 05, 2025	3.41%
+Canadian Tire Corporation (CTC)	Apr 30, 2025	1.775		Jun 01, 2025	3.14%
+Canadian Tire Ltd (CTCa)	Apr 30, 2025	1.775		Jun 01, 2025	4.97%
+cBrain (CBRAIN)	Apr 30, 2025	0.64		May 02, 2025	0.46%
+Chiangmai Frozen (CM)	Apr 30, 2025	0.1		May 21, 2025	5.99%
+Christian Berner Trade Tech AB (BERNERb)	Apr 30, 2025	0.95		May 07, 2025	2.35%
+Citadelome (CTF_u)	Apr 30, 2025	0.02		May 15, 2025	8.36%
+Creades (CREADa)	Apr 30, 2025	0.4		May 07, 2025	2.00%
+DnB (0O84)	Apr 30, 2025	16.75		May 09, 2025	6.49%
+DnB (DNB)	Apr 30, 2025	16.75		May 09, 2025	6.47%
+Energyome (ENI_u)	Apr 30, 2025	0.01		May 15, 2025	7.06%
+First Sponsor Group Ltd (FSCA)	Apr 30, 2025	0.0355		May 19, 2025	4.31%
+G Able PCL (GABLE)	Apr 30, 2025	0.2703		May 21, 2025	8.24%
+Golden Wheat (GMC)	Apr 30, 2025	0.05		--	6.33%
+Goodyear (GYT)	Apr 30, 2025	2.29		May 21, 2025	1.28%
+Goodyear (GYT)	Apr 30, 2025	5.11		May 21, 2025	2.85%
+HAKI Safety AB (HAKIb)	Apr 30, 2025	0.5		May 07, 2025	1.94%
+HAKI Safety A (HAKIa)	Apr 30, 2025	0.5		May 07, 2025	1.88%
+Hochtief AG (0EPW)	Apr 30, 2025	5.23		May 05, 2025	3.48%
+Hochtief AG (1HOT)	Apr 30, 2025	5.23		May 05, 2025	3.47%
+Hochtief AG (HOTG)	Apr 30, 2025	5.23		May 05, 2025	3.47%
+Hochtief AG (HOTG)	Apr 30, 2025	5.23		May 05, 2025	3.48%
+Husqvarna A (HUSQAs)	Apr 30, 2025	0.5		May 07, 2025	-
+Husqvarna B (0GTR)	Apr 30, 2025	0.5		May 07, 2025	4.56%
+Husqvarna B (HUSQBs)	Apr 30, 2025	0.5		May 07, 2025	4.32%
+Internet Thailand (INET)	Apr 30, 2025	0.119		May 23, 2025	2.36%
+Investment Oresund (0RGB)	Apr 30, 2025	3.6		May 07, 2025	6.26%
+Investment Oresund (ORES)	Apr 30, 2025	3.6		May 07, 2025	6.12%
+Jubilee Enterprise (JUBILEm)	Apr 30, 2025	0.14		May 16, 2025	3.79%
+Know IT AB (KNOW)	Apr 30, 2025	1.15		May 07, 2025	2.46%
+Lagardere (0HB2)	Apr 30, 2025	0.67		May 05, 2025	3.20%
+Lagardere (LAGA)	Apr 30, 2025	0.67		May 05, 2025	3.21%
+Lagardere (LAGA)	Apr 30, 2025	0.67		May 05, 2025	3.18%
+Land and Houses F (LH_f)	Apr 30, 2025	0.17		May 21, 2025	5.47%
+Land and Houses (LH)	Apr 30, 2025	0.17		May 21, 2025	7.24%
+M P J Logistics PCL (MPJm)	Apr 30, 2025	0.3		May 22, 2025	9.32%
+Malaysian Resources (MYRS)	Apr 30, 2025	0.01		May 20, 2025	2.25%
+Malee Group (MALEE)	Apr 30, 2025	0.1		May 22, 2025	1.50%
+Medicover (5M0B)	Apr 30, 2025	0.15		May 07, 2025	0.83%
+Medicover (MCOVb)	Apr 30, 2025	0.15		May 07, 2025	0.80%
+Medicover (MCOVBs)	Apr 30, 2025	0.15		May 07, 2025	1.32%
+Mena Transport PCL (MENA)	Apr 30, 2025	0.03		May 16, 2025	3.00%
+MFEC (MFEC)	Apr 30, 2025	0.5		May 16, 2025	8.20%
+Moong Pattana Intl (MOONGm)	Apr 30, 2025	0.1261		May 20, 2025	9.79%
+Moshi Moshi Retail (MOSHI)	Apr 30, 2025	0.8		May 23, 2025	1.88%
+Neo (NEO)	Apr 30, 2025	1.35		May 21, 2025	4.50%
+New York Community Capital Trust V (FLG_pu)	Apr 30, 2025	0.73333333		May 01, 2025	-
+Nextera Energy Unt (NEE_pt)	Apr 30, 2025	0.90425		May 01, 2025	8.11%
+Nordic Waterproofing Holding AB (NWGs)	Apr 30, 2025	4		May 07, 2025	-
+Nordic Waterproofing Holding AB (NWHD)	Apr 30, 2025	4		May 07, 2025	2.17%
+Pacific Gas and Electric Co Pa Pref (PCG_pa)	Apr 30, 2025	0.375		May 15, 2025	6.48%
+Pacific Gas and Electric Co Pb Pref (PCG_pb)	Apr 30, 2025	0.34375		May 15, 2025	6.86%
+Pacific Gas and Electric Co Pc Pref (PCG_pc)	Apr 30, 2025	0.3125		May 15, 2025	-
+Pacific Gas and Electric Co Pd Pref (PCG_pd)	Apr 30, 2025	0.3125		May 15, 2025	6.95%
+Pacific Gas and Electric Co Pe Pref (PCG_pe)	Apr 30, 2025	0.3125		May 15, 2025	6.86%
+Pacific Gas and Electric Co Pg Pref (PCG_pg)	Apr 30, 2025	0.3		May 15, 2025	6.84%
+Pacific Gas and Electric Co Ph Pref (PCG_ph)	Apr 30, 2025	0.28125		May 15, 2025	6.76%
+Pacific Gas and Electric Co Pi Pref (PCG_pi)	Apr 30, 2025	0.2725		May 15, 2025	-
+Pranda Jewelry (PDJ)	Apr 30, 2025	0.1		May 21, 2025	5.78%
+Pre-Built (PREB)	Apr 30, 2025	0.2		May 23, 2025	5.10%
+ProfilGruppen B (PROFb)	Apr 30, 2025	5		May 07, 2025	4.33%
+Ratch Pathana Energy PCL (SCG)	Apr 30, 2025	0.05		May 22, 2025	1.63%
+Ratchaphruek Hospital DRC (RPH_n)	Apr 30, 2025	0.18		May 20, 2025	5.42%
+Ratchaphruek Hospital (RPH)	Apr 30, 2025	0.18		May 20, 2025	5.42%
+Rhom Bho Property DRC (TITLE_mn)	Apr 30, 2025	0.05		May 22, 2025	1.22%
+Rhom Bho Property (TITLEm)	Apr 30, 2025	0.05		May 22, 2025	1.22%
+Rojukiss International PCL (KISS)	Apr 30, 2025	0.12		May 23, 2025	9.20%
+RPCG PCL (RPC)	Apr 30, 2025	0.01		May 20, 2025	3.70%
+Salee Industry (SALEEm)	Apr 30, 2025	0.012		May 23, 2025	3.75%
+Sandvik AB (0HC0)	Apr 30, 2025	5.75		May 07, 2025	2.48%
+Sandvik AB (SAND)	Apr 30, 2025	5.75		May 07, 2025	2.47%
+Sanoma Oyj (SANOMA)	Apr 30, 2025	0.13		May 09, 2025	4.36%
+Scandi Standard publ AB (0QVR)	Apr 30, 2025	2.5		May 07, 2025	2.94%
+Scandi Standard publ AB (0SL)	Apr 30, 2025	2.5		May 07, 2025	3.04%
+Scandi Standard publ AB (SCST)	Apr 30, 2025	2.5		May 07, 2025	2.95%
+Semb Corp (SCIL)	Apr 30, 2025	0.17		May 13, 2025	3.78%
+SSAB A (0KII)	Apr 30, 2025	2.6		May 07, 2025	4.01%
+SSAB A (SSABa)	Apr 30, 2025	2.6		May 07, 2025	4.01%
+SSAB A (SSABAH)	Apr 30, 2025	2.6		May 07, 2025	4.01%
+SSAB B (0MHZ)	Apr 30, 2025	2.6		May 07, 2025	4.03%
+SSAB B (SSABBh)	Apr 30, 2025	2.6		May 07, 2025	3.21%
+SSAB B (SSABBH)	Apr 30, 2025	2.6		May 07, 2025	4.03%
+SSAB B (SSABBs)	Apr 30, 2025	2.6		May 07, 2025	4.03%
+Stars Microelectronics (SMT)	Apr 30, 2025	0.04		May 20, 2025	3.33%
+Surapon Foods (SSF)	Apr 30, 2025	0.3334		May 22, 2025	5.56%
+Svedbergs i Dalstorp B (SVEDb)	Apr 30, 2025	0.75		May 07, 2025	2.53%
+SWECO A (SWECa)	Apr 30, 2025	3.3		May 07, 2025	1.77%
+SWECO B (0H0G)	Apr 30, 2025	3.3		May 07, 2025	1.79%
+SWECO B (SWECb)	Apr 30, 2025	3.3		May 07, 2025	1.79%
+SWECO B (SWECBs)	Apr 30, 2025	3.3		May 07, 2025	1.92%
+Synnex Thailand (SYNEX)	Apr 30, 2025	0.34		May 14, 2025	4.04%
+Tennessee Valley (TVE)	Apr 30, 2025	0.1385		May 01, 2025	-
+Thule Group AB (THULE)	Apr 30, 2025	4.15		May 07, 2025	2.57%
+Thule Group AB (THULEs)	Apr 30, 2025	4.15		May 07, 2025	2.54%
+TKS Tech (TKS)	Apr 30, 2025	0.33		May 16, 2025	7.89%
+Troax Group (TROAX)	Apr 30, 2025	0.34		May 07, 2025	1.97%
+Vastra Hamnens Restaurangdrift Ab (VH)	Apr 30, 2025	1.5		May 07, 2025	2.91%
+Vesuvius India (VESU)	Apr 30, 2025	14.5		Jun 07, 2025	0.36%
+Vicom Ltd (VCOM)	Apr 30, 2025	0.03		May 09, 2025	4.33%
+Virtus (VRTS)	Apr 30, 2025	2.25		May 14, 2025	4.79%
+Vitrolife (0YAY)	Apr 30, 2025	1.1		May 07, 2025	0.58%
+Vitrolife (VITR)	Apr 30, 2025	1.1		May 07, 2025	0.56%
+Vitrolife (VITRs)	Apr 30, 2025	1.1		May 07, 2025	0.50%
+Voss Veksel La (VVL)	Apr 30, 2025	16.5		May 09, 2025	4.71%
+Wallenstam B (WALLb)	Apr 30, 2025	0.25		May 07, 2025	1.05%
+West Pharmaceutical Services (WST)	Apr 30, 2025	0.21		May 07, 2025	0.36%
+Wihlborgs Fastigheter (WIHL)	Apr 30, 2025	3.2		May 07, 2025	3.06%
+Thursday, May 1, 2025
+Bank Ireland (BIRG)	May 01, 2025	0.28		Jun 10, 2025	5.52%
+CDL Invest NZ (CDI)	May 01, 2025	0.0061764		May 16, 2025	5.28%
+CDL Invest NZ (CDI)	May 01, 2025	0.035		May 16, 2025	4.49%
+Centrica (CNA)	May 01, 2025	3		Jun 05, 2025	4.80%
+Glencore (GLEN)	May 01, 2025	0.05		Jun 04, 2025	2.87%
+Glencore (GLENN)	May 01, 2025	0.05		Jun 04, 2025	-
+National Rural Utilities Cooperative Finance (NRUC)	May 01, 2025	0.34375		May 15, 2025	-
+OM Holdings (OMH)	May 01, 2025	0.004		May 23, 2025	1.18%
+Porvair (PORV)	May 01, 2025	4.2		Jun 04, 2025	0.87%
+Prudential Financial (PRS)	May 01, 2025	0.3515625		May 15, 2025	-
+The AES (AES)	May 01, 2025	0.17595		May 15, 2025	6.07%
+Wam Strategic Value (WAR)	May 01, 2025	0.03		May 29, 2025	6.11%
+Friday, May 2, 2025
+A Brown Company Prf s (BRNP)	May 02, 2025	1.75		May 29, 2025	7.22%
+ABB India (ABB)	May 02, 2025	33.5		Jun 09, 2025	0.89%
+Asian Alliance International PCL (AAI)	May 02, 2025	0.0837		May 20, 2025	8.23%
+Asian Alliance International PCL (AAI)	May 02, 2025	0.1864		May 20, 2025	8.23%
+Atlas Copco AB (ATLKY)	May 02, 2025	0.087097		--	1.01%
+Atlas Copco ADR (ATLCY)	May 02, 2025	0.087097		--	1.16%
+Atoss AG (AOFG)	May 02, 2025	2.13		May 06, 2025	1.82%
+Beryl 8 Plus PCL (BE8m)	May 02, 2025	0.02		May 22, 2025	0.18%
+Beryl 8 Plus PCL (BE8m)	May 02, 2025	0.22		May 22, 2025	1.96%
+Caixa Seguridade Participacoes (CXSE3)	May 02, 2025	0.32		May 15, 2025	7.54%
+City Development (CTDM)	May 02, 2025	0.08		May 20, 2025	1.56%
+Civil Engineering PCL (CIVIL)	May 02, 2025	0.02		May 23, 2025	1.20%
+CPR Gomu (CPRm)	May 02, 2025	0.078		May 26, 2025	29.71%
+Eastern Water (EASTW)	May 02, 2025	0.01		May 23, 2025	0.99%
+Ekachai Medical (EKH)	May 02, 2025	0.27		May 22, 2025	9.09%
+Elkem (0SFN)	May 02, 2025	0.3		May 12, 2025	1.33%
+Elkem (1DP)	May 02, 2025	0.3		May 12, 2025	1.32%
+Elkem (ELK)	May 02, 2025	0.3		May 12, 2025	1.32%
+Elkem (ELKo)	May 02, 2025	0.3		May 12, 2025	1.70%
+Food Empire Holdings Ltd (FEMP)	May 02, 2025	0.02		May 14, 2025	7.02%
+Food Empire Holdings Ltd (FEMP)	May 02, 2025	0.06		May 14, 2025	5.26%
+Fortune Parts (FPIm)	May 02, 2025	0.04		May 15, 2025	4.76%
+Frencken Group Ltd (FREN)	May 02, 2025	0.0261		May 15, 2025	2.51%
+Harn Engineering Solutions (HARNm)	May 02, 2025	0.12		May 23, 2025	5.71%
+Hong Leong Asia Ltd (HLAA)	May 02, 2025	0.03		May 14, 2025	4.37%
+Index Intl (INDm)	May 02, 2025	0.0662		May 20, 2025	7.98%
+Kiatnakin Bank (KKP)	May 02, 2025	2.75		May 22, 2025	7.27%
+KSB (KSBL)	May 02, 2025	4		Jun 14, 2025	0.65%
+London Fin Investment Group (LFI)	May 02, 2025	71		May 08, 2025	106.87%
+Market Connections Asia PCL (MCAm)	May 02, 2025	0.045		May 22, 2025	4.13%
+MFC Asset Management (MFC)	May 02, 2025	1.05		May 21, 2025	4.20%
+Munich Re Group (0KFE)	May 02, 2025	20		May 06, 2025	3.69%
+Munich Re Group (MUV2)	May 02, 2025	20		May 06, 2025	3.67%
+Munich Re Group (MUVG)	May 02, 2025	20		May 06, 2025	0.04%
+Munich Re Group (MUVGn)	May 02, 2025	20		May 06, 2025	3.66%
+Naturenergie Holding (NEAG)	May 02, 2025	0.9		May 06, 2025	2.74%
+Nokia Oyj (0HAF)	May 02, 2025	0.035		May 12, 2025	3.01%
+Nokia Oyj (NOKIA)	May 02, 2025	0.035		May 12, 2025	3.04%
+Nokia Oyj (NOKIA)	May 02, 2025	0.035		May 12, 2025	2.96%
+Nokia Oyj (NOKIA)	May 02, 2025	0.035		May 12, 2025	3.02%
+Nokia Oyj (NOKIA)	May 02, 2025	0.035		May 12, 2025	3.02%
+Nokia Oyj (NOKIAp)	May 02, 2025	0.035		May 12, 2025	2.98%
+Nokia Oyj (NOKS)	May 02, 2025	0.035		May 12, 2025	3.02%
+P/f Bakkafrost (BAKKA)	May 02, 2025	8.44		May 21, 2025	2.34%
+P/f Bakkafrost (BAKKAo)	May 02, 2025	8.44		May 21, 2025	2.32%
+Pacific Basin Shipping (2343)	May 02, 2025	0.051		May 16, 2025	5.86%
+Pacific Basin Shipping (2343)	May 02, 2025	0.051		May 16, 2025	6.19%
+Pioneer Motor (PIMOm)	May 02, 2025	0.055		May 20, 2025	6.00%
+President Automobile Industries PCL (PACOm)	May 02, 2025	0.1		May 19, 2025	13.99%
+Sabina (SABINA)	May 02, 2025	0.65		May 20, 2025	7.02%
+SBS Transit Ltd (SBVV)	May 02, 2025	0.0841		May 13, 2025	10.82%
+SBS Transit Ltd (SBVV)	May 02, 2025	0.1469		May 13, 2025	10.82%
+SC Asset Corp (SC)	May 02, 2025	0.11		May 20, 2025	6.25%
+Sermsang Power DRC (SSP_n)	May 02, 2025	0.2		May 21, 2025	3.70%
+Sermsang Power (SSP)	May 02, 2025	0.2		May 21, 2025	3.70%
+Sheng Siong Group Ltd (SHEN)	May 02, 2025	0.032		May 16, 2025	3.90%
+Singapore Land Group (SIND)	May 02, 2025	0.045		May 28, 2025	2.37%
+Sino Logistics (SINO)	May 02, 2025	0.0625		May 23, 2025	8.45%
+Tikehau Capital Partners (TKOO)	May 02, 2025	0.8		May 06, 2025	3.81%
+Tropical Canning (TC)	May 02, 2025	0.3		May 22, 2025	4.65%
+Turnkey Communication Services PCL (TKC)	May 02, 2025	0.2		May 20, 2025	2.15%
+Utility Business Alliance PCL (UBAm)	May 02, 2025	0.1		May 20, 2025	11.63%
+Veranda Resort (VRANDA)	May 02, 2025	0.125		May 16, 2025	2.72%
+Volati Pref (VOLOpref)	May 02, 2025	10		May 08, 2025	6.31%
+Wilh Wilhelmsen Holding A (WWI)	May 02, 2025	12		May 30, 2025	4.92%
+Sunday, May 4, 2025
+Jordan Telecom (JTEL)	May 04, 2025	0.22		--	7.12%
+Monday, May 5, 2025
+Acorn Capital Invest Fund (ACQ)	May 05, 2025	0.0055		May 26, 2025	7.01%
+Acorn Capital Invest Fund (ACQ)	May 05, 2025	0.022		May 26, 2025	7.01%
+Anheuser Busch Inbev (ANHJ)	May 05, 2025	1		May 08, 2025	1.74%
+AXA SA (AXAFn)	May 05, 2025	2.15		May 07, 2025	5.74%
+AXA (0HAR)	May 05, 2025	2.15		May 07, 2025	5.75%
+AXA (AXA)	May 05, 2025	2.15		May 07, 2025	5.75%
+AXA (AXAF)	May 05, 2025	2.15		May 07, 2025	5.74%
+AXA (AXAF)	May 05, 2025	2.15		May 07, 2025	5.74%
+AXA (AXAF)	May 05, 2025	2.15		May 07, 2025	5.75%
+BASF (BASF)	May 05, 2025	2.25		May 07, 2025	0.05%
+BASF (BASF)	May 05, 2025	2.25		May 07, 2025	4.56%
+BASF (BASFN)	May 05, 2025	2.25		May 07, 2025	4.57%
+BASF (BASFn)	May 05, 2025	2.25		May 07, 2025	4.57%
+BASF (BASN)	May 05, 2025	2.25		May 07, 2025	5.37%
+ComfortDelGro (CMDG)	May 05, 2025	0.0425		May 14, 2025	5.59%
+Danone (0KFX)	May 05, 2025	2.15		May 07, 2025	3.13%
+Danone (DANO)	May 05, 2025	2.15		May 07, 2025	3.11%
+Danone (DANO)	May 05, 2025	2.15		May 07, 2025	3.12%
+Danone (DANO)	May 05, 2025	2.15		May 07, 2025	3.12%
+Haw Par Corporation Ltd (HPAR)	May 05, 2025	0.2		May 21, 2025	11.01%
+Haw Par Corporation Ltd (HPAR)	May 05, 2025	1		May 21, 2025	11.01%
+Hock Lian Seng Holdings Ltd (HLSG)	May 05, 2025	0.018		May 16, 2025	5.14%
+Hong Leong Finance Ltd (HLSF)	May 05, 2025	0.1		May 22, 2025	5.50%
+Itau Unibanco Holding (ITUBm)	May 05, 2025	0.00285		Jun 09, 2025	7.00%
+Itau Unibanco (ITUB)	May 05, 2025	0.0024229		Jun 09, 2025	0.53%
+Itau Unibanco (ITUBN)	May 05, 2025	0.0024229		Jun 09, 2025	7.54%
+Kering (0IIH)	May 05, 2025	4		May 07, 2025	2.24%
+Kering (KERN)	May 05, 2025	4		May 07, 2025	2.54%
+Kering (PRTP)	May 05, 2025	4		May 07, 2025	2.21%
+Kering (PRTP)	May 05, 2025	4		May 07, 2025	2.20%
+Kering (PRTP)	May 05, 2025	4		May 07, 2025	2.21%
+L'Oreal (0NZM)	May 05, 2025	7		May 07, 2025	2.01%
+L'Oreal (OREP)	May 05, 2025	7		May 07, 2025	1.98%
+L'Oreal (OREP)	May 05, 2025	7		May 07, 2025	1.98%
+L'Oreal (OREP)	May 05, 2025	7		May 07, 2025	1.99%
+L'Oreal (ORN)	May 05, 2025	7		May 07, 2025	1.96%
+L'Oreal (ORp)	May 05, 2025	7		May 07, 2025	2.02%
+London Fin Investment Group (LNFJ)	May 05, 2025	71		May 08, 2025	-
+Olam Group (OLAG)	May 05, 2025	0.03		May 14, 2025	6.00%
+Perak Transit (PERT)	May 05, 2025	0.005		May 23, 2025	2.72%
+St Galler Kantonalbank AG (SGKN)	May 05, 2025	7.35		May 07, 2025	4.01%
+St Galler Kantonalbank AG (SGKN)	May 05, 2025	11.65		May 07, 2025	2.46%
+St Galler Kantonalbank AG (SGKNz)	May 05, 2025	7.35		May 07, 2025	4.01%
+St Galler Kantonalbank AG (SGKNz)	May 05, 2025	11.65		May 07, 2025	2.46%
+United Corporations Prf 3 (UNC_pc)	May 05, 2025	0.375		May 15, 2025	-
+United Corporations Prf (UNC_pa)	May 05, 2025	0.375		May 15, 2025	-
+United Corporations (UNC)	May 05, 2025	0.3		May 15, 2025	0.95%
+United Overseas Insurance (UOIS)	May 05, 2025	0.06		May 16, 2025	3.11%
+United Overseas Insurance (UOIS)	May 05, 2025	0.085		May 16, 2025	3.11%
+United Prf 9 (UNC_pb)	May 05, 2025	0.375		May 15, 2025	-
+Varia US (VARN)	May 05, 2025	0.25		May 07, 2025	6.90%
+Varia US (VARN)	May 05, 2025	0.25		May 07, 2025	3.45%
+Venture Corporation Ltd (VENM)	May 05, 2025	0.5		May 19, 2025	5.95%
+Tuesday, May 6, 2025
+Allianz Ayudhya Capital PCL (AYUD)	May 06, 2025	1.67		May 27, 2025	8.16%
+Arrow Syndicate (ARROWm)	May 06, 2025	0.25		May 22, 2025	6.80%
+Asian Seafoods (ASIAN)	May 06, 2025	0.5603		May 21, 2025	13.20%
+Autocorp Holding (ACG)	May 06, 2025	0.0266		May 20, 2025	3.50%
+Bangkok Genomics Innovation PCL (BKGI)	May 06, 2025	0.05		May 28, 2025	2.38%
+Bank of Ayudhya (BAY)	May 06, 2025	0.45		May 22, 2025	3.71%
+BEC World DRC (BEC_n)	May 06, 2025	0.04		May 22, 2025	2.08%
+BEC World (BEC)	May 06, 2025	0.04		May 22, 2025	2.08%
+Buriram Sugar (BRR)	May 06, 2025	0.5		May 23, 2025	10.96%
+Central Retail (CRC)	May 06, 2025	0.6		May 23, 2025	1.79%
+Chularat Hospital (CHG)	May 06, 2025	0.05		May 23, 2025	3.24%
+Communication System (CSS)	May 06, 2025	0.04		May 23, 2025	4.82%
+CP All DRC (CPALL_n)	May 06, 2025	1.35		May 23, 2025	2.50%
+CP All PCL DRC (CPALL)	May 06, 2025	1.35		May 29, 2025	2.54%
+CP All PCL F (CPALL_f)	May 06, 2025	1.35		May 23, 2025	1.73%
+CP All PCL (CPALL)	May 06, 2025	1.35		May 23, 2025	2.50%
+Dental Corp DRC (D_mn)	May 06, 2025	0.045		May 21, 2025	4.05%
+Dental Corp (Dm)	May 06, 2025	0.045		May 21, 2025	4.05%
+Evolution AB (E3G1)	May 06, 2025	2.8		May 12, 2025	0.34%
+Evolution AB (EVOG)	May 06, 2025	2.8		May 12, 2025	0.34%
+Evolution AB (EVOs)	May 06, 2025	2.8		May 12, 2025	0.34%
+Fenix Outdoor International AG (FEOIb)	May 06, 2025	15		May 12, 2025	4.51%
+Fenix Outdoor International AG (FEOIb)	May 06, 2025	15		May 12, 2025	2.26%
+Fenix Outdoor International AG (FOIBs)	May 06, 2025	15		May 12, 2025	-
+Fenix Outdoor International AG (FOIBs)	May 06, 2025	15		May 12, 2025	-
+Firetrade Engineering (FTE)	May 06, 2025	0.12		May 23, 2025	10.13%
+First Resources Ltd (FRLD)	May 06, 2025	0.063		May 15, 2025	6.71%
+Grupo Catalana Occidente (0NRN)	May 06, 2025	0.48114		May 08, 2025	2.46%
+Grupo Catalana Occidente (GCO)	May 06, 2025	0.48114		May 08, 2025	2.46%
+Grupo Catalana Occidente (OCZA)	May 06, 2025	0.48114		May 08, 2025	2.51%
+Hexagon B (0GRX)	May 06, 2025	0.14		May 12, 2025	1.28%
+Hexagon B (HEXABs)	May 06, 2025	0.14		May 12, 2025	1.23%
+IFS Capital Ltd (IFAC)	May 06, 2025	0.005		May 19, 2025	3.85%
+Indorama Ventures DRC (I93A)	May 06, 2025	0.175		May 23, 2025	3.76%
+Indorama Ventures DRC (IVL_n)	May 06, 2025	0.175		May 23, 2025	3.66%
+Indorama Ventures (IVL)	May 06, 2025	0.175		May 23, 2025	3.66%
+K. W. Metal Work (KWMm)	May 06, 2025	0.0315		May 23, 2025	3.25%
+K. W. Metal Work (KWMm)	May 06, 2025	0.0385		May 23, 2025	3.97%
+KCG Corporation PCL (KCG)	May 06, 2025	0.41		May 23, 2025	5.39%
+Lighting and Equipment (LNE)	May 06, 2025	0.05		May 20, 2025	4.10%
+Medeze PCL (MEDEZE)	May 06, 2025	0.08		May 22, 2025	1.98%
+Mitsib (MITSIBm)	May 06, 2025	0.015		May 23, 2025	2.38%
+Namyong Terminal (NYT)	May 06, 2025	0.42		May 23, 2025	12.73%
+NAT Absolute Tech PCL (NATm)	May 06, 2025	0.13		May 16, 2025	9.26%
+Netbay (NETBAYm)	May 06, 2025	1.1793		May 16, 2025	7.19%
+Nice Call PCL (NCPm)	May 06, 2025	0.068		May 23, 2025	6.48%
+NL Development PCL (NL)	May 06, 2025	0.04		May 22, 2025	4.40%
+One Enterprise PCL (ONEE)	May 06, 2025	0.09		May 26, 2025	6.12%
+Ornsirin Holding Public (ORN)	May 06, 2025	0.02		May 23, 2025	2.86%
+Pan United Corporation Ltd (PANU)	May 06, 2025	0.023		May 16, 2025	4.80%
+Patrangsit Healthcare PCL DRC (PHG_n)	May 06, 2025	0.5		May 21, 2025	3.60%
+Patrangsit Healthcare PCL (PHG)	May 06, 2025	0.5		May 21, 2025	3.60%
+PCS Machine (PCSGH)	May 06, 2025	0.15		May 20, 2025	6.94%
+Peerapat (PRAPATm)	May 06, 2025	0.03		May 26, 2025	2.61%
+PMC Label Material PCL (PMCm)	May 06, 2025	0.002881		May 26, 2025	0.36%
+Prima Marine DRC DRC (PRM_n)	May 06, 2025	0.24		May 23, 2025	6.36%
+Prima Marine (PRM)	May 06, 2025	0.24		May 23, 2025	6.32%
+R And B Food Supply (RBF)	May 06, 2025	0.009		May 23, 2025	0.19%
+R And B Food Supply (RBF)	May 06, 2025	0.166		May 23, 2025	3.42%
+Salee Colour (COLORm)	May 06, 2025	0.05		May 23, 2025	4.67%
+Saratoga Investment Corp (SAR)	May 06, 2025	0.25		May 22, 2025	11.54%
+Seatrium Limited (SEAT)	May 06, 2025	0.015		May 19, 2025	0.71%
+Siamrajathanee (SO)	May 06, 2025	0.18		May 21, 2025	4.39%
+Supreme Distribution PCL (SPREME)	May 06, 2025	0.11		May 21, 2025	7.48%
+TAC Consumer (TACCm)	May 06, 2025	0.19		May 21, 2025	9.24%
+TBN Corporation PCL (TBNm)	May 06, 2025	0.05		May 23, 2025	0.87%
+TBN Corporation PCL (TBNm)	May 06, 2025	0.14		May 23, 2025	2.43%
+Thachang Green Energy PCL (TGE)	May 06, 2025	0.00318		May 23, 2025	0.18%
+Thanulux (TNL)	May 06, 2025	0.4		May 23, 2025	1.22%
+Tirathai (TRTm)	May 06, 2025	0.24		May 21, 2025	11.08%
+TPBI (TPBI)	May 06, 2025	0.3		May 23, 2025	7.85%
+UOL Group (UTOS)	May 06, 2025	0.18		May 20, 2025	3.33%
+Villa Kunalai Co (KUN)	May 06, 2025	0.01		May 20, 2025	0.85%
+Winner Group (WINNERm)	May 06, 2025	0.09		May 20, 2025	7.54%
+Wednesday, May 7, 2025
+Aesthetic Connect PCL (TRPm)	May 07, 2025	0.2		May 26, 2025	2.99%
+After You Public NV (AU_mn)	May 07, 2025	0.33		May 22, 2025	3.59%
+After You Public (AUm)	May 07, 2025	0.33		May 22, 2025	3.59%
+AGES Industri AB (AGESb)	May 07, 2025	1.5		May 13, 2025	2.59%
+Amata VN (AMATAV)	May 07, 2025	0.05		May 23, 2025	1.23%
+AP (AP)	May 07, 2025	0.6		May 22, 2025	6.70%
+Asefa (ASEFA)	May 07, 2025	0.14		May 22, 2025	4.90%
+Asian Palm Oil PCL (APOm)	May 07, 2025	0.04		May 28, 2025	2.41%
+BEC World ADR (BECVY)	May 07, 2025	0.008359		Jun 06, 2025	-
+Beijer Alma (BEIAb)	May 07, 2025	3.95		May 13, 2025	1.99%
+Boutique Newcity (BTNC)	May 07, 2025	0.2		May 23, 2025	1.63%
+BPS Technology PCL (BPSm)	May 07, 2025	0.0125		May 26, 2025	2.40%
+Byggmax Group (0MR4)	May 07, 2025	0.75		May 13, 2025	1.50%
+Byggmax Group (BMAX)	May 07, 2025	0.75		May 13, 2025	1.50%
+Byggmax Group (BMAXs)	May 07, 2025	0.75		May 13, 2025	-
+CDW Holding (CDWH)	May 07, 2025	0.004		May 22, 2025	-
+CellaVision AB (0MR5)	May 07, 2025	2.5		May 13, 2025	1.42%
+CellaVision AB (CEVI)	May 07, 2025	2.5		May 13, 2025	1.42%
+Centurion (CNCL)	May 07, 2025	0.02		May 26, 2025	3.54%
+City Sports Recreation (CSR)	May 07, 2025	1.91		May 28, 2025	2.20%
+CK Power (CKP)	May 07, 2025	0.085		May 23, 2025	3.22%
+Delfi (DELF)	May 07, 2025	0.0157		May 16, 2025	5.88%
+Eason Paint (EASON)	May 07, 2025	0.06		May 23, 2025	5.66%
+Eastern Star RE (ESTAR)	May 07, 2025	0.01		May 27, 2025	5.88%
+Evolution Gaming Group AB (EVVTY)	May 07, 2025	2.418772		May 27, 2025	3.16%
+Geo Energy Resources Ltd (GEOE)	May 07, 2025	0.004		May 16, 2025	3.85%
+Grand Venture (GRAN)	May 07, 2025	0.003		May 23, 2025	0.36%
+Hang Lung Ppt (0101)	May 07, 2025	0.4		Jun 16, 2025	7.98%
+Hang Lung Ppt (0101)	May 07, 2025	0.4		Jun 16, 2025	8.21%
+Hang Lung (0010)	May 07, 2025	0.65		Jun 16, 2025	7.98%
+Hemnet Group AB (HEM)	May 07, 2025	1.7		May 13, 2025	0.42%
+Hifab Group AB (HIFAb)	May 07, 2025	0.17		May 13, 2025	4.64%
+Humana (HUMAN)	May 07, 2025	1		May 13, 2025	2.13%
+ICC Intl (ICC)	May 07, 2025	0.630136		May 27, 2025	1.95%
+Interlink Communication (ILINK)	May 07, 2025	0.42		May 23, 2025	7.43%
+JD Food PCL (JDF)	May 07, 2025	0.08		May 21, 2025	3.96%
+JWD InfoLogistics (SJWD)	May 07, 2025	0.28		May 23, 2025	4.15%
+KT Medical Service PCL (KTMSm)	May 07, 2025	0.0233		May 26, 2025	1.69%
+Kumwell (KUMWELm)	May 07, 2025	0.0035		May 23, 2025	0.34%
+Kumwell (KUMWELm)	May 07, 2025	0.0565		May 23, 2025	5.54%
+Loomis B (0JYZ)	May 07, 2025	14		May 13, 2025	3.35%
+Louis HachEtte (ALHG)	May 07, 2025	0.06		May 09, 2025	4.21%
+Louis HachEtte (ALHG)	May 07, 2025	0.06		May 09, 2025	4.19%
+Matichon (MATI)	May 07, 2025	0.1		May 23, 2025	2.07%
+mDR Ltd (MDRT)	May 07, 2025	0.002299		May 30, 2025	6.21%
+Megachem Thailand DRC (MGT_mn)	May 07, 2025	0.07		May 22, 2025	5.78%
+Megachem Thailand (MGTm)	May 07, 2025	0.07		May 22, 2025	5.71%
+Mewah International Inc (MEWI)	May 07, 2025	0.0061		May 21, 2025	2.83%
+Minor International F (MINT_f)	May 07, 2025	0.35		May 23, 2025	2.11%
+Minor Intl DRC (MINT_n)	May 07, 2025	0.35		May 23, 2025	2.07%
+Minor Intl (MINT)	May 07, 2025	0.35		May 23, 2025	2.07%
+MK Restaurant (M)	May 07, 2025	1		May 22, 2025	7.77%
+New Wave Group B (0KIZ)	May 07, 2025	1.75		May 13, 2025	3.20%
+New Wave Group B (NEWAb)	May 07, 2025	1.75		May 13, 2025	3.20%
+New Wave Group B (NEWABs)	May 07, 2025	1.75		May 13, 2025	-
+NoHo Partners (NOHOP)	May 07, 2025	0.15		May 15, 2025	4.69%
+Nolato B (0OA9)	May 07, 2025	1.5		May 13, 2025	2.47%
+Nolato B (NOLAb)	May 07, 2025	1.5		May 13, 2025	2.45%
+Nolato B (NOLABs)	May 07, 2025	1.5		May 13, 2025	-
+Norbit (NORBT)	May 07, 2025	3		May 16, 2025	2.68%
+Peab B (0MHT)	May 07, 2025	1.5		May 13, 2025	1.86%
+Peab B (PEABBs)	May 07, 2025	1.5		May 13, 2025	1.82%
+Praram 9 Hospital (PR9)	May 07, 2025	0.25		May 22, 2025	1.75%
+Proact IT Group (PACT)	May 07, 2025	2.4		May 13, 2025	2.00%
+S & J Intl (SNJ)	May 07, 2025	1.5		May 28, 2025	4.38%
+Selic Corp (SELIC)	May 07, 2025	0.038		May 23, 2025	1.27%
+Sherwood Chemicals (SWCm)	May 07, 2025	0.125		May 23, 2025	4.84%
+Sirakorn PCL (SKm)	May 07, 2025	0.05		May 23, 2025	8.47%
+Srinanaporn Marketing PCL (SNNP)	May 07, 2025	0.35		May 21, 2025	4.88%
+Star Money PCL (SM)	May 07, 2025	0.03		May 26, 2025	3.03%
+Supalai F (SPALI_f)	May 07, 2025	0.85		May 20, 2025	8.90%
+Supalai PCL (SPALI)	May 07, 2025	0.85		May 20, 2025	8.43%
+Thai Auto Tools and Die PCL DRC (TATG_mn)	May 07, 2025	0.07		May 28, 2025	6.80%
+Thai Auto Tools Die PCL (TATGm)	May 07, 2025	0.07		May 28, 2025	6.80%
+Thai Life Insurance PCL (TLI)	May 07, 2025	0.5		--	4.46%
+Thai OPP (TOPP)	May 07, 2025	2.88		May 28, 2025	1.86%
+Thai OPP (TOPP)	May 07, 2025	2.03		May 28, 2025	1.31%
+Thai Rung Union (TRU)	May 07, 2025	0.0325		May 23, 2025	0.99%
+Thai Rung Union (TRU)	May 07, 2025	0.2675		May 23, 2025	8.16%
+Tomra Systems (0KV7)	May 07, 2025	2.15		May 20, 2025	1.27%
+Tomra Systems (TMRA)	May 07, 2025	2.15		May 20, 2025	1.29%
+Tomra Systems (TOM)	May 07, 2025	2.15		May 20, 2025	1.28%
+Tpcs PCL (TPCS)	May 07, 2025	0.25		May 27, 2025	2.00%
+UMS Holdings Ltd (UMSI)	May 07, 2025	0.02		May 23, 2025	5.10%
+UOB Kay Hian Holdings Ltd (UOKH)	May 07, 2025	0.119		Jun 26, 2025	6.57%
+Vibhavadi Medical Center (VIBHA)	May 07, 2025	0.05		May 28, 2025	2.76%
+WHA Corp (WHA)	May 07, 2025	0.1237		May 23, 2025	5.54%
+YKGI (YKGI)	May 07, 2025	0.0036		May 19, 2025	7.58%
+Thursday, May 8, 2025
+Alla PCL Non voting (ALLA_n)	May 08, 2025	0.11		May 23, 2025	8.03%
+Alla (ALLA)	May 08, 2025	0.11		May 23, 2025	8.03%
+Allianz (0M6S)	May 08, 2025	15.4		May 12, 2025	4.61%
+Allianz (ALV)	May 08, 2025	15.4		May 12, 2025	4.66%
+Allianz (ALVG)	May 08, 2025	15.4		May 12, 2025	4.66%
+Allianz (ALVG)	May 08, 2025	15.4		May 12, 2025	-
+Allianz (ALVG)	May 08, 2025	15.4		May 12, 2025	4.67%
+Allianz (ALVG)	May 08, 2025	15.4		May 12, 2025	0.05%
+Allianz (ALVN)	May 08, 2025	15.4		May 12, 2025	4.90%
+Allianz (ALVP)	May 08, 2025	15.4		May 12, 2025	5.20%
+AP Oil International Ltd (AOIL)	May 08, 2025	0.005		May 26, 2025	3.73%
+Asset World (AWC)	May 08, 2025	0.075		May 28, 2025	2.57%
+Attendo International publ AB (0RCY)	May 08, 2025	1.2		May 14, 2025	1.94%
+Attendo International publ AB (ATTE)	May 08, 2025	1.2		May 14, 2025	1.92%
+Bangkok Aviation Fuel (BAFS)	May 08, 2025	0.3		May 22, 2025	4.55%
+BioGaia B (0GTN)	May 08, 2025	1.95		May 14, 2025	1.57%
+BioGaia B (0GTN)	May 08, 2025	4.95		May 14, 2025	5.55%
+BioGaia B (BIOGb)	May 08, 2025	1.95		May 14, 2025	1.57%
+BioGaia B (BIOGb)	May 08, 2025	4.95		May 14, 2025	5.54%
+BioGaia B (BIOGBs)	May 08, 2025	1.95		May 14, 2025	-
+BioGaia B (BIOGBs)	May 08, 2025	4.95		May 14, 2025	-
+Bittium (BITTI)	May 08, 2025	0.1		May 16, 2025	1.50%
+Bouvet (0HDU)	May 08, 2025	3		May 20, 2025	9.18%
+Bouvet (BOUV)	May 08, 2025	3		May 20, 2025	9.30%
+Charoen Pokphandoods DRC (CPF_n)	May 08, 2025	0.55		May 23, 2025	4.10%
+Charoen Pokphandoods DRC (CPFt)	May 08, 2025	0.55		May 23, 2025	4.27%
+Charoen Pokphand (CPF)	May 08, 2025	0.55		May 23, 2025	4.10%
+Chin Huay PCL (CH)	May 08, 2025	0.1		May 26, 2025	5.21%
+Chonburi Concrete (CCP)	May 08, 2025	0.01		May 28, 2025	4.76%
+Credit Bureau (CRED)	May 08, 2025	0.02		May 30, 2025	3.28%
+Electrolux Prof (EPROb)	May 08, 2025	0.85		May 14, 2025	1.13%
+Future Generation (FGX)	May 08, 2025	0.035		May 21, 2025	5.53%
+GoldenAgr (GAGR)	May 08, 2025	0.00804		May 20, 2025	3.22%
+H&M B (0HBP)	May 08, 2025	3.4		May 14, 2025	4.64%
+H&M B (HEMS)	May 08, 2025	3.4		May 14, 2025	4.54%
+H&M B (HMb)	May 08, 2025	3.4		May 14, 2025	4.61%
+Home Pottery (HPTm)	May 08, 2025	0.0223		May 23, 2025	5.72%
+Humanica DRC (HUMAN_n)	May 08, 2025	0.18		May 29, 2025	3.77%
+Humanica (HUMAN)	May 08, 2025	0.03		May 29, 2025	3.77%
+Humanica (HUMAN)	May 08, 2025	0.15		May 29, 2025	3.77%
+iFAST Corporation (IFAS)	May 08, 2025	0.016		May 23, 2025	0.69%
+Investor A (INVEAs)	May 08, 2025	3.75		May 14, 2025	1.72%
+Investor B (0NC6)	May 08, 2025	3.75		May 14, 2025	1.55%
+Investor B (1INVEB)	May 08, 2025	3.75		May 14, 2025	1.54%
+Investor B (INVEb)	May 08, 2025	3.75		May 14, 2025	1.55%
+Karmarts (KAMART)	May 08, 2025	0.11		May 23, 2025	4.61%
+Kongsberg (0F08)	May 08, 2025	10		May 27, 2025	0.74%
+Kongsberg (KOG)	May 08, 2025	10		May 27, 2025	0.73%
+Kongsberg (KOGo)	May 08, 2025	10		May 27, 2025	0.75%
+Kongsberg (KOZ)	May 08, 2025	10		May 27, 2025	0.74%
+Main Street Capital (MAIN)	May 08, 2025	0.25		May 15, 2025	4.93%
+Mercedes Benz Group (0NXX)	May 08, 2025	4.3		May 12, 2025	7.28%
+Mercedes Benz Group (DAI)	May 08, 2025	4.3		May 12, 2025	-
+Mercedes Benz Group (DAIG)	May 08, 2025	4.3		May 12, 2025	7.30%
+Mercedes Benz Group (MBG)	May 08, 2025	4.3		May 12, 2025	7.19%
+Mercedes Benz Group (MBG)	May 08, 2025	4.3		May 12, 2025	7.19%
+Mercedes Benz Group (MBG)	May 08, 2025	4.3		May 12, 2025	7.27%
+Mercedes Benz Group (MBGn)	May 08, 2025	4.3		May 12, 2025	7.19%
+Mercedes Benz Group (MBGN)	May 08, 2025	4.3		May 12, 2025	8.11%
+Midsona A (MSONa)	May 08, 2025	0.2		May 14, 2025	1.60%
+Midsona B (MSONb)	May 08, 2025	0.2		May 14, 2025	2.26%
+Midsona B (MSONBs)	May 08, 2025	0.2		May 14, 2025	-
+MIPS (MIPS)	May 08, 2025	6.5		May 14, 2025	1.33%
+MIPS (MIPSs)	May 08, 2025	6.5		May 14, 2025	1.26%
+Modernform (MODERN)	May 08, 2025	0.18		May 23, 2025	9.18%
+Mycronic publ AB (MYCR)	May 08, 2025	5.5		May 14, 2025	1.21%
+Mycronic publ AB (MYCR)	May 08, 2025	2		May 14, 2025	1.65%
+Mycronic publ AB (MYCRs)	May 08, 2025	5.5		May 14, 2025	1.30%
+Mycronic publ AB (MYCRs)	May 08, 2025	2		May 14, 2025	1.77%
+Nanofilm (NANO)	May 08, 2025	0.0033		May 20, 2025	0.98%
+NCC A (NCCAs)	May 08, 2025	2		May 14, 2025	-
+NCC A (NCCAs)	May 08, 2025	4.5		May 14, 2025	-
+NCC B (0OFP)	May 08, 2025	2		May 14, 2025	5.38%
+NCC B (0OFP)	May 08, 2025	4.5		May 14, 2025	5.38%
+NCC B (NCCBs)	May 08, 2025	2		May 14, 2025	5.26%
+NCC B (NCCBs)	May 08, 2025	4.5		May 14, 2025	5.26%
+Nokian Renkaat (0FFY)	May 08, 2025	0.25		May 20, 2025	7.18%
+Nokian Renkaat (NRE1V)	May 08, 2025	0.25		May 20, 2025	7.17%
+Nokian Renkaat (TYRES)	May 08, 2025	0.25		May 20, 2025	7.18%
+NP3 Fastigheter AB (NP3)	May 08, 2025	1.3		May 14, 2025	1.06%
+OKP Holdings Ltd (OKPH)	May 08, 2025	0.01		May 27, 2025	2.04%
+OKP Holdings Ltd (OKPH)	May 08, 2025	0.015		May 27, 2025	5.10%
+Osotspa (OSP)	May 08, 2025	0.3		May 26, 2025	4.03%
+Pinthong Industrial Park PCL (PIN)	May 08, 2025	0.76		May 23, 2025	11.97%
+Relx (REL)	May 08, 2025	44.8		Jun 19, 2025	-
+Relx (REL)	May 08, 2025	44.8		Jun 19, 2025	1.65%
+Relx (REL)	May 08, 2025	44.8		Jun 19, 2025	1.64%
+Relx (RLXXF)	May 08, 2025	44.8		Jun 19, 2025	1.69%
+Renault (0NQF)	May 08, 2025	2.2		May 12, 2025	4.46%
+Renault (RENA)	May 08, 2025	2.2		May 12, 2025	4.41%
+Renault (RENA)	May 08, 2025	2.2		May 12, 2025	4.41%
+Renault (RENA)	May 08, 2025	2.2		May 12, 2025	4.46%
+Renault (RENA)	May 08, 2025	2.2		May 12, 2025	4.41%
+Safe Fertility PCL (SAFE)	May 08, 2025	0.62		May 23, 2025	6.63%
+Saha Pathana Inter (SPI)	May 08, 2025	0.7		May 27, 2025	1.49%
+Saha Pathanapibul (SPC)	May 08, 2025	1.6		May 27, 2025	4.10%
+Schibsted A (0MHM)	May 08, 2025	2.25		May 16, 2025	0.72%
+Schibsted A (SCHA)	May 08, 2025	2.25		May 16, 2025	0.72%
+SD Guthrie Bhd (SDGU)	May 08, 2025	0.1171		May 23, 2025	3.23%
+Seafco (SEAFCO)	May 08, 2025	0.03		May 21, 2025	1.51%
+Shangri La Hotel (SHANG)	May 08, 2025	1		May 27, 2025	2.37%
+Srisawad Finance PCL (SCAP)	May 08, 2025	0.0023		May 27, 2025	0.18%
+Srisawad Power 1979 (SAWAD)	May 08, 2025	0.04		May 27, 2025	0.12%
+SThree (STEMS)	May 08, 2025	9.2		Jun 06, 2025	5.90%
+Straits Trading Company Ltd (STCM)	May 08, 2025	0.08		Jun 30, 2025	5.52%
+Telechoice International Ltd (TCIN)	May 08, 2025	0.00125		May 28, 2025	1.67%
+Thai Plaspac (TPAC)	May 08, 2025	0.38		May 23, 2025	4.37%
+Tuan Sing Holdings Ltd (TSHS)	May 08, 2025	0.007		Jun 26, 2025	2.50%
+Unibail-Rodamco (0YO9)	May 08, 2025	3.5		May 12, 2025	4.28%
+Unibail-Rodamco (UNBP)	May 08, 2025	3.5		May 12, 2025	4.28%
+Unibail-Rodamco (URW)	May 08, 2025	3.5		May 12, 2025	4.29%
+Veidekke (0GF6)	May 08, 2025	9		May 21, 2025	6.22%
+Veidekke (VEI)	May 08, 2025	9		May 21, 2025	6.22%
+Walmart BDR (WALM34)	May 08, 2025	0.0566479		Jun 02, 2025	0.63%
+Walmart (1WMT)	May 08, 2025	0.235		May 27, 2025	0.97%
+Wee Hur Holdings Ltd (WHHL)	May 08, 2025	0.008		May 23, 2025	2.11%
+Friday, May 9, 2025
+AAK (AAK)	May 09, 2025	5		May 15, 2025	1.66%
+AAK (AAKs)	May 09, 2025	5		May 15, 2025	1.66%
+AddLife (0REZ)	May 09, 2025	0.75		May 15, 2025	0.46%
+AddLife (ALIFb)	May 09, 2025	0.75		May 15, 2025	0.46%
+AlzChem Group (ACT1)	May 09, 2025	1.8		May 13, 2025	2.31%
+AlzChem Group (ACT1)	May 09, 2025	1.8		May 13, 2025	2.31%
+Betsson (0A37)	May 09, 2025	0.3285		May 15, 2025	2.96%
+Betsson (0A37)	May 09, 2025	0.1		May 15, 2025	2.96%
+Betsson (BETSb)	May 09, 2025	0.3285		May 15, 2025	5.15%
+Betsson (BETSb)	May 09, 2025	0.1		May 15, 2025	5.15%
+Bonvests Holdings Ltd (BVHS)	May 09, 2025	0.008		May 28, 2025	0.87%
+Brook Crompton (BROO)	May 09, 2025	0.02		May 30, 2025	3.64%
+CTT Systems AB (CTTS)	May 09, 2025	5.35		May 15, 2025	2.31%
+Epiroc A (0YSUa)	May 09, 2025	1.9		May 15, 2025	1.81%
+Epiroc A (3AD1)	May 09, 2025	1.9		May 15, 2025	1.85%
+Epiroc A (EPIAs)	May 09, 2025	1.9		May 15, 2025	1.83%
+Epiroc A (EPIRa)	May 09, 2025	1.9		May 15, 2025	1.81%
+Epiroc B (0YSVb)	May 09, 2025	1.9		May 15, 2025	2.06%
+Epiroc B (EPIBs)	May 09, 2025	1.9		May 15, 2025	2.05%
+Epiroc B (EPIRb)	May 09, 2025	1.9		May 15, 2025	2.07%
+Grupo Bolivar (SCA)	May 09, 2025	228		May 15, 2025	3.85%
+Hoist Finance AB (4HF)	May 09, 2025	2		May 15, 2025	2.71%
+Hoist Finance AB (HOFI)	May 09, 2025	2		May 15, 2025	2.65%
+Index Living Mall (ILM)	May 09, 2025	0.75		May 23, 2025	7.14%
+Investment Latour (18LB)	May 09, 2025	4.6		May 15, 2025	1.62%
+Investment Latour (LATOBs)	May 09, 2025	4.6		May 15, 2025	1.66%
+Lammhults Design B (LAMMb)	May 09, 2025	1		May 15, 2025	3.70%
+Mah Sing (MAHS)	May 09, 2025	0.045		May 26, 2025	3.63%
+Mensch und Maschine Software (MUMG)	May 09, 2025	1.85		May 13, 2025	3.84%
+Multi Chem Ltd (MCHE)	May 09, 2025	0.142		May 23, 2025	7.93%
+Relx ADR (RDEDy)	May 09, 2025	0.558611		Jun 25, 2025	1.66%
+Relx ADR (RELX)	May 09, 2025	0.558611		Jun 25, 2025	1.65%
+Securitas B (0IAH)	May 09, 2025	2.25		May 15, 2025	2.67%
+Securitas B (SECUb)	May 09, 2025	2.25		May 15, 2025	2.66%
+Sena J Property PCL (SENXm)	May 09, 2025	0.00573		May 22, 2025	2.29%
+Siam Steel Service (SSSC)	May 09, 2025	0.165		May 23, 2025	8.17%
+Talanx AG (TLXGn)	May 09, 2025	2.7		May 13, 2025	3.09%
+Talanx AG (TLXGn)	May 09, 2025	2.7		May 13, 2025	3.08%
+Ternium ADR (TX)	May 09, 2025	1.8		May 14, 2025	9.35%
+TOA Paint (TOA)	May 09, 2025	0.27		May 23, 2025	5.26%
+Walmart DRC (WMTm)	May 09, 2025	0.013056		May 27, 2025	0.83%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	0.97%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	1.06%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	0.97%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	0.96%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	0.96%
+Walmart (WMT)	May 09, 2025	0.235		May 27, 2025	0.95%
+Wattana Karnpaet (NEW)	May 09, 2025	1.8		May 20, 2025	1.68%
+Monday, May 12, 2025
+BAM Groep (0LNQ)	May 12, 2025	0.25		Jun 06, 2025	4.84%
+BAM Groep (BAMN)	May 12, 2025	0.25		Jun 06, 2025	4.85%
+BAM Groep (BAMN)	May 12, 2025	0.25		Jun 06, 2025	4.96%
+Banque Cantonale (0ACP)	May 12, 2025	4.4		May 14, 2025	4.58%
+Banque Cantonale (BCVN)	May 12, 2025	4.4		May 14, 2025	4.58%
+Eagle Point Credit Company (ECCC)	May 12, 2025	0.135417		May 30, 2025	7.02%
+Eagle Point Credit Prf D (ECC_pd)	May 12, 2025	0.140625		May 30, 2025	8.37%
+Eagle Point Cred (ECC)	May 12, 2025	0.14		May 30, 2025	19.18%
+Eagle Point Income (EIC)	May 12, 2025	0.2		May 30, 2025	15.09%
+Eagle Point Prf A (EICA)	May 12, 2025	0.104167		May 30, 2025	5.18%
+Future Generation Global (FGG)	May 12, 2025	0.037		May 23, 2025	4.98%
+Norsk Hydro (NHY)	May 12, 2025	2.25		May 20, 2025	3.40%
+Profoto Holding AB (PRFO)	May 12, 2025	1		May 16, 2025	2.50%
+Veolia Environnement (0NY8)	May 12, 2025	1.4		May 14, 2025	4.88%
+Veolia Environnement (VIE)	May 12, 2025	1.4		May 14, 2025	4.87%
+Veolia Environnement (VIE)	May 12, 2025	1.4		May 14, 2025	4.87%
+Veolia Environnement (VIE)	May 12, 2025	1.4		May 14, 2025	4.88%
+Tuesday, May 13, 2025
+Amata Corp F (AMATA_f)	May 13, 2025	0.55		May 29, 2025	2.83%
+Amata Corp (AMATA)	May 13, 2025	0.55		May 29, 2025	3.40%
+ASM Pacific Technology (0522)	May 13, 2025	0.07		May 30, 2025	1.11%
+ASM Pacific Technology (0522)	May 13, 2025	0.25		May 30, 2025	1.11%
+ASM Pacific Technology (AY7A)	May 13, 2025	0.07		May 30, 2025	1.12%
+ASM Pacific Technology (AY7A)	May 13, 2025	0.25		May 30, 2025	1.12%
+Chaosua Foods Industry PCL DRC (CHAO_n)	May 13, 2025	0.17		May 28, 2025	3.15%
+Chaosua Foods Industry PCL (CHAO)	May 13, 2025	0.0285		May 28, 2025	0.53%
+Chaosua Foods Industry PCL (CHAO)	May 13, 2025	0.1415		May 28, 2025	2.62%
+Corporacion Financiera Colombiana (CFV_p)	May 13, 2025	1194		May 19, 2025	7.02%
+Ekarat Engineering (AKR)	May 13, 2025	0.006		May 26, 2025	0.59%
+Ekarat Engineering (AKR)	May 13, 2025	0.094		May 26, 2025	9.22%
+Essential Utilities (WTRG)	May 13, 2025	0.3255		Jun 02, 2025	3.43%
+Federal International 2000 Ltd (FEDL)	May 13, 2025	0.005		May 23, 2025	3.73%
+Global Invest (GLNV)	May 13, 2025	0.004		Jun 27, 2025	6.56%
+Granges (GRANG)	May 13, 2025	3.2		May 19, 2025	2.34%
+Granges (GRNGs)	May 13, 2025	3.2		May 19, 2025	2.96%
+Ho Bee Land Ltd (HBEE)	May 13, 2025	0.04		May 23, 2025	2.30%
+Kid ASA (KID)	May 13, 2025	5		May 27, 2025	5.52%
+Koninklijke Philips ADR (PHG)	May 13, 2025	0.753134		Jun 06, 2025	2.89%
+Koninklijke Philips DRC (PHGm)	May 13, 2025	0.177208		Jun 06, 2025	2.98%
+Peoples Garment (PG)	May 13, 2025	0.2		May 28, 2025	2.55%
+Raffles Medical Group Ltd (RAFG)	May 13, 2025	0.025		May 23, 2025	2.70%
+Union Mosaic (UMI)	May 13, 2025	0.025		May 29, 2025	4.31%
+Wereldhave (0NMR)	May 13, 2025	1.25		May 20, 2025	7.97%
+Wereldhave (WEHA)	May 13, 2025	1.25		May 20, 2025	7.97%
+Zuger Kantonalbank (ZUGER)	May 13, 2025	220		May 15, 2025	2.47%
+Wednesday, May 14, 2025
+Air T (AIRTP)	May 14, 2025	0.5		May 15, 2025	11.63%
+Caisse Regionale de Credit Agricole Mutuel Atlanti (CALCi)	May 14, 2025	3.53		May 16, 2025	3.51%
+Enerjisa Enerji (ENJSA)	May 14, 2025	2.87		May 16, 2025	4.94%
+Ependion AB (EPEND)	May 14, 2025	1.25		May 20, 2025	1.08%
+Hanza AB (HANZA)	May 14, 2025	0.8		May 20, 2025	0.99%
+Kingsmen Creatives Ltd (KMEN)	May 14, 2025	0.02		May 30, 2025	6.45%
+Langham Hospitality Investments (1270)	May 14, 2025	0.016		Jun 04, 2025	3.40%
+Lindab International (0MWK)	May 14, 2025	2.7		May 20, 2025	2.66%
+Lindab International (LIABs)	May 14, 2025	2.7		May 20, 2025	2.75%
+Oka Corporation Bhd (OKAC)	May 14, 2025	0.012		May 23, 2025	3.75%
+Polaris Media (POL)	May 14, 2025	20.4		May 21, 2025	26.51%
+Polaris Media (POL)	May 14, 2025	2		May 21, 2025	2.37%
+SAP (0NW4)	May 14, 2025	2.35		May 16, 2025	0.89%
+SAP (SAP)	May 14, 2025	2.35		May 16, 2025	0.89%
+SAP (SAP)	May 14, 2025	2.35		May 16, 2025	-
+SAP (SAP1)	May 14, 2025	2.35		May 16, 2025	0.84%
+SAP (SAPG)	May 14, 2025	2.35		May 16, 2025	0.89%
+SAP (SAPG)	May 14, 2025	2.35		May 16, 2025	0.89%
+SAP (SAPG)	May 14, 2025	2.35		May 16, 2025	0.75%
+Satudora Holdings (3544)	May 14, 2025	10		Aug 12, 2025	1.21%
+Subsea 7 (0OGK)	May 14, 2025	6.5		May 22, 2025	5.46%
+Subsea 7 (SUBC)	May 14, 2025	6.5		May 22, 2025	5.50%
+VisDynamics (VSDY)	May 14, 2025	0.005		May 28, 2025	1.96%
+WashTec AG (WSU)	May 14, 2025	2.4		May 16, 2025	5.96%
+WashTec AG (WSUG)	May 14, 2025	2.4		May 16, 2025	6.03%
+Window Asia PCL (WINDOW)	May 14, 2025	0.03		May 28, 2025	4.23%
+Thursday, May 15, 2025
+Ambea (AMBEA)	May 15, 2025	2		May 21, 2025	1.80%
+Ambea (AMBEAs)	May 15, 2025	2		May 21, 2025	1.81%
+Aperam (0OLF)	May 15, 2025	0.425		Jun 12, 2025	5.82%
+Aperam (APAM)	May 15, 2025	0.425		Jun 12, 2025	5.82%
+Aperam (APAM)	May 15, 2025	0.425		Jun 12, 2025	5.80%
+Aperam (APAM)	May 15, 2025	0.425		Jun 12, 2025	5.82%
+Aperam (APMSF)	May 15, 2025	0.5		Jun 12, 2025	6.88%
+Autosports Group (ASG)	May 15, 2025	0.035		May 30, 2025	6.25%
+Avtech Sweden publ AB (AVTCHb)	May 15, 2025	0.1		May 23, 2025	1.35%
+Berner Kantonalbank AG (BEKN)	May 15, 2025	10.4		May 19, 2025	4.19%
+Cornerstone Strategic Return (CRF)	May 15, 2025	0.1168		May 30, 2025	18.11%
+Cornerstone Strategic Value (CLM)	May 15, 2025	0.1224		May 30, 2025	18.59%
+Cushing MLP Total Return Closed (SRV)	May 15, 2025	0.45		May 30, 2025	12.09%
+Deutsche Boerse (0H3T)	May 15, 2025	4		May 19, 2025	1.63%
+Deutsche Boerse (DB1Gn)	May 15, 2025	4		May 19, 2025	1.59%
+Deutsche Boerse (DB1Gn)	May 15, 2025	4		May 19, 2025	1.60%
+Deutsche Boerse (DB1N)	May 15, 2025	4		May 19, 2025	1.77%
+DevPort (DEVPb)	May 15, 2025	1.5		May 21, 2025	6.15%
+Elopak ASA (ELO)	May 15, 2025	0.08		May 26, 2025	2.31%
+Equinor (0M2Z)	May 15, 2025	0.37		May 28, 2025	-
+Equinor (EQNR)	May 15, 2025	0.37		May 28, 2025	-
+Frp Advisory (FRP)	May 15, 2025	0.95		Jun 13, 2025	3.67%
+Gabelli Dividend & Income Closed (GDV)	May 15, 2025	0.14		May 22, 2025	6.77%
+Gabelli Utility Closed Fund (GUT)	May 15, 2025	0.05		May 22, 2025	11.21%
+Gabelli (GLU)	May 15, 2025	0.1		May 22, 2025	7.58%
+GAMCO Natural Resources Gold Closed (GNT)	May 15, 2025	0.04		May 22, 2025	8.25%
+GAMCO (GGN)	May 15, 2025	0.03		May 22, 2025	8.80%
+Hosen Group Ltd (HSNG)	May 15, 2025	0.002		May 30, 2025	4.17%
+Macfarlane Group PLC (MACF)	May 15, 2025	2.7		Jun 13, 2025	3.54%
+Murray Income (MUT)	May 15, 2025	9.5		Jun 12, 2025	4.51%
+Nilorngruppen AB (NILb)	May 15, 2025	1.5		May 21, 2025	2.21%
+Nuernberger Beteiligungs (NLVGn)	May 15, 2025	0.14		May 19, 2025	0.30%
+NXG Nextgen Infrastructure (NXG)	May 15, 2025	0.54		May 30, 2025	13.58%
+Olav Thon Eien (0FHP)	May 15, 2025	7.25		May 28, 2025	3.00%
+Olav Thon Eien (OLT)	May 15, 2025	7.25		May 28, 2025	2.92%
+Paradox Interactive (PDXI)	May 15, 2025	2		May 21, 2025	2.40%
+Paradox Interactive (PDXI)	May 15, 2025	3		May 21, 2025	1.44%
+Prevas B (PREVb)	May 15, 2025	4.75		May 21, 2025	4.34%
+Siltronic AG (WAFd)	May 15, 2025	0.2		May 19, 2025	0.46%
+Siltronic AG (WAFGn)	May 15, 2025	0.2		May 19, 2025	0.44%
+Siltronic AG (WAFGn)	May 15, 2025	0.2		May 19, 2025	0.44%
+Sound Point Meridian Capital (SPMC)	May 15, 2025	0.25		May 30, 2025	14.56%
+Southwest Gas Hold (SWX)	May 15, 2025	0.62		Jun 02, 2025	3.30%
+Spectris (SXS)	May 15, 2025	56.6		Jun 27, 2025	2.89%
+Spectris (SXS)	May 15, 2025	56.6		Jun 27, 2025	2.90%
+Syensqo (SYENS)	May 15, 2025	1.134		May 19, 2025	1.61%
+Tat Seng Packaging Group Ltd (TASE)	May 15, 2025	0.03		May 30, 2025	7.32%
+Temenos Group AG (TEMN)	May 15, 2025	1.3		May 19, 2025	1.76%
+United Overseas Australia (UOAL)	May 15, 2025	0.02		Jun 06, 2025	4.27%
+United Overseas Australia (UOS)	May 15, 2025	0.02		Jun 06, 2025	4.24%
+Wam Alternative Assets (WMA)	May 15, 2025	0.027		May 28, 2025	5.35%
+	Af Gruppen (AFGA)	May 16, 2025	5		May 21, 2025	3.38%
+Aixtron (0NP9)	May 16, 2025	0.15		May 20, 2025	1.25%
+Aixtron (AIXGn)	May 16, 2025	0.15		May 20, 2025	1.23%
+Aixtron (AIXGn)	May 16, 2025	0.15		May 20, 2025	1.23%
+Aperam PK (APEMY)	May 16, 2025	0.44404		Jun 12, 2025	5.82%
+Commerzbank (CBKG)	May 16, 2025	0.65		May 20, 2025	3.16%
+Commerzbank (CBKG)	May 16, 2025	0.65		May 20, 2025	3.16%
+Commerzbank (CBKG)	May 16, 2025	0.65		May 20, 2025	3.15%
+Commerzbank (CBKN)	May 16, 2025	0.65		May 20, 2025	-
+Fortis 1St Cum Red Srs F Prf (FTS_pf)	May 16, 2025	0.3063		Jun 01, 2025	5.50%
+Fortis Inc Pref G (FTS_pg)	May 16, 2025	0.3826875		Jun 01, 2025	6.94%
+Fortis Inc (FTS)	May 16, 2025	0.615		Jun 01, 2025	3.88%
+Fortis Inc (FTS)	May 16, 2025	0.615		Jun 01, 2025	3.88%
+Fortis Pref H (FTS_ph)	May 16, 2025	0.11469		Jun 01, 2025	2.79%
+Fortis Pref I (FTS_pi)	May 16, 2025	0.278016		Jun 01, 2025	6.85%
+Fortis Pref K (FTS_pk)	May 16, 2025	0.3418125		Jun 01, 2025	6.52%
+Fortis Pref M (FTS_pm)	May 16, 2025	0.3433125		Jun 01, 2025	6.42%
+Fortis Srs J Cum Red First Prf (FTS_pj)	May 16, 2025	0.2969		Jun 01, 2025	5.61%
+I-Tech (ITECH)	May 16, 2025	0.75		May 22, 2025	2.20%
+I-Tech (ITECH)	May 16, 2025	1		May 22, 2025	1.26%
+Inwido (0QXM)	May 16, 2025	5.5		May 22, 2025	2.71%
+Inwido (INWI)	May 16, 2025	5.5		May 22, 2025	2.71%
+Inwido (INWIs)	May 16, 2025	5.5		May 22, 2025	2.66%
+Mandatum Oyj (0MAN)	May 16, 2025	0.33		May 26, 2025	6.09%
+Mandatum Oyj (0MAN)	May 16, 2025	0.33		May 26, 2025	12.19%
+Mandatum Oyj (MANTA)	May 16, 2025	0.33		May 26, 2025	6.04%
+Mandatum Oyj (MANTA)	May 16, 2025	0.33		May 26, 2025	12.09%
+Oberbank AG ST (OBER)	May 16, 2025	1.15		May 20, 2025	1.64%
+Oxford Lane Capital 7 Prf (OXLCN)	May 16, 2025	0.1484375		May 30, 2025	7.33%
+Oxford Lane Capital Pref 9 (OXLCO)	May 16, 2025	0.125		May 30, 2025	6.51%
+Oxford Lane (OXLC)	May 16, 2025	0.09		May 30, 2025	21.34%
+Oxford Lane (OXLCP)	May 16, 2025	0.1302083		May 30, 2025	6.46%
+PC Partner (1263)	May 16, 2025	0.15		Jun 06, 2025	6.95%
+Pershing Square (PSH)	May 16, 2025	0.1646		Jun 20, 2025	1.25%
+Pershing Square (PSHD)	May 16, 2025	0.1646		Jun 20, 2025	1.22%
+Pershing Square (PSHP)	May 16, 2025	0.1646		Jun 20, 2025	1.23%
+Pershing Square (PSHZF)	May 16, 2025	0.1646		Jun 20, 2025	1.22%
+Premium Snacks Nordic (PREU)	May 16, 2025	0.2		May 22, 2025	1.01%
+Uni-Asia Holdings (UAFC)	May 16, 2025	0.02		May 30, 2025	4.17%
+Valiant (VATN)	May 16, 2025	5.8		May 20, 2025	5.01%
+Valiant (VATNz)	May 16, 2025	5.8		May 20, 2025	5.00%
+Monday, May 19, 2025
+Air Liquide (0NWF)	May 19, 2025	3.3		May 21, 2025	1.87%
+Air Liquide (AIL)	May 19, 2025	3.3		May 21, 2025	1.87%
+Air Liquide (AIN)	May 19, 2025	3.3		May 21, 2025	1.95%
+Air Liquide (AIRP)	May 19, 2025	3.3		May 21, 2025	1.88%
+Air Liquide (AIRP)	May 19, 2025	3.3		May 21, 2025	1.87%
+Anima Holding SpA (124)	May 19, 2025	0.45		May 21, 2025	6.67%
+Anima Holding SpA (ANIM)	May 19, 2025	0.45		May 21, 2025	6.49%
+Askul Corp (2678)	May 19, 2025	19		Aug 12, 2025	2.39%
+Banca Generali (0DQZ)	May 19, 2025	2.15		May 21, 2025	5.51%
+Banca Generali (BGN)	May 19, 2025	2.15		May 21, 2025	5.49%
+Banca Generali (BGN)	May 19, 2025	2.15		May 21, 2025	5.50%
+Banca IFIS (0I6)	May 19, 2025	0.92		May 21, 2025	9.68%
+Banca IFIS (IF)	May 19, 2025	0.92		May 21, 2025	9.75%
+Banco Bpm (0RLA)	May 19, 2025	0.6		May 21, 2025	10.44%
+Banco Bpm (BAMI)	May 19, 2025	0.6		May 21, 2025	10.40%
+Banco Bpm (BAMI)	May 19, 2025	0.6		May 21, 2025	10.46%
+Banco Bpm (BPMG)	May 19, 2025	0.6		May 21, 2025	10.44%
+BNP Paribas (0HB5)	May 19, 2025	4.79		May 21, 2025	6.66%
+BNP Paribas (BNPN)	May 19, 2025	4.79		May 21, 2025	6.72%
+BNP Paribas (BNPP)	May 19, 2025	4.79		May 21, 2025	6.59%
+BNP Paribas (BNPP)	May 19, 2025	4.79		May 21, 2025	6.57%
+BNP Paribas (BNPP)	May 19, 2025	4.79		May 21, 2025	6.59%
+BNP Paribas (BNPp)	May 19, 2025	4.79		May 21, 2025	6.60%
+BNP Paribas (BNPP)	May 19, 2025	4.79		May 21, 2025	6.63%
+Bper Banca (0MU6)	May 19, 2025	0.6		May 21, 2025	8.17%
+Bper Banca (EMII)	May 19, 2025	0.6		May 21, 2025	8.34%
+Bper Banca (EMII)	May 19, 2025	0.6		May 21, 2025	8.17%
+Brunel (3BY3)	May 19, 2025	0.55		Jun 12, 2025	5.53%
+Brunel (BRUN)	May 19, 2025	0.55		Jun 12, 2025	5.33%
+Carlyle Credit (CCIF)	May 19, 2025	0.105		May 30, 2025	16.32%
+Cosel Co Ltd (6905)	May 19, 2025	28		Jul 22, 2025	5.38%
+EON SE (EONGY)	May 19, 2025	0.42563		May 27, 2025	3.32%
+FinecoBank (FBK)	May 19, 2025	0.74		May 21, 2025	4.13%
+FinecoBank (FBK)	May 19, 2025	0.74		May 21, 2025	4.12%
+FinecoBank (FBKm)	May 19, 2025	0.74		May 21, 2025	4.02%
+HKT Trust (6823)	May 19, 2025	0.4588		Jun 19, 2025	12.36%
+Intesa Sanpaolo (0HBC)	May 19, 2025	0.171		May 21, 2025	7.20%
+Intesa Sanpaolo (ISP)	May 19, 2025	0.171		May 21, 2025	7.20%
+Intesa Sanpaolo (ISP)	May 19, 2025	0.171		May 21, 2025	7.20%
+Intesa Sanpaolo (ISP)	May 19, 2025	0.171		May 21, 2025	7.22%
+Intesa Sanpaolo (ISPN)	May 19, 2025	0.171		May 21, 2025	7.75%
+Italgas (IG)	May 19, 2025	0.406		May 21, 2025	6.56%
+Italgas (IG)	May 19, 2025	0.406		May 21, 2025	6.51%
+Italgas (IGm)	May 19, 2025	0.406		May 21, 2025	6.65%
+Kusuri No Aoki Holdings Co Ltd (3549)	May 19, 2025	7		Aug 04, 2025	0.45%
+LHT Holdings Ltd (LHTH)	May 19, 2025	0.05		May 30, 2025	4.95%
+Moncler SpA (0QII)	May 19, 2025	1.3		May 21, 2025	1.97%
+Moncler SpA (MONC)	May 19, 2025	1.3		May 21, 2025	1.97%
+Moncler SpA (MONC)	May 19, 2025	1.3		May 21, 2025	1.97%
+Moncler SpA (MONCm)	May 19, 2025	1.3		May 21, 2025	1.96%
+PCCW (0008)	May 19, 2025	0.2848		Jun 20, 2025	14.83%
+PCCW (PCWLF)	May 19, 2025	0.2848		Jun 20, 2025	15.91%
+PPB (PEPT)	May 19, 2025	0.3		Jun 05, 2025	3.91%
+Tag Immobilien (0JK4)	May 19, 2025	0.4		May 21, 2025	2.82%
+Tag Immobilien (TEGG)	May 19, 2025	0.4		May 21, 2025	2.84%
+Tag Immobilien (TEGG)	May 19, 2025	0.4		May 21, 2025	2.83%
+WAM Global (WGB)	May 19, 2025	0.065		May 30, 2025	5.17%
+Webstep (WSTEP)	May 19, 2025	2.3		--	9.62%
+Wolters Kluwer (0NMU)	May 19, 2025	1.5		Jun 11, 2025	1.59%
+Wolters Kluwer (WLSNc)	May 19, 2025	1.5		Jun 11, 2025	1.58%
+Wolters Kluwer (WLSNc)	May 19, 2025	1.5		Jun 11, 2025	1.59%
+Tuesday, May 20, 2025
+Capgemini (0HAZ)	May 20, 2025	3.4		May 22, 2025	2.11%
+Capgemini (CAPP)	May 20, 2025	3.4		May 22, 2025	2.28%
+Capgemini (CAPP)	May 20, 2025	3.4		May 22, 2025	2.28%
+Capgemini (CAPp)	May 20, 2025	3.4		May 22, 2025	2.28%
+Duni AB (DUNI)	May 20, 2025	2.5		May 26, 2025	4.76%
+Empresarial San Jose (GSJ)	May 20, 2025	0.1458		May 22, 2025	2.55%
+Hal Trust (HLAN)	May 20, 2025	2.9		May 27, 2025	2.47%
+Imerys (0NPX)	May 20, 2025	1.45		May 22, 2025	4.68%
+Imerys (IMTP)	May 20, 2025	1.45		May 22, 2025	4.65%
+Imerys (IMTP)	May 20, 2025	1.45		May 22, 2025	4.81%
+NN ADR (NNGRY)	May 20, 2025	0.91032		Jun 10, 2025	5.79%
+OFS Credit Company (OCCIO)	May 20, 2025	0.1276042		May 30, 2025	6.17%
+OFS Credit Prf 6 (OCCIN)	May 20, 2025	0.109375		May 30, 2025	5.50%
+PCCW (PCCWY)	May 20, 2025	0.346552		Jun 27, 2025	14.64%
+Technip Energies BV (TE)	May 20, 2025	0.85		May 22, 2025	2.84%
+Tenaris ADR (TS)	May 20, 2025	1.12		May 21, 2025	4.39%
+Wolters Kluwer NV (WTKWY)	May 20, 2025	1.337233		Jun 18, 2025	1.39%
+Yixin Group (2858)	May 20, 2025	0.065		Jun 26, 2025	5.60%
+Yixin Group (2858)	May 20, 2025	0.065		Jun 26, 2025	11.21%
+Wednesday, May 21, 2025
+Aksa Akrilik (AKSA)	May 21, 2025	0.48		May 23, 2025	3.70%
+BillerudKorsnas (0GWS)	May 21, 2025	3.5		May 27, 2025	2.94%
+BillerudKorsnas (BILL)	May 21, 2025	3.5		May 27, 2025	2.93%
+BillerudKorsnas (BILLs)	May 21, 2025	3.5		May 27, 2025	3.53%
+Catella AB A (CATa)	May 21, 2025	0.9		May 27, 2025	2.83%
+Catella AB B (CATb)	May 21, 2025	0.9		May 27, 2025	2.82%
+Eiffage (0NPT)	May 21, 2025	4.7		May 23, 2025	4.90%
+Eiffage (FGR)	May 21, 2025	4.7		May 23, 2025	4.90%
+Eiffage (FOUG)	May 21, 2025	4.7		May 23, 2025	4.90%
+Eiffage (FOUG)	May 21, 2025	4.7		May 23, 2025	4.87%
+Interconnection Electric (ISA)	May 21, 2025	759		May 27, 2025	7.23%
+Moreld As (MORLD)	May 21, 2025	0.42		May 26, 2025	2.90%
+Nodebis Applications AB (NODE)	May 21, 2025	1		May 23, 2025	7.69%
+Wienerberger AG (0MKZ)	May 21, 2025	0.95		May 26, 2025	3.00%
+Wienerberger AG (WBSV)	May 21, 2025	0.95		May 26, 2025	3.00%
+Wienerberger AG (WBSV)	May 21, 2025	0.95		May 26, 2025	3.00%
+Thursday, May 22, 2025
+Brandywineglobal Global (BWG)	May 22, 2025	0.08		Jun 02, 2025	11.31%
+Cirtek Holdings Philippines Prf (TCB2A)	May 22, 2025	0.0228125		Jun 09, 2025	18.25%
+ClearBridge Energy MLP Oppor Closed (EMO)	May 22, 2025	0.36		Jun 02, 2025	8.75%
+LMP Capital And Income Closed Fund (SCD)	May 22, 2025	0.12		Jun 02, 2025	8.50%
+RHI Magnesita (RHIM)	May 22, 2025	1.2		Jun 12, 2025	4.47%
+RHI Magnesita (RHIM)	May 22, 2025	1.2		Jun 12, 2025	4.46%
+RHI Magnesita (RHIMl)	May 22, 2025	1.2		Jun 12, 2025	4.44%
+Rugvista Group AB (RUG)	May 22, 2025	1.25		May 28, 2025	2.55%
+Telenor (0G8C)	May 22, 2025	5		Jun 03, 2025	6.52%
+Telenor (TEL)	May 22, 2025	5		Jun 03, 2025	6.52%
+Telenor (TELNF)	May 22, 2025	5		Jun 03, 2025	6.55%
+Western Asset Claymore Infl Link Op (WIW)	May 22, 2025	0.0625		May 30, 2025	8.57%
+Western Asset Emerging Markets Debt (EMD)	May 22, 2025	0.09		Jun 02, 2025	11.00%
+Western Asset Global Highome Closed (EHI)	May 22, 2025	0.07		Jun 02, 2025	12.46%
+Western Asset Globalorate Defined (GDO)	May 22, 2025	0.122		Jun 02, 2025	12.85%
+Western Asset High Income II Closed (HIX)	May 22, 2025	0.049		Jun 02, 2025	13.36%
+Western Asset High Yield Defined Op (HYI)	May 22, 2025	0.095		Jun 02, 2025	9.44%
+Western Asset Highome Opport Closed (HIO)	May 22, 2025	0.0355		Jun 02, 2025	10.54%
+Western Asset Income Fund (PAI)	May 22, 2025	0.0525		Jun 02, 2025	4.91%
+Western Asset Invest Grade Defined (IGI)	May 22, 2025	0.071		Jun 02, 2025	5.10%
+Western Asset Managed Munis Closed (MMU)	May 22, 2025	0.0545		Jun 02, 2025	6.22%
+Western Asset Mortgage Defined Opp (DMO)	May 22, 2025	0.13		Jun 02, 2025	13.02%
+Western Asset Muni Highome Closed (MHF)	May 22, 2025	0.034		Jun 02, 2025	5.35%
+Western Asset Premier Bond Closed (WEA)	May 22, 2025	0.07		Jun 02, 2025	7.69%
+Western Asset/Claymore Infl Linked (WIA)	May 22, 2025	0.052		May 30, 2025	7.52%
+Western Asset (SBI)	May 22, 2025	0.042		Jun 02, 2025	6.32%
+Friday, May 23, 2025
+ASR Nederland (ASRNL)	May 23, 2025	1.96		May 28, 2025	6.14%
+ASR Nederland (ASRNLa)	May 23, 2025	1.96		May 28, 2025	6.40%
+B2holding (B2I)	May 23, 2025	1.5		Jun 02, 2025	14.45%
+B2holding (B2Io)	May 23, 2025	1.5		Jun 02, 2025	18.25%
+Bonheur (0DTI)	May 23, 2025	6.75		Jun 03, 2025	2.85%
+Bonheur (BONHR)	May 23, 2025	6.75		Jun 03, 2025	2.87%
+Deutsche Bank AG (0H7D)	May 23, 2025	0.68		May 27, 2025	3.32%
+Deutsche Bank AG (DB)	May 23, 2025	0.50065		May 27, 2025	2.42%
+Deutsche Bank AG (DBK)	May 23, 2025	0.68		May 27, 2025	3.29%
+Deutsche Bank AG (DBKG)	May 23, 2025	0.68		May 27, 2025	3.37%
+Deutsche Bank AG (DBKGn)	May 23, 2025	0.68		May 27, 2025	3.29%
+Deutsche Bank AG (DBKGn)	May 23, 2025	0.68		May 27, 2025	3.28%
+Deutsche Bank AG (DBN)	May 23, 2025	0.68		May 27, 2025	3.31%
+Fresenius Medical Care (0H9X)	May 23, 2025	1.44		May 27, 2025	3.11%
+Fresenius Medical Care (FMEG)	May 23, 2025	1.44		May 27, 2025	3.11%
+Fresenius Medical Care (FMEG)	May 23, 2025	1.44		May 27, 2025	3.11%
+Fresenius Medical Care (FMEG)	May 23, 2025	1.44		May 27, 2025	3.10%
+Galaxy Entertainment ADR (GXYYY)	May 23, 2025	0.271568		Jun 27, 2025	2.65%
+Galaxy Entertainment Group (0027)	May 23, 2025	0.5		Jun 12, 2025	3.13%
+Galaxy Entertainment Group (GXYEF)	May 23, 2025	0.5		Jun 12, 2025	3.53%
+MilDef Group AB (MILDEF)	May 23, 2025	0.5		May 30, 2025	0.27%
+RaySearch Labs B (0GRZ)	May 23, 2025	3		May 30, 2025	1.21%
+RaySearch Labs B (RAYb)	May 23, 2025	3		May 30, 2025	1.20%
+RaySearch Labs B (RAYBs)	May 23, 2025	3		May 30, 2025	1.26%
+Swatch Group N (UHRN)	May 23, 2025	0.9		May 27, 2025	2.63%
+Swatch Group (0QJV)	May 23, 2025	4.5		May 27, 2025	2.62%
+Swatch Group (UHR)	May 23, 2025	4.5		May 27, 2025	2.57%
+Swatch Group (UHRN)	May 23, 2025	4.5		May 27, 2025	2.86%
+Telenor ASA ADR (TELNY)	May 23, 2025	0.303987		Jun 10, 2025	4.48%
+Tortoise Energy Infrastruct Closed (TYG)	May 23, 2025	0.365		May 30, 2025	10.11%
+Tortoise Sustainable Social Impact Term Fund (TEAF)	May 23, 2025	0.09		May 30, 2025	8.98%
+	Arkema (0IB0)	May 26, 2025	3.6		May 28, 2025	4.53%
+Arkema (AKE)	May 26, 2025	3.6		May 28, 2025	4.53%
+Arkema (AKE)	May 26, 2025	3.6		May 28, 2025	4.54%
+Lokman Hekim (LKMNH)	May 26, 2025	0.2083333		May 28, 2025	1.71%
+Teleperformance (0J6X)	May 26, 2025	4.2		May 28, 2025	4.55%
+Teleperformance (ROCH)	May 26, 2025	4.2		May 28, 2025	4.52%
+Teleperformance (TEPL)	May 26, 2025	4.2		May 28, 2025	4.52%
+Teleperformance (TEPRF)	May 26, 2025	4.2		May 28, 2025	4.53%
+Thurgauer Kantonalbank (TKBP)	May 26, 2025	3.4		May 28, 2025	2.49%
+Vallourec (0NR2)	May 26, 2025	1.5		May 28, 2025	8.00%
+Vallourec (VLLP)	May 26, 2025	1.5		May 28, 2025	8.02%
+Van Lanschot (0O4B)	May 26, 2025	2.75		Jun 03, 2025	6.12%
+Van Lanschot (VLAN)	May 26, 2025	2.75		Jun 03, 2025	6.00%
+Van Lanschot (VLKa)	May 26, 2025	2.75		Jun 03, 2025	5.84%
+Tuesday, May 27, 2025
+Banco De Bogota (BBO)	May 27, 2025	133		Jun 03, 2025	5.43%
+Chinese Estates (0127)	May 27, 2025	0.03		Jun 10, 2025	2.56%
+Zimmite Taiwan (8435)	May 27, 2025	4.5		Jun 27, 2025	5.94%
+Wednesday, May 28, 2025
+Cemtas (CEMTS)	May 28, 2025	0.22		May 30, 2025	2.32%
+DEME NV (DEME)	May 28, 2025	2.66		May 30, 2025	1.99%
+Deutsche Beteiligungs AG (DBANn)	May 28, 2025	1		May 30, 2025	4.06%
+Deutsche Beteiligungs AG (DBANn)	May 28, 2025	1		May 30, 2025	4.07%
+EQT AB (EQTAB)	May 28, 2025	2.15		Jun 04, 2025	1.19%
+Hensoldt (1HENS)	May 28, 2025	0.5		May 30, 2025	0.96%
+Hensoldt (HAG)	May 28, 2025	0.5		May 30, 2025	0.95%
+Hensoldt (HAGG)	May 28, 2025	0.5		May 30, 2025	0.96%
+Hensoldt (HAGG)	May 28, 2025	0.5		May 30, 2025	0.93%
+Kion Group AG (1KGX)	May 28, 2025	0.82		May 30, 2025	2.12%
+Kion Group AG (KGX)	May 28, 2025	0.82		May 30, 2025	2.13%
+Kion Group AG (KGX)	May 28, 2025	0.82		May 30, 2025	2.12%
+Kion Group AG (KGXd)	May 28, 2025	0.82		May 30, 2025	2.11%
+Sands China (1928)	May 28, 2025	0.25		Jun 20, 2025	1.40%
+Sands China (599A)	May 28, 2025	0.25		Jun 20, 2025	1.43%
+Thursday, May 29, 2025
+Activia Properties (3279)	May 29, 2025	8700		Aug 19, 2025	5.28%
+Avingtrans (AVG)	May 29, 2025	1.9		Jun 27, 2025	1.32%
+Bewith (9216)	May 29, 2025	77		Aug 13, 2025	5.30%
+Bookoff (9278)	May 29, 2025	25		Sep 01, 2025	1.85%
+Cave Interactive (3760)	May 29, 2025	10		Sep 02, 2025	1.09%
+Cirtek Holdings Philippines Prf (TCB2C)	May 29, 2025	1.767812		Jun 16, 2025	14.98%
+Cirtek Holdings Philippines Prf (TCB2D)	May 29, 2025	0.968825		Jun 16, 2025	8.00%
+CNS Co (4076)	May 29, 2025	49		Sep 01, 2025	3.50%
+Cosmos Pharmaceutical Corp (3349)	May 29, 2025	32.5		Aug 01, 2025	0.92%
+Create SD Holdings (3148)	May 29, 2025	34		Aug 26, 2025	2.42%
+CS Lumber (7808)	May 29, 2025	80		Sep 01, 2025	2.82%
+Cumica (8887)	May 29, 2025	2		Sep 01, 2025	1.27%
+D M (189A)	May 29, 2025	5		--	0.62%
+Daiko Tsusan (7673)	May 29, 2025	50		Sep 01, 2025	3.65%
+Daikokutenbussan (2791)	May 29, 2025	33		Aug 25, 2025	0.51%
+Daito Pharmaceutical (4577)	May 29, 2025	35		Aug 06, 2025	3.46%
+Daiwa Office (8976)	May 29, 2025	6920		Aug 15, 2025	4.73%
+Dawn (2303)	May 29, 2025	22		Aug 29, 2025	0.99%
+E J (2153)	May 29, 2025	40		Sep 01, 2025	4.07%
+Enex Infrastructure (9286)	May 29, 2025	400		Aug 21, 2025	10.40%
+Enex Infrastructure (9286)	May 29, 2025	1600		Aug 21, 2025	10.40%
+Enjin Co (7370)	May 29, 2025	23.8		Aug 26, 2025	4.93%
+ERI Holdings Co Ltd (6083)	May 29, 2025	30		Jul 31, 2025	2.53%
+Feedforce (7068)	May 29, 2025	5		--	1.95%
+First-Corporation (1430)	May 29, 2025	42		Aug 26, 2025	4.72%
+GDEP Advance (5885)	May 29, 2025	17.5		Aug 29, 2025	0.86%
+Hankyu REIT (8977)	May 29, 2025	3140		Aug 15, 2025	4.38%
+Heiwa Real Estate REIT (8966)	May 29, 2025	3750		Aug 15, 2025	5.85%
+Honeys Co Ltd (2792)	May 29, 2025	30		Aug 21, 2025	3.38%
+I K (2722)	May 29, 2025	8		Aug 26, 2025	2.18%
+IG Port (3791)	May 29, 2025	15		Sep 01, 2025	0.66%
+Intellex (8940)	May 29, 2025	7		Aug 12, 2025	4.04%
+Intellex (8940)	May 29, 2025	10		Aug 12, 2025	4.04%
+Inter Action (7725)	May 29, 2025	25		Aug 26, 2025	3.00%
+Japan Process Development (9651)	May 29, 2025	26		Aug 08, 2025	3.73%
+JDC Corporation (1887)	May 29, 2025	2		Aug 28, 2025	4.55%
+JDC Corporation (1887)	May 29, 2025	10		Aug 28, 2025	4.55%
+Kaneko Seeds (1376)	May 29, 2025	22		Aug 28, 2025	2.36%
+Kyoshin (4735)	May 29, 2025	7.71		Aug 25, 2025	2.25%
+Legrand (0MW7)	May 29, 2025	2.2		Jun 02, 2025	2.09%
+Legrand (LEGD)	May 29, 2025	2.2		Jun 02, 2025	2.08%
+Legrand (LEGD)	May 29, 2025	2.2		Jun 02, 2025	2.10%
+Legrand (LRN)	May 29, 2025	2.2		Jun 02, 2025	2.24%
+Like Co (2462)	May 29, 2025	29		Sep 01, 2025	4.16%
+Logos Holdings (205A)	May 29, 2025	45.33		--	3.90%
+Maezawa Industries (6489)	May 29, 2025	18		Sep 01, 2025	2.75%
+Mainichi Comnet (8908)	May 29, 2025	22		Aug 26, 2025	4.21%
+Mbs (1401)	May 29, 2025	10		Sep 01, 2025	1.42%
+Medical Net (3645)	May 29, 2025	3		Sep 02, 2025	0.97%
+Mitachi Co Ltd (3321)	May 29, 2025	25		Aug 26, 2025	4.55%
+Muromachi Chemicals (4885)	May 29, 2025	25		Aug 29, 2025	2.91%
+Nakakita Seisakusho (6496)	May 29, 2025	50		Aug 29, 2025	3.23%
+Nihon Enterprise (4829)	May 29, 2025	3		Sep 01, 2025	2.50%
+Niitaka Co Ltd (4465)	May 29, 2025	40		Aug 13, 2025	4.15%
+Nippon Hotel Residential Investment (3472)	May 29, 2025	10		Aug 15, 2025	5.59%
+Nippon Hotel Residential Investment (3472)	May 29, 2025	1922		Aug 15, 2025	5.59%
+Nippon Prologis REIT (3283)	May 29, 2025	297		Aug 15, 2025	4.36%
+Nippon Prologis REIT (3283)	May 29, 2025	5303		Aug 15, 2025	4.36%
+Ohba (9765)	May 29, 2025	20		Aug 26, 2025	4.05%
+Okayama Paper Industries (3892)	May 29, 2025	15		Aug 28, 2025	2.08%
+Oomitsu (3160)	May 29, 2025	6.5		Aug 22, 2025	2.28%
+Otake (7434)	May 29, 2025	35		Aug 29, 2025	1.93%
+Ozu Corp (7487)	May 29, 2025	25		Aug 29, 2025	1.44%
+Pacific Net (3021)	May 29, 2025	47		Sep 01, 2025	3.82%
+Pasona Group Inc (2168)	May 29, 2025	60		Aug 08, 2025	3.71%
+Pasona Group Inc (2168)	May 29, 2025	15		Aug 08, 2025	3.71%
+Pharmarise Holdings (2796)	May 29, 2025	14		Sep 01, 2025	2.89%
+Properst (3236)	May 29, 2025	4		Aug 28, 2025	2.48%
+Rafael Microelectronics (6568)	May 29, 2025	1		Jun 27, 2025	0.68%
+Rafael Microelectronics (6568)	May 29, 2025	1		Jun 27, 2025	2.59%
+Sakata Seed Corp (1377)	May 29, 2025	35		Aug 28, 2025	1.91%
+Sanki Service (6044)	May 29, 2025	22		Aug 29, 2025	2.14%
+Sanko Gosei (7888)	May 29, 2025	10		Sep 01, 2025	3.10%
+Sankyo Tateyama Inc (5932)	May 29, 2025	12.5		Aug 29, 2025	4.24%
+Satori Electric (7420)	May 29, 2025	46		Aug 05, 2025	5.23%
+Sigma Koki (7713)	May 29, 2025	21		Aug 08, 2025	3.05%
+Suminoe Textile (3501)	May 29, 2025	20		Sep 01, 2025	3.53%
+Takara Printing (7921)	May 29, 2025	45		Aug 04, 2025	2.76%
+Takeda Machinery (6150)	May 29, 2025	80		Sep 01, 2025	2.52%
+Tama Home (1419)	May 29, 2025	195		Aug 29, 2025	5.83%
+Tenda Co (4198)	May 29, 2025	5		Sep 01, 2025	2.88%
+Tenda Co (4198)	May 29, 2025	22		Sep 01, 2025	2.88%
+TMobile US (T1MU34)	May 29, 2025	1.7130358		Jun 18, 2025	0.87%
+Tokai Soft (4430)	May 29, 2025	48		Sep 01, 2025	3.24%
+Tone (5967)	May 29, 2025	10.25		Aug 08, 2025	2.01%
+Toubujyuhan (3297)	May 29, 2025	39		Sep 01, 2025	3.18%
+Toyo Denki Seizo KK (6505)	May 29, 2025	40		Aug 29, 2025	3.23%
+United Urban (8960)	May 29, 2025	4000		Aug 15, 2025	5.35%
+Weathernews Inc (4825)	May 29, 2025	35		Aug 19, 2025	2.03%
+Yamashita Health Care (9265)	May 29, 2025	61		Aug 28, 2025	2.44%
+Friday, May 30, 2025
+Abl ASA (ABL)	May 30, 2025	0.45		Jun 16, 2025	9.04%
+Ames (ATLO)	May 30, 2025	0.2		Jun 13, 2025	4.26%
+Apex Healthcare (APER)	May 30, 2025	0.03		Jun 16, 2025	3.91%
+Borgestad A (BOR)	May 30, 2025	0.8		Jun 05, 2025	4.32%
+China Motor Bus (0026)	May 30, 2025	0.1		Jun 24, 2025	12.41%
+China Motor Bus (0026)	May 30, 2025	4.9		Jun 24, 2025	12.41%
+Citadelome (CTF_u)	May 30, 2025	0.02		Jun 16, 2025	8.36%
+Crescent Capital BDC (CCAP)	May 30, 2025	0.05		Jun 13, 2025	1.09%
+Electricite de Strasbourg (EDSP)	May 30, 2025	11		Jun 03, 2025	7.91%
+Energyome (ENI_u)	May 30, 2025	0.01		Jun 16, 2025	7.06%
+Jinhui Shipping (JINJ)	May 30, 2025	0.03		Jun 25, 2025	5.78%
+Reach Subsea (REACH)	May 30, 2025	0.42		Jun 11, 2025	6.34%
+T-Mobile US (0R2L)	May 30, 2025	0.88		Jun 12, 2025	1.32%
+T-Mobile US (TM5)	May 30, 2025	0.88		Jun 12, 2025	1.33%
+T-Mobile US (TMUS)	May 30, 2025	0.88		Jun 12, 2025	1.31%
+T-Mobile US (TMUS)	May 30, 2025	0.88		Jun 12, 2025	1.46%
+T-Mobile US (TMUS)	May 30, 2025	0.88		Jun 12, 2025	1.33%
+TransAlta Corp (TA)	May 30, 2025	0.065		Jul 01, 2025	1.74%
+TransAlta Corp (TAC)	May 30, 2025	0.065		Jul 01, 2025	1.74%
+Tyson Foods (TSN)	May 30, 2025	0.5		Jun 13, 2025	3.26%
+Yara International (0O7D)	May 30, 2025	5		Jun 11, 2025	1.57%
+Yara International (YAR)	May 30, 2025	5		Jun 11, 2025	1.56%
+	Cirtek Holdings Philippines Prf (TCB2B)	Jun 02, 2025	0.025		Jun 18, 2025	16.67%
+Immorente Invest (IMO)	Jun 02, 2025	2.2		Jun 11, 2025	5.73%
+ITAUSA PN (ITSA4)	Jun 02, 2025	0.02		Jul 01, 2025	-
+Tuesday, June 3, 2025
+EssilorLuxottica (0OMK)	Jun 03, 2025	3.95		Jun 05, 2025	1.39%
+EssilorLuxottica (ESLX)	Jun 03, 2025	3.95		Jun 05, 2025	1.38%
+EssilorLuxottica (ESSI)	Jun 03, 2025	3.95		Jun 05, 2025	1.39%
+EssilorLuxottica (ESSI)	Jun 03, 2025	3.95		Jun 05, 2025	1.38%
+EssilorLuxottica (ESSI)	Jun 03, 2025	3.95		Jun 05, 2025	1.37%
+Groupe SEB (0MGS)	Jun 03, 2025	2.8		Jun 05, 2025	3.31%
+Groupe SEB (SEBF)	Jun 03, 2025	2.8		Jun 05, 2025	3.29%
+Groupe SEB (SEBS)	Jun 03, 2025	2.8		Jun 05, 2025	3.33%
+Itau Unibanco Holding (ITUBm)	Jun 03, 2025	0.00285		Jul 09, 2025	7.01%
+Itau Unibanco (ITUB)	Jun 03, 2025	0.0024229		Jul 09, 2025	0.53%
+Itau Unibanco (ITUBN)	Jun 03, 2025	0.0024229		Jul 09, 2025	7.53%
+Orange (0OQV)	Jun 03, 2025	0.45		Jun 05, 2025	6.51%
+Orange (FTE)	Jun 03, 2025	0.45		Jun 05, 2025	6.53%
+Orange (ORAN)	Jun 03, 2025	0.45		Jun 05, 2025	6.50%
+Orange (ORAN)	Jun 03, 2025	0.45		Jun 05, 2025	6.51%
+Orange (ORAN)	Jun 03, 2025	0.45		Jun 05, 2025	6.49%
+Sopra Steria (SOPR)	Jun 03, 2025	4.65		Jun 05, 2025	3.05%
+Sopra Steria (SOPR)	Jun 03, 2025	4.65		Jun 05, 2025	3.01%
+Tong Herr Resources Bhd (THRB)	Jun 03, 2025	0.033		Jun 18, 2025	2.13%
+Xinyi Energy (3868)	Jun 03, 2025	0.027		--	6.25%
+Wednesday, June 4, 2025
+Adesso (ADN1d)	Jun 04, 2025	0.75		Jun 06, 2025	0.82%
+Adesso (ADNGk)	Jun 04, 2025	0.75		Jun 06, 2025	0.90%
+Barings BDC (BBDC)	Jun 04, 2025	0.05		Jun 11, 2025	8.45%
+FutureFuel (FF)	Jun 04, 2025	0.06		Jun 18, 2025	5.31%
+OMV AG (0MKH)	Jun 04, 2025	3.05		Jun 10, 2025	7.25%
+OMV AG (0MKH)	Jun 04, 2025	1.7		Jun 10, 2025	11.29%
+OMV AG (OMVV)	Jun 04, 2025	3.05		Jun 10, 2025	7.20%
+OMV AG (OMVV)	Jun 04, 2025	3.05		Jun 10, 2025	7.19%
+OMV AG (OMVV)	Jun 04, 2025	1.7		Jun 10, 2025	11.20%
+OMV AG (OMVV)	Jun 04, 2025	1.7		Jun 10, 2025	11.21%
+Vistin Pharma ASA (VISTN)	Jun 04, 2025	1.25		Jun 12, 2025	5.17%
+Thursday, June 5, 2025
+Aviva Pref (AV_p)	Jun 05, 2025	4.375		Jun 30, 2025	-
+edding (EDD3_p)	Jun 05, 2025	0.51		Jun 09, 2025	1.23%
+PSC Corporation (PSCC)	Jun 05, 2025	0.013		Jun 18, 2025	5.29%
+Saratoga Investment Corp (SAR)	Jun 05, 2025	0.25		Jun 24, 2025	11.54%
+TBC Bank Group (TBCG)	Jun 05, 2025	5.55		Jul 11, 2025	-
+TBC Bank Group (TBCGl)	Jun 05, 2025	5.55		Jul 11, 2025	-
+Telekom Austria (0NKL)	Jun 05, 2025	0.4		Jun 11, 2025	4.85%
+Telekom Austria (TELA)	Jun 05, 2025	0.4		Jun 11, 2025	4.70%
+Telekom Austria (TELA)	Jun 05, 2025	0.4		Jun 11, 2025	4.70%
+WPP (0WP)	Jun 05, 2025	24.4		Jul 04, 2025	5.97%
+WPP (WPP)	Jun 05, 2025	24.4		Jul 04, 2025	6.12%
+Friday, June 6, 2025
+Deutsche Pfandbriefbank AG (PBBd)	Jun 06, 2025	0.15		Jun 10, 2025	2.63%
+Deutsche Pfandbriefbank AG (PBBG)	Jun 06, 2025	0.15		Jun 10, 2025	2.72%
+Deutsche Pfandbriefbank AG (PBBG)	Jun 06, 2025	0.15		Jun 10, 2025	2.72%
+Gerresheimer AG (0NTI)	Jun 06, 2025	1.25		Jun 10, 2025	1.54%
+Gerresheimer AG (GXId)	Jun 06, 2025	1.25		Jun 10, 2025	1.58%
+Gerresheimer AG (GXIG)	Jun 06, 2025	1.25		Jun 10, 2025	1.54%
+Main Street Capital (MAIN)	Jun 06, 2025	0.25		Jun 13, 2025	4.93%
+MegaChem Ltd (MEGA)	Jun 06, 2025	0.005		Jun 26, 2025	2.56%
+Sixt AG VZO (SIXG_p)	Jun 06, 2025	2.72		Jun 10, 2025	4.56%
+Sixt AG VZO (SIXT_p)	Jun 06, 2025	2.72		Jun 10, 2025	4.56%
+Sixt SE (SIXG)	Jun 06, 2025	2.7		Jun 10, 2025	3.17%
+Sixt SE (SIXG)	Jun 06, 2025	2.7		Jun 10, 2025	3.16%
+Monday, June 9, 2025
+Kayne Anderson BDC (KBDC)	Jun 09, 2025	0.1		Jun 24, 2025	8.63%
+Saint Gobain (CODC)	Jun 09, 2025	2.2		Jun 11, 2025	2.28%
+Saint Gobain (SGOB)	Jun 09, 2025	2.2		Jun 11, 2025	2.27%
+Saint Gobain (SGOB)	Jun 09, 2025	2.2		Jun 11, 2025	2.28%
+Saint Gobain (SGOB)	Jun 09, 2025	2.2		Jun 11, 2025	2.34%
+Saint Gobain (SGOB)	Jun 09, 2025	2.2		Jun 11, 2025	2.27%
+Tuesday, June 10, 2025
+Eagle Point Credit Company (ECCC)	Jun 10, 2025	0.135417		Jun 30, 2025	7.02%
+Eagle Point Credit Prf D (ECC_pd)	Jun 10, 2025	0.140625		Jun 30, 2025	8.37%
+Eagle Point Cred (ECC)	Jun 10, 2025	0.14		Jun 30, 2025	19.18%
+Eagle Point Income (EIC)	Jun 10, 2025	0.2		Jun 30, 2025	15.09%
+Eagle Point Prf A (EICA)	Jun 10, 2025	0.104167		Jun 30, 2025	5.18%
+Edenred (0MUM)	Jun 10, 2025	1.21		Jun 12, 2025	3.99%
+Edenred (EDEN)	Jun 10, 2025	1.21		Jun 12, 2025	4.01%
+Edenred (EDEN)	Jun 10, 2025	1.21		Jun 12, 2025	3.95%
+Edenred (EDEN)	Jun 10, 2025	1.21		Jun 12, 2025	3.96%
+Grupo Bolivar (SCA)	Jun 10, 2025	228		Jun 16, 2025	3.85%
+Wednesday, June 11, 2025
+Altarea (ALTAp)	Jun 11, 2025	2		Jul 07, 2025	2.06%
+Altarea (ALTAp)	Jun 11, 2025	6		Jul 07, 2025	6.19%
+Altarea (IMAF)	Jun 11, 2025	2		Jul 07, 2025	1.91%
+Altarea (IMAF)	Jun 11, 2025	6		Jul 07, 2025	5.74%
+Shangri La Hotels Malaysia (SHGM)	Jun 11, 2025	0.05		Jun 30, 2025	4.30%
+Taiwan Semiconductor Manufacturing Co (TSMC34)	Jun 11, 2025	0.377478		Jul 16, 2025	1.09%
+Thursday, June 12, 2025
+Taiwan Semiconductor Manufacturing Co (TSMm)	Jun 12, 2025	0.076161		Jul 10, 2025	1.10%
+Taiwan Semiconductor (TSM)	Jun 12, 2025	0.541508		Jul 10, 2025	1.15%
+Taiwan Semiconductor (TSM)	Jun 12, 2025	0.541508		Jul 10, 2025	1.20%
+Taiwan Semiconductor (TSMN)	Jun 12, 2025	0.541508		Jul 10, 2025	1.15%
+Taiwan Semicon (2330)	Jun 12, 2025	4.5		Jul 10, 2025	1.63%
+Friday, June 13, 2025
+Gabelli Dividend & Income Closed (GDV)	Jun 13, 2025	0.14		Jun 23, 2025	6.77%
+Gabelli Utility Closed Fund (GUT)	Jun 13, 2025	0.05		Jun 23, 2025	11.21%
+Gabelli (GLU)	Jun 13, 2025	0.1		Jun 23, 2025	7.58%
+GAMCO Natural Resources Gold Closed (GNT)	Jun 13, 2025	0.04		Jun 23, 2025	8.25%
+GAMCO (GGN)	Jun 13, 2025	0.03		Jun 23, 2025	8.80%
+Garmin (G1RM34)	Jun 13, 2025	2.4823769		Jul 03, 2025	1.53%
+ICE (ICE)	Jun 13, 2025	0.48		Jun 30, 2025	1.11%
+Sound Point Meridian Capital (SPMC)	Jun 13, 2025	0.25		Jun 30, 2025	14.56%
+Monday, June 16, 2025
+Aegon NV DRC (A1EG34)	Jun 16, 2025	0.932948		Jul 11, 2025	4.70%
+Aegon (0Q0Y)	Jun 16, 2025	0.19		Jul 07, 2025	5.77%
+Aegon (AEGN)	Jun 16, 2025	0.19		Jul 07, 2025	5.77%
+Aegon (AEGNA)	Jun 16, 2025	0.19		Jul 07, 2025	5.81%
+Atresmedia (0MJT)	Jun 16, 2025	0.3807		Jun 18, 2025	11.15%
+Atresmedia (A3M)	Jun 16, 2025	0.3807		Jun 18, 2025	11.12%
+Cornerstone Strategic Return (CRF)	Jun 16, 2025	0.1168		Jun 30, 2025	18.11%
+Cornerstone Strategic Value (CLM)	Jun 16, 2025	0.1224		Jun 30, 2025	18.59%
+DWS Group (0SAY)	Jun 16, 2025	2.2		Jun 18, 2025	4.79%
+DWS Group (DWSd)	Jun 16, 2025	2.2		Jun 18, 2025	4.62%
+DWS Group (DWSG)	Jun 16, 2025	2.2		Jun 18, 2025	4.77%
+DWS Group (DWSG)	Jun 16, 2025	2.2		Jun 18, 2025	4.76%
+DWS Group (DWSG)	Jun 16, 2025	2.2		Jun 18, 2025	4.78%
+Garmin (GRMN)	Jun 16, 2025	0.9		Jun 27, 2025	1.57%
+MPC Capital (MPCKk)	Jun 16, 2025	0.27		Jun 18, 2025	5.14%
+Oxford Lane (OXLC)	Jun 16, 2025	0.09		Jun 30, 2025	21.34%
+THY (THYAO)	Jun 16, 2025	3.4420289		Jun 18, 2025	1.12%
+Tuesday, June 17, 2025
+Gallant Micro Machining (6640)	Jun 17, 2025	15		Jul 10, 2025	2.92%
+Gaztransport et Technigaz SA (GTT)	Jun 17, 2025	3.83		Jun 19, 2025	5.10%
+Gaztransport et Technigaz SA (GTTp)	Jun 17, 2025	3.83		Jun 19, 2025	5.10%
+Wednesday, June 18, 2025
+Almacenes Exito (IMI)	Jun 18, 2025	21.11		Jun 25, 2025	1.10%
+TF Bank (TFBANK)	Jun 18, 2025	5		Jun 25, 2025	1.33%
+Thursday, June 19, 2025
+Genky Drugstores (9267)	Jun 19, 2025	6.5		Sep 16, 2025	0.45%
+Joyful Honda Co Ltd (3191)	Jun 19, 2025	27		Sep 04, 2025	3.29%
+Joyful Honda Co Ltd (3191)	Jun 19, 2025	5		Sep 04, 2025	3.29%
+King Jim Co Ltd (7962)	Jun 19, 2025	7		Sep 22, 2025	1.65%
+Senao (2450)	Jun 19, 2025	1.649999		Jul 15, 2025	4.78%
+TotalEnergies SE (TOTF)	Jun 19, 2025	0.85		Jul 01, 2025	5.57%
+TotalEnergies SE (TOTF)	Jun 19, 2025	0.85		Jul 01, 2025	5.59%
+TotalEnergies SE (TTEF)	Jun 19, 2025	0.85		Jul 01, 2025	5.57%
+TotalEnergies SE (TTEF)	Jun 19, 2025	0.85		Jul 01, 2025	5.57%
+Friday, June 20, 2025
+Befesa (BFSA)	Jun 20, 2025	0.64		Jun 24, 2025	2.83%
+Befesa (BFSA)	Jun 20, 2025	0.64		Jun 24, 2025	2.86%
+Befesa (BFSAd)	Jun 20, 2025	0.64		Jun 24, 2025	3.21%
+Foxsemicon Integrated Tech (3413)	Jun 20, 2025	14.5		Jul 18, 2025	4.48%
+OFS Credit Company (OCCIO)	Jun 20, 2025	0.1276042		Jun 30, 2025	6.17%
+OFS Credit Prf 6 (OCCIN)	Jun 20, 2025	0.109375		Jun 30, 2025	5.50%
+Monday, June 23, 2025
+An-Shin Food (1259)	Jun 23, 2025	1.2		Jul 28, 2025	1.87%
+Chargeurs (0E1Y)	Jun 23, 2025	0.13		Jul 15, 2025	1.09%
+Chargeurs (CRIP)	Jun 23, 2025	0.13		Jul 15, 2025	1.09%
+Chargeurs (CRIp)	Jun 23, 2025	0.13		Jul 15, 2025	1.09%
+Grape King Bio (1707)	Jun 23, 2025	4.2		Jul 18, 2025	4.65%
+Hellenic Exchanges (EXCr)	Jun 23, 2025	0.2503633		Jun 30, 2025	5.18%
+Poste Italiane (PST)	Jun 23, 2025	0.75		Jun 25, 2025	6.96%
+Poste Italiane (PST)	Jun 23, 2025	0.75		Jun 25, 2025	6.97%
+Poste Italiane (PSTm)	Jun 23, 2025	0.75		Jun 25, 2025	7.21%
+Snam (0NQP)	Jun 23, 2025	0.1743		Jun 25, 2025	6.25%
+Snam (SRG)	Jun 23, 2025	0.1743		Jun 25, 2025	6.28%
+Snam (SRG)	Jun 23, 2025	0.1743		Jun 25, 2025	6.25%
+Walt Disney Co BDR (DISB34)	Jun 23, 2025	0.1337643		Aug 01, 2025	0.60%
+Walt Disney (1DIS)	Jun 23, 2025	0.5		Jul 23, 2025	0.89%
+Tuesday, June 24, 2025
+Banco De Bogota (BBO)	Jun 24, 2025	133		Jul 01, 2025	5.43%
+Heineken (HEIN)	Jun 24, 2025	1.15		Jul 23, 2025	5.81%
+Orange Polska (0GB7)	Jun 24, 2025	0.53		Jul 09, 2025	6.90%
+Orange Polska (OPL)	Jun 24, 2025	0.53		Jul 09, 2025	6.44%
+Van Lanschot (0O4B)	Jun 24, 2025	1.4		Jun 26, 2025	9.24%
+Van Lanschot (VLAN)	Jun 24, 2025	1.4		Jun 26, 2025	9.06%
+Van Lanschot (VLKa)	Jun 24, 2025	1.4		Jun 26, 2025	8.81%
+Vitruvio Real Estate (YVIT)	Jun 24, 2025	0.5		Jun 26, 2025	5.34%
+Walt Disney DRC (DISNm)	Jun 24, 2025	0.041667		Jul 23, 2025	0.77%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	0.88%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	0.88%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	0.88%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	0.89%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	1.08%
+Walt Disney (DIS)	Jun 24, 2025	0.5		Jul 23, 2025	0.89%
+Walt Disney (DISCL)	Jun 24, 2025	0.5		Jul 23, 2025	0.90%
+Wednesday, June 25, 2025
+British American Tobacco (BTIJ)	Jun 25, 2025	60.06		Aug 01, 2025	7.86%
+Thursday, June 26, 2025
+BP (BP_p)	Jun 26, 2025	4		Jul 31, 2025	5.65%
+BP (BP_pb)	Jun 26, 2025	4.5		Jul 31, 2025	5.83%
+British American Tobacco (B1TI34)	Jun 26, 2025	0.8254111		Aug 12, 2025	7.24%
+Ebro Foods (0NYH)	Jun 26, 2025	0.1863		Jun 30, 2025	3.30%
+Ebro Foods (EBRO)	Jun 26, 2025	0.1863		Jun 30, 2025	3.36%
+Ebro Foods (EVA)	Jun 26, 2025	0.1863		Jun 30, 2025	3.40%
+Getac Tech (3005)	Jun 26, 2025	6		Jul 23, 2025	4.90%
+IAG (1IAG)	Jun 26, 2025	0.06		Jun 30, 2025	2.12%
+IAG (ICAG)	Jun 26, 2025	0.06		Jun 30, 2025	2.11%
+IAG (ICAG)	Jun 26, 2025	0.06		Jun 30, 2025	2.11%
+IAG (ICAG)	Jun 26, 2025	0.06		Jun 30, 2025	2.11%
+Topvision Eye Specialist (TOPV)	Jun 26, 2025	0.01		Jul 21, 2025	4.65%
+	A-One Seimitsu (6156)	Jun 27, 2025	100		Sep 25, 2025	5.72%
+Acmos (6888)	Jun 27, 2025	25		Sep 29, 2025	4.86%
+Ai Holdings Corp (3076)	Jun 27, 2025	45		Sep 30, 2025	5.17%
+Ai Holdings Corp (3076)	Jun 27, 2025	10		Sep 30, 2025	5.17%
+Aimechatec (6227)	Jun 27, 2025	45		Sep 29, 2025	1.24%
+Alpen Co Ltd (3028)	Jun 27, 2025	25		Sep 11, 2025	2.22%
+Ambition Corporation (3300)	Jun 27, 2025	55		Sep 29, 2025	5.49%
+Ambition Corporation (3300)	Jun 27, 2025	50		Sep 29, 2025	5.49%
+Anabuki Kosan Inc (8928)	Jun 27, 2025	31		Sep 29, 2025	2.79%
+Area Quest (8912)	Jun 27, 2025	3		Sep 29, 2025	2.07%
+Asahi Intecc (7747)	Jun 27, 2025	24.23		Sep 29, 2025	0.99%
+Aso International (9340)	Jun 27, 2025	10		Sep 30, 2025	3.45%
+ASUA (246A)	Jun 27, 2025	5.66		--	0.80%
+Atom Livin Tech (3426)	Jun 27, 2025	15		Sep 26, 2025	2.44%
+Avant (3836)	Jun 27, 2025	25		Sep 26, 2025	1.35%
+Axis Consulting (9344)	Jun 27, 2025	35		--	4.27%
+Axyz (1381)	Jun 27, 2025	98.5		Sep 19, 2025	3.55%
+bBreak Systems (3986)	Jun 27, 2025	18		Sep 30, 2025	1.23%
+Beauty Kadan (3041)	Jun 27, 2025	9		Sep 26, 2025	2.50%
+BrainPad Inc (3655)	Jun 27, 2025	8		Sep 29, 2025	0.71%
+British American Tobacco ADR (BTI)	Jun 27, 2025	0.739068		Aug 06, 2025	7.59%
+BroadBand Security (4398)	Jun 27, 2025	5		Sep 24, 2025	0.70%
+Bruno (3140)	Jun 27, 2025	4		Sep 30, 2025	0.40%
+Bushiroad (7803)	Jun 27, 2025	4.5		Sep 29, 2025	0.79%
+Charm Care (6062)	Jun 27, 2025	34		Sep 29, 2025	2.78%
+Cocorport (9346)	Jun 27, 2025	44		--	3.01%
+Computer Institute Japan (4826)	Jun 27, 2025	7		Sep 04, 2025	3.13%
+Crestec (7812)	Jun 27, 2025	38		Sep 29, 2025	4.26%
+Cross Marketing (3675)	Jun 27, 2025	7		Sep 30, 2025	2.13%
+Dai-Ichi Cutter Kogyo KK (1716)	Jun 27, 2025	40		Sep 30, 2025	2.87%
+Digital Information Tech (3916)	Jun 27, 2025	36		Sep 29, 2025	2.74%
+DN Holdings Co (7377)	Jun 27, 2025	70		Sep 30, 2025	3.78%
+Dualtap (3469)	Jun 27, 2025	12.5		Sep 29, 2025	1.10%
+EF On (9514)	Jun 27, 2025	8		Sep 09, 2025	2.20%
+Envipro (5698)	Jun 27, 2025	15		Sep 30, 2025	3.69%
+Environmental Control Center (4657)	Jun 27, 2025	8		Sep 26, 2025	1.84%
+Etex (BE0941244536)	Jun 27, 2025	0.721		Jul 01, 2025	5.50%
+Fibergate (9450)	Jun 27, 2025	13.5		Sep 29, 2025	2.87%
+Founder’s Consultants (6542)	Jun 27, 2025	30		Sep 29, 2025	3.26%
+Frontier Real Estate (8964)	Jun 27, 2025	2200		Sep 10, 2025	5.55%
+Furuya Metal (7826)	Jun 27, 2025	96		Sep 12, 2025	3.48%
+Fushiki Kairiku Unso (9361)	Jun 27, 2025	30		Sep 29, 2025	3.09%
+Geolocation Technology (4018)	Jun 27, 2025	10		Sep 30, 2025	1.08%
+GiXo (9219)	Jun 27, 2025	27		Sep 10, 2025	5.58%
+Global (3271)	Jun 27, 2025	38		Sep 30, 2025	5.38%
+Gloria Material Tech (5009)	Jun 27, 2025	2.6		Jul 18, 2025	5.39%
+Green Monster (157A)	Jun 27, 2025	10		Sep 05, 2025	1.90%
+Greens Co (6547)	Jun 27, 2025	27		Sep 27, 2025	1.07%
+Hamborner AG (HAB2)	Jun 27, 2025	0.48		Jul 01, 2025	7.91%
+Hamborner AG (HABAn)	Jun 27, 2025	0.48		Jul 01, 2025	7.99%
+Handsman (7636)	Jun 27, 2025	30		Sep 26, 2025	3.63%
+Hands (5077)	Jun 27, 2025	30		Sep 26, 2025	3.63%
+Hirayama (7781)	Jun 27, 2025	34		Sep 29, 2025	5.05%
+Hob (1382)	Jun 27, 2025	50		Sep 26, 2025	2.83%
+House Do (3457)	Jun 27, 2025	45		Sep 27, 2025	3.83%
+Hpc Systems (6597)	Jun 27, 2025	26		Sep 30, 2025	2.11%
+Human Metabolome Tech (6090)	Jun 27, 2025	15		Sep 05, 2025	2.16%
+I3 Systems (4495)	Jun 27, 2025	32		Sep 26, 2025	2.20%
+Ichimasa Kamaboko (2904)	Jun 27, 2025	14		Sep 27, 2025	1.91%
+Iid (6038)	Jun 27, 2025	16		Sep 29, 2025	2.63%
+Iid (6038)	Jun 27, 2025	6		Sep 29, 2025	2.63%
+Intage Holdings Inc (4326)	Jun 27, 2025	22.5		Sep 29, 2025	2.63%
+Intelligent Wave (4847)	Jun 27, 2025	20		Sep 26, 2025	3.30%
+Invincible (8963)	Jun 27, 2025	1895		Sep 24, 2025	6.06%
+IPS (4335)	Jun 27, 2025	38		Sep 26, 2025	3.30%
+IRRC Corporation (7325)	Jun 27, 2025	20		Sep 29, 2025	3.08%
+Istyle Inc (3660)	Jun 27, 2025	1		--	0.22%
+Japan Craft Holdings (7135)	Jun 27, 2025	3		--	2.22%
+Japan Excellent (8987)	Jun 27, 2025	3000		Sep 22, 2025	4.49%
+Japan Prime Realty (8955)	Jun 27, 2025	7950		Sep 10, 2025	4.60%
+Japan PropTech (4054)	Jun 27, 2025	5		Sep 30, 2025	0.50%
+Jichodo (3597)	Jun 27, 2025	500		Sep 30, 2025	5.23%
+KeePer Technical Lab (6036)	Jun 27, 2025	53		Sep 09, 2025	1.35%
+Kichiri Co Ltd (3082)	Jun 27, 2025	5		Sep 16, 2025	0.89%
+Kitagawa Seiki (6327)	Jun 27, 2025	10		Sep 29, 2025	1.72%
+Koa Shoji (9273)	Jun 27, 2025	15		Sep 30, 2025	2.18%
+Kotobukiya (7809)	Jun 27, 2025	40		Sep 29, 2025	3.12%
+Kudo (1764)	Jun 27, 2025	100		Sep 30, 2025	3.81%
+Kyoritsu Electric (6874)	Jun 27, 2025	120		Sep 29, 2025	3.02%
+Lasertec Corp (6920)	Jun 27, 2025	173		Sep 29, 2025	2.15%
+Logizard (4391)	Jun 27, 2025	18		Sep 29, 2025	1.47%
+M H Group (9439)	Jun 27, 2025	0.5		Sep 11, 2025	0.26%
+Maeda Kosen Co Ltd (7821)	Jun 27, 2025	12		Sep 29, 2025	1.33%
+Medius (3154)	Jun 27, 2025	19		Sep 30, 2025	2.13%
+Mitsuchi (3439)	Jun 27, 2025	10		Sep 29, 2025	3.13%
+Monogatari Corp (3097)	Jun 27, 2025	18		Sep 26, 2025	1.13%
+Nagaoka International (6239)	Jun 27, 2025	35		Sep 29, 2025	2.90%
+Nippon Building (8951)	Jun 27, 2025	2400		Sep 16, 2025	3.91%
+Nippon REIT (3296)	Jun 27, 2025	2288		Sep 19, 2025	5.76%
+Nishikawa Keisoku (7500)	Jun 27, 2025	230		Sep 30, 2025	2.81%
+Okamura Foods (2938)	Jun 27, 2025	9.5		Sep 29, 2025	0.91%
+OLBA Healthcare Holdings (2689)	Jun 27, 2025	80		Sep 29, 2025	3.90%
+Onex (5987)	Jun 27, 2025	20		Sep 30, 2025	1.16%
+Open Up (2154)	Jun 27, 2025	45		Sep 11, 2025	4.07%
+Pan Pacific Intl (7532)	Jun 27, 2025	25		Sep 30, 2025	0.85%
+Platz (7813)	Jun 27, 2025	14		Sep 27, 2025	2.02%
+QB Net Holdings Co (6571)	Jun 27, 2025	35		Sep 29, 2025	3.35%
+Qualtec (9165)	Jun 27, 2025	37		Sep 29, 2025	2.79%
+Redeia Corporacion (0RI5)	Jun 27, 2025	0.486		Jul 01, 2025	3.75%
+Redeia Corporacion (RE21)	Jun 27, 2025	0.486		Jul 01, 2025	3.86%
+Redeia Corporacion (REDE)	Jun 27, 2025	0.486		Jul 01, 2025	3.75%
+Redeia Corporacion (REE)	Jun 27, 2025	0.486		Jul 01, 2025	3.76%
+Rezil (176A)	Jun 27, 2025	36		Sep 30, 2025	1.52%
+Santo (1788)	Jun 27, 2025	70		Sep 30, 2025	1.83%
+Sasatoku Printing (3958)	Jun 27, 2025	10		Sep 09, 2025	3.50%
+Scala (4845)	Jun 27, 2025	8		--	3.96%
+Shibuya Kogyo (6340)	Jun 27, 2025	45		Sep 30, 2025	2.75%
+Shinpo (5903)	Jun 27, 2025	40		Sep 24, 2025	3.21%
+Shinto (5380)	Jun 27, 2025	37.5		Sep 26, 2025	2.51%
+Sho Bond Holdings (1414)	Jun 27, 2025	78.5		Sep 29, 2025	3.04%
+Smartvalue (9417)	Jun 27, 2025	6		Sep 29, 2025	1.67%
+Solvvy (7320)	Jun 27, 2025	5		Sep 26, 2025	0.73%
+Solvvy (7320)	Jun 27, 2025	15		Sep 26, 2025	0.73%
+Sunnexta (8945)	Jun 27, 2025	20		Sep 30, 2025	4.01%
+Sunny Side Up (2180)	Jun 27, 2025	15		Sep 26, 2025	4.17%
+Suzuki Co Ltd (6785)	Jun 27, 2025	40		Sep 30, 2025	4.88%
+System Support (4396)	Jun 27, 2025	24		Sep 29, 2025	2.43%
+Takamisawa (5283)	Jun 27, 2025	50		Sep 25, 2025	1.60%
+Tauns Laboratories (197A)	Jun 27, 2025	10		Sep 29, 2025	5.42%
+Tauns Laboratories (197A)	Jun 27, 2025	12		Sep 29, 2025	5.42%
+Techfirm (3625)	Jun 27, 2025	5		Sep 29, 2025	0.72%
+TechnoPro Holdings (30T)	Jun 27, 2025	60		Sep 30, 2025	3.06%
+TechnoPro Holdings (6028)	Jun 27, 2025	60		Sep 30, 2025	3.04%
+Temairazu (2477)	Jun 27, 2025	20		Sep 26, 2025	1.13%
+Tess Holdings Co (5074)	Jun 27, 2025	7.66		Sep 30, 2025	2.97%
+TOW Co Ltd (4767)	Jun 27, 2025	7.5		Sep 26, 2025	4.82%
+Townnews-Sha (2481)	Jun 27, 2025	19		Sep 26, 2025	2.68%
+Toyo Drilube (4976)	Jun 27, 2025	36		Sep 09, 2025	1.98%
+Trial Holdings (141A)	Jun 27, 2025	16		Sep 30, 2025	0.88%
+Trust Holdings (3286)	Jun 27, 2025	8		Sep 29, 2025	1.84%
+Universal Engeisha (6061)	Jun 27, 2025	25		Sep 29, 2025	0.66%
+Urbanetoration (3242)	Jun 27, 2025	11		Sep 29, 2025	4.87%
+User Local (3984)	Jun 27, 2025	11		Sep 24, 2025	0.65%
+Wellnet Corp (2428)	Jun 27, 2025	26.46		Sep 26, 2025	3.57%
+Willplus Holdings Co (3538)	Jun 27, 2025	28.06		Oct 20, 2025	4.58%
+Yamami (2820)	Jun 27, 2025	36		Sep 29, 2025	2.18%
+Zenken (7371)	Jun 27, 2025	13		Sep 11, 2025	2.21%
+Zero (9028)	Jun 27, 2025	64.4		Sep 27, 2025	4.26%
+Monday, June 30, 2025
+Citadelome (CTF_u)	Jun 30, 2025	0.02		Jul 15, 2025	8.36%
+Datron (DARG)	Jun 30, 2025	0.12		Jul 02, 2025	1.73%
+Energyome (ENI_u)	Jun 30, 2025	0.01		Jul 15, 2025	7.06%
+Scientech (3583)	Jun 30, 2025	4.5		Jul 25, 2025	1.32%
+	Bureau Veritas (0MH1)	Jul 01, 2025	0.9		Jul 03, 2025	3.10%
+Bureau Veritas (BVI)	Jul 01, 2025	0.9		Jul 03, 2025	3.11%
+Bureau Veritas (BVI)	Jul 01, 2025	0.9		Jul 03, 2025	3.11%
+Bureau Veritas (BVI)	Jul 01, 2025	0.9		Jul 03, 2025	3.11%
+Enagas (0EBQ)	Jul 01, 2025	0.000729		Jul 03, 2025	6.34%
+Enagas (0EBQ)	Jul 01, 2025	0.485271		Jul 03, 2025	6.34%
+Enagas (ENAG)	Jul 01, 2025	0.000729		Jul 03, 2025	6.46%
+Enagas (ENAG)	Jul 01, 2025	0.485271		Jul 03, 2025	6.46%
+ICADE (0K4O)	Jul 01, 2025	2.15		Jul 03, 2025	19.23%
+ICADE (ICAD)	Jul 01, 2025	2.15		Jul 03, 2025	19.12%
+Lila Kagit Sanayi ve Ticaret AS (LILAK)	Jul 01, 2025	1.500007		Jul 03, 2025	6.41%
+Public Property Invest (PUBLI)	Jul 01, 2025	0.1		Jul 09, 2025	2.19%
+Wednesday, July 2, 2025
+Fnac Darty SA (FNAC)	Jul 02, 2025	1		Jul 04, 2025	3.34%
+Gecina (0OPE)	Jul 02, 2025	2.75		Jul 04, 2025	6.07%
+Gecina (GFC)	Jul 02, 2025	2.75		Jul 04, 2025	6.07%
+Gecina (GFCP)	Jul 02, 2025	2.75		Jul 04, 2025	6.02%
+Gecina (GFCP)	Jul 02, 2025	2.75		Jul 04, 2025	6.06%
+Gecina (GFCp)	Jul 02, 2025	2.75		Jul 04, 2025	5.74%
+HELLENiQ ENERGY Holdings (HEPr)	Jul 02, 2025	0.25		Jul 09, 2025	9.62%
+HELLENiQ ENERGY Holdings (HEPr)	Jul 02, 2025	0.3		Jul 09, 2025	9.62%
+Itau Unibanco Holding (ITUBm)	Jul 02, 2025	0.00285		Aug 08, 2025	6.54%
+Itau Unibanco (ITUB)	Jul 02, 2025	0.0024229		Aug 08, 2025	0.53%
+Itau Unibanco (ITUBN)	Jul 02, 2025	0.0024229		Aug 08, 2025	6.83%
+Thursday, July 3, 2025
+Acer Cyber (6690)	Jul 03, 2025	6		Jul 29, 2025	2.93%
+Celsia (CEL)	Jul 03, 2025	150		Jul 09, 2025	16.22%
+Hellenic Telecommunications (0FIZ)	Jul 03, 2025	0.7216		Jul 09, 2025	4.86%
+Hellenic Telecommunications (OTEr)	Jul 03, 2025	0.7216		Jul 09, 2025	4.80%
+Plastron Precision (6185)	Jul 03, 2025	0.3		Jul 30, 2025	1.81%
+Friday, July 4, 2025
+Bilia (0RQ2)	Jul 04, 2025	1.4		Jul 10, 2025	4.10%
+Bilia (BILIa)	Jul 04, 2025	1.4		Jul 10, 2025	4.10%
+GT Capital Pref B (GTPPB)	Jul 04, 2025	12.73725		Jul 28, 2025	5.25%
+ISDN Holdings Ltd (1656)	Jul 04, 2025	0.0271		Aug 25, 2025	2.22%
+ISDN Holdings Ltd (ISDN)	Jul 04, 2025	0.0047		Aug 25, 2025	1.52%
+Repsol (0NQG)	Jul 04, 2025	0.405		Jul 08, 2025	6.46%
+Repsol (REP)	Jul 04, 2025	0.405		Jul 08, 2025	6.42%
+Repsol (REP)	Jul 04, 2025	0.405		Jul 08, 2025	6.38%
+Repsol (REP)	Jul 04, 2025	0.405		Jul 08, 2025	6.41%
+Repsol (REP)	Jul 04, 2025	0.405		Jul 08, 2025	6.45%
+Monday, July 7, 2025
+Einhell VZO (EIN_p)	Jul 07, 2025	1.5		Jul 09, 2025	2.30%
+Tuesday, July 8, 2025
+Indra A (0HA9)	Jul 08, 2025	0.2025		Jul 10, 2025	0.97%
+Indra A (IDR)	Jul 08, 2025	0.2025		Jul 10, 2025	0.97%
+Indra A (IDR)	Jul 08, 2025	0.2025		Jul 10, 2025	0.97%
+Wednesday, July 9, 2025
+Fu Shou Yuan Int (1448)	Jul 09, 2025	0.1079		Jul 25, 2025	13.19%
+Grupo Bolivar (SCA)	Jul 09, 2025	228		Jul 15, 2025	3.85%
+Friday, July 11, 2025
+Morningstar (MORN)	Jul 11, 2025	0.455		Jul 31, 2025	0.58%
+Vidrala (0NV7)	Jul 11, 2025	0.345141		Jul 15, 2025	1.27%
+Vidrala (VID)	Jul 11, 2025	0.345141		Jul 15, 2025	1.26%
+Wednesday, July 16, 2025
+GlobalWafers (6488)	Jul 16, 2025	6		Aug 15, 2025	2.91%
+Thursday, July 17, 2025
+WAM Global (WGB)	Jul 17, 2025	0.04		Jul 31, 2025	6.82%
+Friday, July 18, 2025
+Celsia (CEL)	Jul 18, 2025	40		Jul 24, 2025	4.32%
+Monday, July 21, 2025
+Defama Deutsche Fachmarkt (DEF)	Jul 21, 2025	0.6		Jul 23, 2025	2.13%
+OFS Credit Company (OCCIO)	Jul 21, 2025	0.1276042		Jul 31, 2025	6.17%
+OFS Credit Prf 6 (OCCIN)	Jul 21, 2025	0.109375		Jul 31, 2025	5.50%
+Wednesday, July 23, 2025
+British American Tobacco Uganda (BATU)	Jul 23, 2025	210		Jul 30, 2025	1.40%
+Sino-American Silicon (5483)	Jul 23, 2025	3.5		Aug 22, 2025	5.16%
+Friday, July 25, 2025
+Century Properties PrfB (CPGPB)	Jul 25, 2025	1.8858		Aug 22, 2025	7.40%
+Monday, July 28, 2025
+Banco De Bogota (BBO)	Jul 28, 2025	133		Aug 01, 2025	5.43%
+Creades (CREADa)	Jul 28, 2025	0.4		Aug 01, 2025	2.00%
+Nokia of America (NOKI34)	Jul 28, 2025	0.1318043		Aug 18, 2025	1.84%
+Nokia Oyj (0HAF)	Jul 28, 2025	0.035		Aug 07, 2025	3.01%
+Nokia Oyj (NOKIA)	Jul 28, 2025	0.035		Aug 07, 2025	3.04%
+Nokia Oyj (NOKIA)	Jul 28, 2025	0.035		Aug 07, 2025	2.96%
+Nokia Oyj (NOKIA)	Jul 28, 2025	0.035		Aug 07, 2025	3.02%
+Nokia Oyj (NOKIA)	Jul 28, 2025	0.035		Aug 07, 2025	3.02%
+Nokia Oyj (NOKIAp)	Jul 28, 2025	0.035		Aug 07, 2025	2.98%
+Nokia Oyj (NOKS)	Jul 28, 2025	0.035		Aug 07, 2025	3.02%
+Wednesday, July 30, 2025
+Balnibarbi (3418)	Jul 30, 2025	5		Oct 30, 2025	0.71%
+Mitsui Fudosan Logistics (3471)	Jul 30, 2025	3629		Oct 20, 2025	4.65%
+Pharma Foods (2929)	Jul 30, 2025	12.5		Oct 28, 2025	2.73%
+Planet (2391)	Jul 30, 2025	22		Oct 27, 2025	3.57%
+Telia Company (0H6X)	Jul 30, 2025	0.5		Aug 05, 2025	5.71%
+Telia Company (TELIA)	Jul 30, 2025	0.5		Aug 05, 2025	5.71%
+Telia Company (TELIA1)	Jul 30, 2025	0.5		Aug 05, 2025	5.71%
+Telia Company (TLIA)	Jul 30, 2025	0.5		Aug 05, 2025	5.78%
+Thursday, July 31, 2025
+Citadelome (CTF_u)	Jul 31, 2025	0.02		Aug 15, 2025	8.36%
+Energyome (ENI_u)	Jul 31, 2025	0.01		Aug 15, 2025	7.06%
+MVI (2342)	Jul 31, 2025	0.3		Aug 22, 2025	0.97%
+	China Kepei Education (1890)	Aug 01, 2025	0.06		Aug 22, 2025	9.77%
+Monday, August 4, 2025
+A Brown Company Prf s (BRNP)	Aug 04, 2025	1.75		Aug 29, 2025	7.22%
+Volati Pref (VOLOpref)	Aug 04, 2025	10		Aug 08, 2025	6.31%
+Wednesday, August 6, 2025
+NoHo Partners (NOHOP)	Aug 06, 2025	0.15		Aug 14, 2025	4.80%
+Monday, August 11, 2025
+Grupo Bolivar (SCA)	Aug 11, 2025	228		Aug 15, 2025	3.85%
+Thursday, August 14, 2025
+Air T (AIRTP)	Aug 14, 2025	0.5		Aug 15, 2025	11.63%
+Aperam (0OLF)	Aug 14, 2025	0.425		Sep 11, 2025	5.82%
+Aperam (APAM)	Aug 14, 2025	0.425		Sep 11, 2025	5.82%
+Aperam (APAM)	Aug 14, 2025	0.425		Sep 11, 2025	5.82%
+Aperam (APAM)	Aug 14, 2025	0.425		Sep 11, 2025	5.80%
+Aperam (APMSF)	Aug 14, 2025	0.5		Sep 11, 2025	6.88%
+Walmart BDR (WALM34)	Aug 14, 2025	0.0566479		Sep 08, 2025	0.63%
+Walmart (1WMT)	Aug 14, 2025	0.235		Sep 02, 2025	0.97%
+Friday, August 15, 2025
+Aperam PK (APEMY)	Aug 15, 2025	0.44404		Sep 11, 2025	5.82%
+Pershing Square (PSHZF)	Aug 15, 2025	0.1646		Sep 19, 2025	1.22%
+PriceSmart (PSMT)	Aug 15, 2025	0.63		Aug 29, 2025	1.41%
+UOB (UOBH)	Aug 15, 2025	0.25		Aug 28, 2025	3.72%
+Walmart DRC (WMTm)	Aug 15, 2025	0.013056		Sep 02, 2025	0.83%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	0.97%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	1.06%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	0.97%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	0.96%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	0.96%
+Walmart (WMT)	Aug 15, 2025	0.235		Sep 02, 2025	0.95%
+Wednesday, August 20, 2025
+Cirtek Holdings Philippines Prf (TCB2A)	Aug 20, 2025	0.0228125		Sep 08, 2025	18.25%
+Tuesday, August 26, 2025
+Banco De Bogota (BBO)	Aug 26, 2025	133		Sep 01, 2025	5.43%
+Wednesday, August 27, 2025
+Glencore (GLNJ)	Aug 27, 2025	0.05		Sep 19, 2025	2.54%
+Thursday, August 28, 2025
+Cirtek Holdings Philippines Prf (TCB2C)	Aug 28, 2025	1.767812		Sep 15, 2025	14.98%
+Cirtek Holdings Philippines Prf (TCB2D)	Aug 28, 2025	0.968825		Sep 15, 2025	8.00%
+Glencore (GLEN)	Aug 28, 2025	0.05		Sep 19, 2025	2.49%
+Glencore (GLENN)	Aug 28, 2025	0.05		Sep 19, 2025	-
+Olvi Oyj A (OLVAS)	Aug 28, 2025	0.65		Sep 05, 2025	3.76%
+Friday, August 29, 2025
+Citadelome (CTF_u)	Aug 29, 2025	0.02		Sep 15, 2025	8.36%
+Energyome (ENI_u)	Aug 29, 2025	0.01		Sep 15, 2025	7.06%
+	Cirtek Holdings Philippines Prf (TCB2B)	Sep 02, 2025	0.025		Sep 18, 2025	16.67%
+THY (THYAO)	Sep 02, 2025	3.4420289		Sep 04, 2025	2.23%
+Wednesday, September 3, 2025
+Barings BDC (BBDC)	Sep 03, 2025	0.05		Sep 10, 2025	6.43%
+Thursday, September 4, 2025
+Aviva (AV_pa)	Sep 04, 2025	4.1875		Sep 30, 2025	-
+FutureFuel (FF)	Sep 04, 2025	0.06		Sep 18, 2025	5.31%
+Tuesday, September 9, 2025
+Grupo Bolivar (SCA)	Sep 09, 2025	228		Sep 15, 2025	3.85%
+Wednesday, September 10, 2025
+Fiskars (FSKRS)	Sep 10, 2025	0.42		Sep 18, 2025	5.38%
+Thursday, September 11, 2025
+Garmin (G1RM34)	Sep 11, 2025	2.4823769		Oct 02, 2025	1.53%
+Friday, September 12, 2025
+Garmin (GRMN)	Sep 12, 2025	0.9		Sep 26, 2025	1.57%
+Philippine National Bank (PNB)	Sep 12, 2025	1.38		Oct 01, 2025	8.52%
+Tuesday, September 16, 2025
+ICE (ICE)	Sep 16, 2025	0.48		Sep 30, 2025	1.11%
+Thursday, September 18, 2025
+Axfood AB (0R6R)	Sep 18, 2025	4.25		Sep 24, 2025	3.84%
+Axfood AB (AXFOs)	Sep 18, 2025	4.25		Sep 24, 2025	3.72%
+Monday, September 22, 2025
+TietoEVRY (0KG0)	Sep 22, 2025	0.75		Oct 01, 2025	8.30%
+TietoEVRY (TIE1V)	Sep 22, 2025	0.75		Oct 01, 2025	8.35%
+TietoEVRY (TIETO)	Sep 22, 2025	0.75		Oct 01, 2025	8.30%
+TietoEVRY (TIETOs)	Sep 22, 2025	0.75		Oct 01, 2025	8.13%
+Wednesday, September 24, 2025
+Stora Enso A (STEa)	Sep 24, 2025	0.12		Oct 02, 2025	3.41%
+Stora Enso Oyj A (STEAV)	Sep 24, 2025	0.12		Oct 02, 2025	3.38%
+Stora Enso Oyj R (0CXC)	Sep 24, 2025	0.12		Oct 02, 2025	3.43%
+Stora Enso Oyj R (STERV)	Sep 24, 2025	0.12		Oct 02, 2025	3.38%
+Stora Enso R (STEr)	Sep 24, 2025	0.12		Oct 02, 2025	3.37%
+Thursday, September 25, 2025
+Atrium Ljungberg B (0IHM)	Sep 25, 2025	1.8		Oct 01, 2025	1.97%
+Atrium Ljungberg B (ATRLBs)	Sep 25, 2025	1.8		Oct 01, 2025	-
+Atrium Ljungberg B (ATRLJb)	Sep 25, 2025	1.8		Oct 01, 2025	2.00%
+Banco De Bogota (BBO)	Sep 25, 2025	133		Oct 01, 2025	5.43%
+Platzer Fastigheter Holding (PLAZb)	Sep 25, 2025	1.05		Oct 01, 2025	2.50%
+Stora Enso Oyj PK (SEOAY)	Sep 25, 2025	0.088264		Oct 09, 2025	0.83%
+Friday, September 26, 2025
+Ericsson A (ERICa)	Sep 26, 2025	1.42		Oct 02, 2025	3.35%
+Ericsson A (ERICAs)	Sep 26, 2025	1.42		Oct 02, 2025	4.32%
+LM Ericsson B (0O87)	Sep 26, 2025	1.42		Oct 02, 2025	3.21%
+LM Ericsson B (ERIBR)	Sep 26, 2025	1.42		Oct 02, 2025	3.20%
+LM Ericsson B (ERICb)	Sep 26, 2025	1.42		Oct 02, 2025	3.23%
+LM Ericsson B (ERICb)	Sep 26, 2025	1.42		Oct 02, 2025	3.23%
+Valmet (VALMT)	Sep 26, 2025	0.67		Oct 07, 2025	5.00%
+Valmet (VALMTh)	Sep 26, 2025	0.67		Oct 07, 2025	4.76%
+Monday, September 29, 2025
+Citadelome (CTF_u)	Sep 29, 2025	0.02		Oct 15, 2025	8.36%
+Ebro Foods (0NYH)	Sep 29, 2025	0.1863		Oct 01, 2025	3.35%
+Ebro Foods (EBRO)	Sep 29, 2025	0.1863		Oct 01, 2025	3.41%
+Ebro Foods (EVA)	Sep 29, 2025	0.1863		Oct 01, 2025	3.45%
+Energyome (ENI_u)	Sep 29, 2025	0.01		Oct 15, 2025	7.06%
+Tuesday, September 30, 2025
+Lokman Hekim (LKMNH)	Sep 30, 2025	0.2083333		Oct 02, 2025	2.20%
+Tupras Turkiye (TUPRS)	Sep 30, 2025	7.4216486		Oct 02, 2025	11.79%
+	British American Tobacco (BTIJ)	Oct 01, 2025	60.06		Nov 07, 2025	7.86%
+Public Property Invest (PUBLI)	Oct 01, 2025	0.1		Oct 09, 2025	2.19%
+Thursday, October 2, 2025
+British American Tobacco (B1TI34)	Oct 02, 2025	0.8254111		Nov 19, 2025	7.24%
+Celsia (CEL)	Oct 02, 2025	150		Oct 08, 2025	16.22%
+COOR Service Management AB (COOR)	Oct 02, 2025	0.5		Oct 08, 2025	4.44%
+Taaleri (TAALA)	Oct 02, 2025	0.25		Oct 10, 2025	6.45%
+Friday, October 3, 2025
+Bilia (0RQ2)	Oct 03, 2025	1.4		Oct 09, 2025	4.10%
+Bilia (BILIa)	Oct 03, 2025	1.4		Oct 09, 2025	4.10%
+British American Tobacco ADR (BTI)	Oct 03, 2025	0.739068		Nov 13, 2025	7.59%
+GT Capital Pref B (GTPPB)	Oct 03, 2025	12.73725		Oct 27, 2025	5.25%
+Morningstar (MORN)	Oct 03, 2025	0.455		Oct 31, 2025	0.58%
+Thule Group AB (THULE)	Oct 03, 2025	4.15		Oct 09, 2025	2.40%
+Thule Group AB (THULEs)	Oct 03, 2025	4.15		Oct 09, 2025	2.37%
+Monday, October 6, 2025
+eQ Oyj (EQV1V)	Oct 06, 2025	0.33		Oct 14, 2025	6.11%
+SAAB B (0GWL)	Oct 06, 2025	1		Oct 10, 2025	0.62%
+SAAB B (SAABBs)	Oct 06, 2025	1		Oct 10, 2025	0.65%
+SAAB B (SDV1)	Oct 06, 2025	1		Oct 10, 2025	0.60%
+Wednesday, October 8, 2025
+Grupo Bolivar (SCA)	Oct 08, 2025	228		Oct 15, 2025	3.85%
+Thursday, October 9, 2025
+Kongsberg (0F08)	Oct 09, 2025	12		Oct 23, 2025	1.63%
+Kongsberg (KOG)	Oct 09, 2025	12		Oct 23, 2025	1.61%
+Kongsberg (KOGo)	Oct 09, 2025	12		Oct 23, 2025	1.65%
+Kongsberg (KOZ)	Oct 09, 2025	12		Oct 23, 2025	1.62%
+Friday, October 10, 2025
+Fu Shou Yuan Int (1448)	Oct 10, 2025	0.1079		Oct 31, 2025	9.18%
+Monday, October 13, 2025
+Epiroc A (0YSUa)	Oct 13, 2025	1.9		Oct 17, 2025	1.81%
+Epiroc A (3AD1)	Oct 13, 2025	1.9		Oct 17, 2025	1.85%
+Epiroc A (EPIAs)	Oct 13, 2025	1.9		Oct 17, 2025	1.83%
+Epiroc A (EPIRa)	Oct 13, 2025	1.9		Oct 17, 2025	1.81%
+Epiroc B (0YSVb)	Oct 13, 2025	1.9		Oct 17, 2025	2.06%
+Epiroc B (EPIBs)	Oct 13, 2025	1.9		Oct 17, 2025	2.05%
+Epiroc B (EPIRb)	Oct 13, 2025	1.9		Oct 17, 2025	2.07%
+Skeljungur (SKEL)	Oct 13, 2025	1.6		Oct 20, 2025	16.58%
+Tuesday, October 14, 2025
+Outokumpu Oyj (OUT1V)	Oct 14, 2025	0.13		Oct 22, 2025	7.27%
+Wednesday, October 15, 2025
+Orion Oyj A (ORNAV)	Oct 15, 2025	0.82		Oct 23, 2025	3.07%
+Orion Oyj B (0M2O)	Oct 15, 2025	0.82		Oct 23, 2025	3.04%
+Orion Oyj B (ORNBV)	Oct 15, 2025	0.82		Oct 23, 2025	3.03%
+Thursday, October 16, 2025
+Elisa Oyj (0I8Y)	Oct 16, 2025	1.17		Oct 24, 2025	5.28%
+Elisa Oyj (ELISA)	Oct 16, 2025	1.17		Oct 24, 2025	5.30%
+Elopak ASA (ELO)	Oct 16, 2025	0.05		Oct 27, 2025	3.75%
+Telenor (0G8C)	Oct 16, 2025	4.6		Oct 28, 2025	6.59%
+Telenor (TEL)	Oct 16, 2025	4.6		Oct 28, 2025	6.58%
+Telenor (TELNF)	Oct 16, 2025	4.6		Oct 28, 2025	6.62%
+Friday, October 17, 2025
+Celsia (CEL)	Oct 17, 2025	40		Oct 23, 2025	4.32%
+Telenor ASA ADR (TELNY)	Oct 17, 2025	0.277268		Nov 04, 2025	4.49%
+Monday, October 20, 2025
+Atlas Copco A (ATCOa)	Oct 20, 2025	1.5		Oct 24, 2025	1.64%
+Atlas Copco B (0XXV)	Oct 20, 2025	1.5		Oct 24, 2025	1.87%
+Atlas Copco B (ATCOb)	Oct 20, 2025	1.5		Oct 24, 2025	1.88%
+Profoto Holding AB (PRFO)	Oct 20, 2025	1		Oct 24, 2025	5.00%
+Tuesday, October 21, 2025
+Atlas Copco AB (ATLKY)	Oct 21, 2025	0.087097		--	1.02%
+Atlas Copco ADR (ATLCY)	Oct 21, 2025	0.087097		--	1.17%
+Thursday, October 23, 2025
+Metso Oyj (0MGI)	Oct 23, 2025	0.19		Oct 31, 2025	3.56%
+Metso Oyj (METSO)	Oct 23, 2025	0.19		Oct 31, 2025	3.56%
+Monday, October 27, 2025
+Century Properties PrfB (CPGPB)	Oct 27, 2025	1.8858		Nov 24, 2025	7.40%
+Kemira Oyj (0MGG)	Oct 27, 2025	0.37		Nov 04, 2025	3.47%
+Kemira Oyj (KEMIRA)	Oct 27, 2025	0.37		Nov 04, 2025	3.48%
+Nokia of America (NOKI34)	Oct 27, 2025	0.1318043		Nov 18, 2025	1.84%
+Nokia Oyj (0HAF)	Oct 27, 2025	0.035		Nov 06, 2025	3.01%
+Nokia Oyj (NOKIA)	Oct 27, 2025	0.035		Nov 06, 2025	3.04%
+Nokia Oyj (NOKIA)	Oct 27, 2025	0.035		Nov 06, 2025	2.96%
+Nokia Oyj (NOKIA)	Oct 27, 2025	0.035		Nov 06, 2025	3.02%
+Nokia Oyj (NOKIA)	Oct 27, 2025	0.035		Nov 06, 2025	3.02%
+Nokia Oyj (NOKIAp)	Oct 27, 2025	0.035		Nov 06, 2025	2.98%
+Nokia Oyj (NOKS)	Oct 27, 2025	0.035		Nov 06, 2025	3.02%
+Peab B (0MHT)	Oct 27, 2025	1.25		Oct 31, 2025	3.41%
+Peab B (PEABBs)	Oct 27, 2025	1.25		Oct 31, 2025	3.35%
+Tuesday, October 28, 2025
+Banco De Bogota (BBO)	Oct 28, 2025	133		Nov 04, 2025	5.43%
+Creades (CREADa)	Oct 28, 2025	0.4		Nov 03, 2025	2.00%
+Wednesday, October 29, 2025
+Subsea 7 (0OGK)	Oct 29, 2025	6.5		Nov 06, 2025	7.48%
+Subsea 7 (SUBC)	Oct 29, 2025	6.5		Nov 06, 2025	7.53%
+Telia Company (0H6X)	Oct 29, 2025	0.5		Nov 04, 2025	5.71%
+Telia Company (TELIA)	Oct 29, 2025	0.5		Nov 04, 2025	5.71%
+Telia Company (TELIA1)	Oct 29, 2025	0.5		Nov 04, 2025	5.71%
+Telia Company (TLIA)	Oct 29, 2025	0.5		Nov 04, 2025	5.78%
+Thursday, October 30, 2025
+Husqvarna A (HUSQAs)	Oct 30, 2025	0.5		Nov 05, 2025	-
+Husqvarna B (0GTR)	Oct 30, 2025	0.5		Nov 05, 2025	1.83%
+Husqvarna B (HUSQBs)	Oct 30, 2025	0.5		Nov 05, 2025	1.73%
+UPM-Kymmene (0NV5)	Oct 30, 2025	0.75		Nov 07, 2025	5.33%
+UPM-Kymmene (UPM)	Oct 30, 2025	0.75		Nov 07, 2025	5.33%
+Friday, October 31, 2025
+Citadelome (CTF_u)	Oct 31, 2025	0.02		Nov 17, 2025	8.36%
+Energyome (ENI_u)	Oct 31, 2025	0.01		Nov 17, 2025	7.06%
+Wallenstam B (WALLb)	Oct 31, 2025	0.25		Nov 06, 2025	1.05%
+	A Brown Company Prf s (BRNP)	Nov 04, 2025	1.75		Dec 01, 2025	7.22%
+Volati Pref (VOLOpref)	Nov 04, 2025	10		Nov 10, 2025	6.31%
+Wednesday, November 5, 2025
+Investment Oresund (0RGB)	Nov 05, 2025	3.6		Nov 11, 2025	6.35%
+Investment Oresund (ORES)	Nov 05, 2025	3.6		Nov 11, 2025	6.21%
+NoHo Partners (NOHOP)	Nov 05, 2025	0.16		Nov 13, 2025	4.90%
+Thursday, November 6, 2025
+H&M B (0HBP)	Nov 06, 2025	3.4		Nov 12, 2025	4.75%
+H&M B (HEMS)	Nov 06, 2025	3.4		Nov 12, 2025	4.65%
+H&M B (HMb)	Nov 06, 2025	3.4		Nov 12, 2025	4.72%
+NCC A (NCCAs)	Nov 06, 2025	4.5		Nov 12, 2025	-
+NCC B (0OFP)	Nov 06, 2025	4.5		Nov 12, 2025	5.64%
+NCC B (NCCBs)	Nov 06, 2025	4.5		Nov 12, 2025	5.51%
+Friday, November 7, 2025
+Investor A (INVEAs)	Nov 07, 2025	1.45		Nov 13, 2025	1.81%
+Investor B (0NC6)	Nov 07, 2025	1.45		Nov 13, 2025	1.63%
+Investor B (1INVEB)	Nov 07, 2025	1.45		Nov 13, 2025	1.62%
+Investor B (INVEb)	Nov 07, 2025	1.45		Nov 13, 2025	1.63%
+Monday, November 10, 2025
+ASSA ABLOY B (0R87)	Nov 10, 2025	2.95		Nov 14, 2025	1.79%
+ASSA ABLOY B (ASSAb)	Nov 10, 2025	2.95		Nov 14, 2025	1.79%
+Duni AB (DUNI)	Nov 10, 2025	2.5		Nov 14, 2025	4.76%
+Tuesday, November 11, 2025
+Grupo Bolivar (SCA)	Nov 11, 2025	228		Nov 17, 2025	3.85%
+Friday, November 14, 2025
+Air T (AIRTP)	Nov 14, 2025	0.5		Nov 17, 2025	11.63%
+Pershing Square (PSHZF)	Nov 14, 2025	0.1646		Dec 19, 2025	1.22%
+Monday, November 17, 2025
+Aperam (0OLF)	Nov 17, 2025	0.425		Dec 12, 2025	5.82%
+Aperam (APAM)	Nov 17, 2025	0.425		Dec 12, 2025	5.82%
+Aperam (APAM)	Nov 17, 2025	0.425		Dec 12, 2025	5.80%
+Aperam (APAM)	Nov 17, 2025	0.425		Dec 12, 2025	5.82%
+Aperam (APMSF)	Nov 17, 2025	0.5		Dec 12, 2025	6.88%
+Know IT AB (KNOW)	Nov 17, 2025	1.15		Nov 21, 2025	1.51%
+Tuesday, November 18, 2025
+Aperam PK (APEMY)	Nov 18, 2025	0.44404		Dec 12, 2025	5.82%
+Wednesday, November 19, 2025
+Securitas B (0IAH)	Nov 19, 2025	2.25		Nov 25, 2025	2.90%
+Securitas B (SECUb)	Nov 19, 2025	2.25		Nov 25, 2025	2.89%
+Friday, November 21, 2025
+Cirtek Holdings Philippines Prf (TCB2A)	Nov 21, 2025	0.0228125		Dec 09, 2025	18.25%
+Tuesday, November 25, 2025
+Banco De Bogota (BBO)	Nov 25, 2025	133		Dec 01, 2025	5.43%
+Thursday, November 27, 2025
+Cirtek Holdings Philippines Prf (TCB2C)	Nov 27, 2025	1.767812		Dec 15, 2025	14.98%
+Cirtek Holdings Philippines Prf (TCB2D)	Nov 27, 2025	0.968825		Dec 15, 2025	8.00%
+Friday, November 28, 2025
+Citadelome (CTF_u)	Nov 28, 2025	0.02		Dec 15, 2025	8.36%
+Energyome (ENI_u)	Nov 28, 2025	0.01		Dec 15, 2025	7.06%
+	Cirtek Holdings Philippines Prf (TCB2B)	Dec 02, 2025	0.025		Dec 18, 2025	16.67%
+Thursday, December 4, 2025
+Aviva Pref (AV_p)	Dec 04, 2025	4.375		Dec 31, 2025	-
+FutureFuel (FF)	Dec 04, 2025	0.06		Dec 18, 2025	5.31%
+Tuesday, December 9, 2025
+Grupo Bolivar (SCA)	Dec 09, 2025	228		Dec 15, 2025	3.85%
+Wednesday, December 10, 2025
+Interconnection Electric (ISA)	Dec 10, 2025	506		Dec 16, 2025	6.11%
+Thursday, December 11, 2025
+Garmin (G1RM34)	Dec 11, 2025	2.4823769		Jan 01, 2026	1.53%
+Sirius Real Estate (SREJ)	Dec 11, 2025	35.9337		Jan 23, 2025	1.96%
+Walmart BDR (WALM34)	Dec 11, 2025	0.0566479		Jan 09, 2026	0.63%
+Walmart (1WMT)	Dec 11, 2025	0.235		Jan 05, 2026	0.97%
+Friday, December 12, 2025
+Garmin (GRMN)	Dec 12, 2025	0.9		Dec 26, 2025	1.57%
+Walmart DRC (WMTm)	Dec 12, 2025	0.013056		Jan 05, 2026	0.83%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	0.97%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	1.06%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	0.97%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	0.96%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	0.96%
+Walmart (WMT)	Dec 12, 2025	0.235		Jan 05, 2026	0.95%
+Tuesday, December 16, 2025
+ICE (ICE)	Dec 16, 2025	0.48		Dec 31, 2025	1.11%
+Wednesday, December 24, 2025
+British American Tobacco (BTIJ)	Dec 24, 2025	60.06		Feb 04, 2026	7.86%
+Friday, December 26, 2025
+Banco De Bogota (BBO)	Dec 26, 2025	133		Jan 01, 2026	5.43%
+Monday, December 29, 2025
+British American Tobacco (B1TI34)	Dec 29, 2025	0.8254111		Feb 13, 2026	7.24%
+Tuesday, December 30, 2025
+British American Tobacco ADR (BTI)	Dec 30, 2025	0.739068		Feb 09, 2026	7.59%
+Celsia (CEL)	Dec 30, 2025	155		Jan 05, 2026	16.76%
+Wednesday, December 31, 2025
+Citadelome (CTF_u)	Dec 31, 2025	0.02		Jan 15, 2026	8.36%
+Energyome (ENI_u)	Dec 31, 2025	0.01		Jan 15, 2026	7.06%
